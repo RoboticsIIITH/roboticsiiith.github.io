@@ -1,3 +1,12 @@
+- title: "HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork"
+  authors:  Bipasha Sen, Gaurav Singh, Aditya Agarwal, Rohith Agaram, K. Madhava Krishna, Srinath Sridhar
+  venue: NeurIPS 2023
+  link: # https://aadilmehdis.github.io/DRACO-Project-Page/
+    url: /publications/2023/Gaurav_HyP-NeRF
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Conceptfusion: Open-set multimodal 3d mapping"
   authors:  Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba
   venue: RSS 2023
