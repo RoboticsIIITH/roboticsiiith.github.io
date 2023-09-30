@@ -1,3 +1,45 @@
+- authors: Neeraj Pradhan, Roopak Dubey, K Madhava Krishna and Shubhajit Roy Chowdhury
+  link: #https://dl.acm.org/doi/pdf/10.1145/2506095.2506141
+    display: "Project Page"
+    url: /publications/2013/Neeraj_Low-Power-Two-Tier-GALS
+  title: Low Power Two-Tier GALS Architecture for Multi Robot Collision Avoidance
+  venue: AIR 2013
+- authors: Aravindh Mahendran, Ayush Dewan, Nikhil Soni and K Madhava Krishna
+  link: #https://dl.acm.org/doi/pdf/10.1145/2506095.2506116
+    display: "Project Page"
+    url: /publications/2013/Aravndh_UGV-MAV
+  title: UGV-MAV Collaboration for Augmented 2D Maps
+  venue: AIR 2013
+- authors: Tejas Parekh, Arun Kumar Singh and K Madhava Krishna
+  link: #https://dl.acm.org/doi/pdf/10.1145/2506095.2506117
+    display: "Project Page"
+    url: /publications/2013/Tejas_Multi-Robot-Collision
+  title: Multi Robot Collision Avoidance with Continuous Curvature Manoeuvres 
+  venue: AIR 2013
+- authors: Laxit Gavshinder and K. Madhava Krishna
+  link: #https://dl.acm.org/doi/pdf/10.1145/2506095.2506147
+    display: "Project Page"
+    url: /publications/2013/Laxit_Homography-based-Monocular
+  title: Homography based Monocular Dense Reconstruction for a Mobile Robot 
+  venue: AIR 2013
+- authors: Piyoosh Mukhija and K. Madhava Krishna
+  link: #https://dl.acm.org/doi/pdf/10.1145/2506095.2506144
+    display: "Project Page"
+    url: /publications/2013/Piyoosh_Mapping-a-Network
+  title: Mapping a Network of Roads for an On-road Navigating Robot  
+  venue: AIR 2013
+- authors: Sriranjan Rasakatla and K. Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6739563
+    display: "Project Page"
+    url: /publications/2013/Sriranjan_RAMA-1
+  title: RAMA-1 Highly Dexterous 48DOF Robotic Hand using magnetic spherical joints  
+  venue: ROBIO 2013
+- authors: Sriranjan Rasakatla and K. Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6739723
+    display: "Project Page"
+    url: /publications/2013/Sriranjan_WAY-GO
+  title: WAY-GO Torch :An intelligent flash light 
+  venue: ROBIO 2013
 - authors: Rahul Namdev, K. Madhava Krishna and C. V.  Jawahar
   link: ##http://robotics.iiit.ac.in/uploads/Main/Publications/Rahul_etal_ICRA_13.pdf
     display: "Project Page"
