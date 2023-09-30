@@ -1,6 +1,6 @@
 ---
 layout: project-page-new
-title: "Secured Multi-Robotic Active Localization without Exchange of Maps: A Case of Secure Cooperation Amongst Non-trusting Robots"
+title: "Secured Multi-Robotic Active Localization without Exchange of Maps:A Case of Secure Cooperation Amongst Non-trusting Robots"
 authors:
   - name: Sarat C Addepalli
     sup: #
