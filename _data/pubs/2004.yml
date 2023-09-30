@@ -3,7 +3,7 @@
     display: "Project Page"
     url: /publications/2004/Krishna_Role-of-Autonomy
   title: Role of Autonomy in a Distributed Sensor Network for Surveillance 
-  venue: IC-AI 2004
+  venue: ICAI 2004
 - authors: K Madhava Krishna, Henry Hexmoor, Subbarao Pasupuleti and Srinivas Chellapa
   link: https://cdn.aaai.org/FLAIRS/2004/Flairs04-026.pdf
     display: "Project Page"
@@ -14,6 +14,5 @@
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2004_1.pdf
     display: "Project Page"
     url: /publications/2004/Krishna_Reactive-Collision-Avoidance
-  title: Reactive Collision Avoidance of Multiple Moving Agents by Cooperation and
-    Conflict Propagation
+  title: Reactive Collision Avoidance of Multiple Moving Agents by Cooperation and Conflict Propagation
   venue: ICRA 2004
