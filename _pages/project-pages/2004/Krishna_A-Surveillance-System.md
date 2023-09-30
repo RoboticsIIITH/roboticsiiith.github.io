@@ -23,7 +23,7 @@ is based on a scheme of priority ascription to the target and the coordination m
 sensors. The priorities are computed with a fuzzy inference scheme. Coordination between sensors
 considers the geometry of the future target path and the number of expected observations a sensor is
 likely to make on the target. Simulation results validate the efficacy of the proposed methodology "
-paper: https://robotics.iiit.ac.in/uploads/Main/Publications/2004_2.pdf
+paper: https://cdn.aaai.org/FLAIRS/2004/Flairs04-026.pdf
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
 ---
