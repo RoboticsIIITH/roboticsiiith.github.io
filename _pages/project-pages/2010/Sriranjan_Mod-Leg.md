@@ -20,7 +20,7 @@ achieves compliance to the terrain using a combination of legs and
 electronically actuated universal spine. A unique simulator has been
 designed for this purpose. Some of the things we learned while
 developing this robotic system have been presented below."
-paper: https://robotics.iiit.ac.in/uploads/Main/Publications/2010_1.pdf
+paper: https://dl.acm.org/doi/pdf/10.1145/1836845.1836858
 # video: https://robotics.iiit.ac.in/videos/SuspensionBasedClimbingMechanism/arun_etal_iros10.mp4
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
