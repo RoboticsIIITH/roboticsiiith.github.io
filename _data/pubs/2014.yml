@@ -1,3 +1,21 @@
+- authors: Suryansh Kumar, M Siva Karthik and K. Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6906901
+    display: "Project Page"
+    url: /publications/2014/Suryansh_Markov
+  title: Markov Random Field based Small Obstacle Discovery over Images
+  venue: ICRA 2014
+- authors: Siddharth Tourani and K. Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7063732
+    display: "Project Page"
+    url: /publications/2014/Siddharth_Linear-Chain
+  title: Linear-Chain CRF Based Intersection Recognition
+  venue: ICVES 2014
+- authors: Siddharth Tourani and K. Madhava Krishna
+  link: #https://dl.acm.org/doi/pdf/10.1145/2683483.2683508
+    display: "Project Page"
+    url: /publications/2014/Siddharth_Monocular-Motion-Segmentation
+  title: Monocular Motion Segmentation Of Rigid Bodies Using In-Frame Shear Constraints.
+  venue: ICVGIP 2014
 - authors: Kumar Bipin, Vishakh Duggal, K. Madhava Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Bipin_etal_ICVES_14.pdf
     display: "Project Page"
