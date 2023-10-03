@@ -1,17 +1,17 @@
 ---
 layout: project-page-new
-title: "Understanding Dynamic Scenes using Graph Convolution Networks"
+title: "Dynamic Target Tracking & Collision Avoidance Behaviour of Person Following Robot Using Model Predictive Control*"
 authors:
   - name: Sravan Mylavarapu*
     sup: 1
   - name: Mahtab Sandhu*
-    sup: 2
+    sup: 1
   - name: Priyesh Vijayan
-    sup: 3
-  - name: K. Madhava Krishna
-    sup: 2
+    sup: 1
+  - name: K Madhava Krishna
+    sup: 1
   - name: Balaraman Ravindran
-    sup: 4
+    sup: 1
   - name: Anoop Namboodiri
     sup: 1
 affiliations:
