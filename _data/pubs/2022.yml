@@ -1,3 +1,57 @@
+- title: "Flow Synthesis Based Visual Servoing Frameworks for Monocular Obstacle Avoidance Amidst High-Rises"
+  authors: Harshit K. Sankhla*,M. Nomaan Qureshi*, Shankara Narayanan V.*, Vedansh Mittal, Gunjan Gupta, Harit Pandya and K. Madhava Krishna
+  venue: International Conference on Automation Science and Engineering (CASE), 2022
+  link: # https://arxiv.org/pdf/2207.03557.pdf
+    url: /publications/2022/Harshit_Flow-Synthesis
+    display: Project Page
+  id: mkrishna
+  featured: 1
+  
+- title: "Leveraging Distributional Bias For Reactive Collision Avoidance under Uncertainty: A Kernel Embedding Approach"
+  authors: Anish Gupta, Arun Kumar Singh and K. Madhava Krishna
+  venue: International Conference on Automation Science and Engineering (CASE), 2022
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926450
+    url: /publications/2022/Anish_Leveraging-Distribution-Bias
+    display: Project Page
+  id: mkrishna
+  featured: 1
+  
+- title: "UAV-based Visual Remote Sensing for Automated Building Inspection"
+  authors: Kushagra Srivastava⋆, Dhruv Patel⋆, Aditya Kumar Jha, Mohhit Kumar Jha, Jaskirat Singh, Ravi Kiran Sarvadevabhatla, Pradeep Kumar Ramancharla, Harikumar Kandath and K. Madhava Krishna
+  venue: European Conference on Computer Vision (ECCV), 2022
+  link: # https://arxiv.org/pdf/2209.13418.pdf
+    url: /publications/2022/Kushagra_UAV
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Drift Reduced Navigation with Deep Explainable Features"
+  authors: Mohd Omama, Sundar Sripada V. S., Sandeep Chinchali, Arun Kumar Singh and K. Madhava Krishna
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
+  link: # https://arxiv.org/pdf/2203.06897.pdf
+    url: /publications/2022/Mohd_Drift-Reduced-Navigation
+    display: Project Page
+  id: mkrishna
+  featured: 1
+  
+- title: "IndoLayout: Leveraging Attention for Extended Indoor Layout Estimation from an RGB Image"
+  authors: Shantanu Singh, Jaidev Shriram, Shaantanu Kulkarni, Brojeshwar Bhowmick and K. Madhava Krishna
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982106
+    url: /publications/2022/Shantanu_IndoLayout
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves"
+  authors: Pranjali Pathre, Anurag Sahu, Ashwin Rao, Avinash Prabhu, Meher Shashwat Nigam, Tanvi Karandikar, Harit Pandya and K. Madhava Krishna
+  venue: IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022
+  link: # https://arxiv.org/pdf/2211.16882.pdf
+    url: /publications/2022/Pranjali_MVRackLay
+    display: Project Page
+  id: mkrishna
+  featured: 1
+  
 - title: "CCO-VOXEL: Chance Constrained Optimization over Uncertain Voxel-Grid Representation for Safe Trajectory Planning"
   authors: Sudarshan S Harithas, Rishabh Dev Yadav, Deepak Singh, Arun Kumar Singh, K Madhava Krishna 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2022

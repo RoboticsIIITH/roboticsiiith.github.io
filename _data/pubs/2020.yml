@@ -1,3 +1,35 @@
+- title: "Towards adaptive autopilots for fixed-wing unmanned aerial vehicles"
+  authors: Simone Baldi, Spandan Roy and Kang Yang
+  
+  venue:  IEEE Conference on Decision and Control (CDC), 2020
+  link: #
+    url: /publications/2020/Simone_Towards-adaptive-autopilots
+    display: Project Page
+
+- title: "Reconstruct, Rasterize and Backprop: Dense shape and pose estimation from a single image"
+  authors: Aniket Pokale*, Aditya Aggarwal, Krishna Murthy Jatavallabhula and K. Madhava Krishna
+  
+  venue:  Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020
+  link: #
+    url: /publications/2020/Aniket_Reconstruct
+    display: Project Page
+
+- title: "Cosine meets Softmax: A tough-to-beat baseline for visual grounding"
+  authors: Nivedita Rufus, Unni Krishnan R Nair, K. Madhava Krishna, and Vineet Gandhi
+
+  venue:  European Conference on Computer Vision (ECCV) Workshops (2), 2020
+  link: #
+    url: /publications/2020/Nivedita_Cosine-meets-Softmax
+    display: Project Page
+    
+- title: "Dynamic Target Tracking & Collision Avoidance Behaviour of Person Following Robot Using Model Predictive Control*"
+  authors: Avijit Ashe and K. Madhava Krishna
+
+  venue: International Conference on System Theory, Control and Computing (ICSTCC), 2020
+  link: #
+    url: /publications/2020/Avijit_Dynamic-Target
+    display: Project Page
+
 - title: "DeepMPCVS: Deep Model Predictive Control for Visual Servoing"
   authors: Pushkal Katara, YVS Harish, Harit Pandya, Abhinav Gupta, AadilMehdi Sanchawala, Gourav Kumar, 
            Brojeshwar Bhowmick and K. Madhava Krishna
