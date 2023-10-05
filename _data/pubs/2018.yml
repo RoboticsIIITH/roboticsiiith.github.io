@@ -1,3 +1,9 @@
+- authors: Nayan Joshi*, Yogesh Sharma*, Parv Parkhiya, Rishabh Khawad, K. Madhava Krishna and Brojeshwar Bhowmick
+  link: #https://arxiv.org/pdf/1905.04698.pdf
+    display: "Project Page"
+    url: /publications/2018/Nayan_Integrating-Objects
+  title: Integrating Objects into Monocular SLAM:Line Based Category Specific Models
+  venue: ICVGIP 2018
 - authors: Vignesh Prasad, Karmesh Yadav, Saurabh Singh, Swapnil Daga, Nahas Pareekutty,
     K. Madhava Krishna, Balaraman Ravindran, and Brojeshwar Bhowmick
   link: #https://robotics.iiit.ac.in/people/vignesh.prasad/SLAMSafePlanner.html
