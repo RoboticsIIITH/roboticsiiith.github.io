@@ -1,3 +1,48 @@
+- title: "A new gripper that acts as an active and passive joint to facilitate prehensile grasping and locomotion"
+  authors: Nagamanikandan Govindan, Shashank Ramesh, and Asokan Thondiyath
+  venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981475
+    url: /publications/2022/Nagamanikandan_A-new-gripper
+    display: Project Page
+  id: nagamanikandan.g
+  featured: 1
+
+- title: "Adaptive single-stage control for uncertain nonholonomic Euler-Lagrange systems"
+  authors: Tian Tao, Spandan Roy and Simone Baldi
+  venue:  Conference on Decision and Control (CDC), 2022
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9993015
+    url: /publications/2022/Tian_Adaptive-single-stage
+    display: Project Page
+  id: spandan.roy
+  featured: 1
+
+- title: "Adaptive Artificial Time Delay Control for Quadrotors under State-dependent Unknown Dynamics"
+  authors: Swati Dantu, Rishabh Dev Yadav, Spandan Roy, Jinoh Lee and Simone Baldi
+  venue:  IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011673
+    url: /publications/2022/Swati_Adaptive-Artificial-Time-Delay
+    display: Project Page
+  id: spandan.roy
+  featured: 1
+
+- title: "Introducing Scissor Mechanism based Novel Reconfigurable Quadrotor:Design, Modelling and Control"
+  authors: B. V. S. G. Suraj, Viswa N. Sankaranarayanan, Rishabh Dev Yadav and Spandan Roy
+  venue:  IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10011781
+    url: /publications/2022/Suraj_Introducing-Scissor-Mechanism
+    display: Project Page
+  id: spandan.roy
+  featured: 1
+
+- title: "Optimal Connectivity during Multi-agent Consensus Dynamics via Model Predictive Control"
+  authors: Harikumar Kandath, Rajdeep Dutta and J. Senthilnath
+  venue: American Control Conference (ACC), 2022
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9867706
+    url: /publications/2022/Harikumar_Optimal-Connectivity
+    display: Project Page
+  id: harikumar.k
+  featured: 1
+
 - title: "Flow Synthesis Based Visual Servoing Frameworks for Monocular Obstacle Avoidance Amidst High-Rises"
   authors: Harshit K. Sankhla*,M. Nomaan Qureshi*, Shankara Narayanan V.*, Vedansh Mittal, Gunjan Gupta, Harit Pandya and K. Madhava Krishna
   venue: International Conference on Automation Science and Engineering (CASE), 2022

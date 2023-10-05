@@ -1,3 +1,12 @@
+- title: "Predictive Barrier Lyapunov Function Based Control for Safe Trajectory Tracking of an Aerial Manipulator"
+  authors:  Vedant Mundheda, Karan Mirakhor, Rahul K S, Harikumar Kandath and Nagamanikandan Govindan
+  venue: ECC 2023
+  link: # https://arxiv.org/pdf/2212.04625.pdf
+    url: /publications/2023/Vedant_Predictive-Barrier
+    display: Project Page
+  id: nagamanikandan.g
+  featured: 1
+
 - title: "HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork"
   authors:  Bipasha Sen, Gaurav Singh, Aditya Agarwal, Rohith Agaram, K. Madhava Krishna, Srinath Sridhar
   venue: NeurIPS 2023
