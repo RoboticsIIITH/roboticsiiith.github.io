@@ -1,3 +1,21 @@
+- title: "UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps"
+  authors:  Sudarshan S Harithas, Ayyappa Swamy Thatavarthy, Gurkirat Singh, Arun K Singh and K Madhava Krishna
+  venue: ACC 2023
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10156527
+    url: /publications/2023/Sudarshan_UrbanFly
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Learning Arc-Length Value Function for Fast Time-Optimal Pick and Place Sequence Planning and Execution"
+  authors:  Prajwal Thakur*, M. Nomaan Qureshi*, Arun Kumar Singh, Y V S Harish, Pushkal Katara, Houman Masnavi, K. Madhava Krishna and Brojeshwar Bhowmick
+  venue: IJCNN 2023
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10191434
+    url: /publications/2023/Prajwal_Learning-Arc-Length
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Predictive Barrier Lyapunov Function Based Control for Safe Trajectory Tracking of an Aerial Manipulator"
   authors:  Vedant Mundheda, Karan Mirakhor, Rahul K S, Harikumar Kandath and Nagamanikandan Govindan
   venue: ECC 2023
