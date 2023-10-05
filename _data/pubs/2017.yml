@@ -1,3 +1,33 @@
+- authors: Krishnam Gupta, Sarthak Upadhyay, Vineet Gandhi and K. Madhav Krishna
+  link: #https://dl.acm.org/doi/pdf/10.1145/3132446.3134889
+    display: "Project Page"
+    url: /publications/2017/Krishnam_Small-obstacle
+  title: Small obstacle detection using stereo vision for autonomous ground vehicle
+  venue: AIR 2017
+- authors: Harit Pandya and K. Madhava Krishna
+  link: #https://dl.acm.org/doi/pdf/10.1145/3132446.3134912
+    display: "Project Page"
+    url: /publications/2017/Harit_Graph
+  title: Graph Based Visual Servoing for Object Category
+  venue: AIR 2017
+- authors: Bharath Gopalakrishnan, Arun Kumar Singh, Meha Kaushik, K. Madhava Krishna and Dinesh Manocha
+  link: #https://arxiv.org/pdf/1608.05829.pdf
+    display: "Project Page"
+    url: /publications/2017/Bharath_Chance-constraint 
+  title: Chance constraint based multi agent navigation under uncertainty
+  venue: AIR 2017
+- authors: Utsav Shah, Rishabh Khawad and K Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989229
+    display: "Project Page"
+    url: /publications/2017/Utsav_Detecting
+  title: Detecting, Localizing, and Recognizing Trees with a Monocular MAV:Towards Preventing Deforestation
+  venue: ICRA 2017
+- authors: Roopal Nahar, Akanksha Baranwal and K.Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8324401
+    display: "Project Page"
+    url: /publications/2017/Roopal_FPGA
+  title: FPGA based Parallelized Architecture of Efficient Graph based Image Segmentation Algorithm
+  venue: ROBIO 2017
 - authors: Phaniteja S*, Parijat Dewangan*, Pooja Guhan, Abhishek Sarkar and K. Madhava
     Krishna
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Phaniteja_et_al_robio17.html
