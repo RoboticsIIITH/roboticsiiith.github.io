@@ -1,3 +1,23 @@
+- title: "Monocular Multi-Layer Layout Estimation for Warehouse Racks"
+  authors: Meher Shashwat Nigam, Avinash Prabhu, Anurag Sahu, Tanvi Karandikar, Puru Gupta,N. Sai Shankar,Ravi Kiran Sarvadevabhatla and K. Madhava Krishna
+  
+  venue:    Indian Conference on Computer Vision, Graphics & Image Processing (ICVGIP), 2021
+  link: # https://arxiv.org/pdf/2103.09174.pdf
+    url: /publications/2021/Meher_Monocular
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "GCExp: Goal-Conditioned Exploration for Object Goal Navigation"
+  authors: Gulshan Kumar, N. Sai Shankar, Himansu Didwania, R.D. Roychoudhury, Brojeshwar Bhowmick, and K. Madhava Krishna
+  
+  venue:    IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9515530
+    url: /publications/2021/Gulshan_GCExp
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Adaptive Synchronization of Uncertain Complex Networks under State-dependent a priori Interconnections"
   authors: Tian Tao, Spandan Roy and Simone Baldi
   
