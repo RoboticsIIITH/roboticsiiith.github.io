@@ -1,3 +1,21 @@
+- authors: Gurshaant Singh Malik, Krishna Gupta, Shubhajit Roy, Chowdhury and K Madhava Krishna
+  link: # https://dl.acm.org/doi/pdf/10.1145/2783449.2783461
+    display: "Project Page"
+    url: /publications/2015/Gurshaant_FPGA
+  title: FPGA based Hierarchical Architecture for Parallelizing RRT
+  venue: ECMR 2015
+- authors: Suril V. Shah, V. V. Anurag, A. H. Abdul Hafez and K. Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7251467
+    display: "Project Page"
+    url: /publications/2015/Suril_Swtiching-method
+  title: Switching method to Avoid Algorithmic Singularity in Vision-based Control of a Space Robot
+  venue: ICAR 2015
+- authors: Vishakh Duggal, Kumar Bipin, Arun Kumar Singh, Bharath Gopalakrishnan, Brijendra Kumar Bharti, Abdelaziz Khiat and K. Madhava Krishna
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7225672
+    display: "Project Page"
+    url: /publications/2015/Vishakh_Overtaking-Maneuvers
+  title: Overtaking Maneuvers by Non Linear Time Scaling over Reduced Set of Learned Motion Primitives.
+  venue: IV 2015
 - authors: Arun Kumar Singh, K. Madhava Krishna and Srikanth Saripalli
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Arun_etal_AURO_15.pdf
     display: "Project Page"

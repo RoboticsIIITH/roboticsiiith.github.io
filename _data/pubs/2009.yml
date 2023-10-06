@@ -1,3 +1,9 @@
+- authors: Sarat C Addepalli, Piyush Bansal, Kannan Srinathan and K Madhava Krishna.
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5066533
+    display: "Project Page"
+    url: /publications/2009/Sarat_Secured-Multi-Robotic
+  title: Secured Multi-Robotic Active Localization without Exchange of Maps:A Case of Secure Cooperation Amongst Non-trusting Robots
+  venue: ARES 2009
 - authors: Abhijit Kundu, K Madhava Krishna and Jayanthi Sivaswamy.
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/abhijit_etal_iros2009.pdf
     display: "Project Page"
@@ -50,7 +56,7 @@
     url: /publications/2009/Sawhney_On-Fast-Exploration
   title: On Fast Exploration in 2D and 3D Terrains with Multiple robots
   venue: AAMAS 2009
-- authors: ', Karthikeya Viswanath and K Madhava Krishna, to appear in'
+- authors: ',Karthikeya Viswanath and K Madhava Krishna, to appear in'
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2009_1.pdf
     display: "Project Page"
     url: 

@@ -1,3 +1,73 @@
+- title: "Adaptive Synchronization of Uncertain Complex Networks under State-dependent a priori Interconnections"
+  authors: Tian Tao, Spandan Roy and Simone Baldi
+  
+  venue:   IEEE Conference on Decision and Control (CDC), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9682967
+    url: /publications/2021/Tian_Adaptive-Synchronization
+    display: Project Page
+  id: spandan.roy
+  featured: 1
+  
+- title: "Adaptive Artificial Time Delay Control for Bipedal Walking with Robustification to State-dependent Constraint Forces"
+  authors: Amisha Bhaskar, Swati Dantu, Spandan Roy, Jinoh Lee and Simone Baldi
+  
+  venue:   International Conference on Advanced Robotics (ICAR), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9659482
+    url: /publications/2021/Amisha_Adaptive-Artificial-Time-Delay
+    display: Project Page
+  id: spandan.roy
+  featured: 1
+  
+- title: "Deep Neuromorphic Controller with Dynamic Topology for Aerial Robots"
+  authors: Basaran Bahadir Kocer, Mohamad Abdul Hady, Harikumar Kandath, Mahardhika Pratama and Mirko Kovac
+
+  venue:   IEEE International Conference on Robotics and Automation (ICRA), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561729
+    url: /publications/2021/Basaran_Deep-Neuromorphic-Controller
+    display: Project Page
+  id: harikumar.k
+  featured: 1
+
+- title: "Model predictive control based algorithm for multi-target tracking using a swarm of fixed wing UAVs"
+  authors: Animesh Sahu, Harikumar Kandath and K. Madhava Krishna
+
+  venue:   IEEE International Conference on Automation Science and Engineering (CASE), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551577
+    url: /publications/2021/Animesh_Model-predictive-control
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Maneuvering Intersections & Occlusions Using MPC-Based Prioritized Tracking for Differential Drive Person Following Robot*"
+  authors: Avijit Kumar Ashe and K. Madhava Krishna
+
+  venue:   IEEE International Conference on Automation Science and Engineering (CASE), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551618
+    url: /publications/2021/Avijit_Maneuvering-Intersections
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Followman: Control of Social Person Following Robot*"
+  authors: Avijit Kumar Ashe and K. Madhava Krishna
+
+  venue:   IEEE Intelligent Vehicles Symposium (IV), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9564950
+    url: /publications/2021/Avijit_Followman
+    display: Project Page
+  id: mkrishna
+  featured: 1
+  
+- title: "Probabilistic Collision Avoidance For Multiple Robots: A Closed Form PDF Approach"
+  authors: Josyula Gopala Krishna, Anirudha Ramesh and K.Madhava Krishna
+
+  venue:   IEEE Intelligent Vehicles Symposium (IV), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575767
+    url: /publications/2021/Josyula_Probabilistic-Collision
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 ############## ICRA Papers ##########################
 
 - title: "DRACO: Weakly Supervised Dense Reconstruction And Canonicalization of Objects"

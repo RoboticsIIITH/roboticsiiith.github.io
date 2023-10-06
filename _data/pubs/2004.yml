@@ -1,8 +1,18 @@
+- authors: K Madhava Krishna and Henry Hexmoor
+  link: #https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7835bff927428f34cb6a9142372e00c9615767cb
+    display: "Project Page"
+    url: /publications/2004/Krishna_Role-of-Autonomy
+  title: Role of Autonomy in a Distributed Sensor Network for Surveillance 
+  venue: ICAI 2004
+- authors: K Madhava Krishna, Henry Hexmoor, Subbarao Pasupuleti and Srinivas Chellapa
+  link: #https://cdn.aaai.org/FLAIRS/2004/Flairs04-026.pdf
+    display: "Project Page"
+    url: /publications/2004/Krishna_A-Surveillance-System
+  title: A Surveillance System based on Multiple Mobile Sensors
+  venue: FLAIRS 2004
 - authors: Madhava Krishna and Henry Hexmoor
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2004_1.pdf
     display: "Project Page"
     url: /publications/2004/Krishna_Reactive-Collision-Avoidance
-  title: Reactive Collision Avoidance of Multiple Moving Agents by Cooperation and
-    Conflict Propagation
+  title: Reactive Collision Avoidance of Multiple Moving Agents by Cooperation and Conflict Propagation
   venue: ICRA 2004
-
