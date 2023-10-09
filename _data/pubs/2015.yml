@@ -1,3 +1,15 @@
+- authors: T Komal Kumar, R. Kumar, S. Mogily, D. Goel, N. Pareekutty, S. V. Shah and K Madhava Krishna
+  link: # https://dl.acm.org/doi/pdf/10.1145/2783449.2783482
+    display: "Project Page"
+    url: /publications/2015/Komal_Implementation-of-Gaits
+  title: Implementation of Gaits for Achieving Omnidirectional Walking in a Quadruped Robot
+  venue: AIR 2015
+- authors: S Phani Teja, Sri Harsha, Avinash Siravuru, Suril V. Shah and K Madhava Krishna
+  link: # https://dl.acm.org/doi/pdf/10.1145/2783449.2783518
+    display: "Project Page"
+    url: /publications/2015/Phani_An-Improved-Compliant
+  title: An Improved Compliant Joint Design of a Modular Robot for Descending Big Obstacles
+  venue: AIR 2015
 - authors: Gurshaant Singh Malik, Krishna Gupta, Shubhajit Roy, Chowdhury and K Madhava Krishna
   link: # https://dl.acm.org/doi/pdf/10.1145/2783449.2783461
     display: "Project Page"
