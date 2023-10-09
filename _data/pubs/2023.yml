@@ -1,3 +1,12 @@
+- title: "Instance-Level Semantic Maps for Vision Language Navigation"
+  authors:  Laksh Nanwani, Anmol Agarwal, Kanishk Jain, Raghav Prabhakar, Aaron Monis, Aditya Mathur, Krishna Murthy Jatavallabhula, A. H. Abdul Hafez, Vineet Gandhi, K. Madhava Krishna
+  venue: IEEE RO-MAN 2023
+  link: # https://arxiv.org/pdf/2305.12363.pdf
+    url: /publications/2023/Laksh_Instance-Level
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps"
   authors:  Sudarshan S Harithas, Ayyappa Swamy Thatavarthy, Gurkirat Singh, Arun K Singh and K Madhava Krishna
   venue: ACC 2023
