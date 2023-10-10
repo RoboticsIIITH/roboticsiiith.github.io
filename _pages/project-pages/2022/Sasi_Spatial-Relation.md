@@ -35,8 +35,9 @@ affiliations:
     sup: 3
 permalink: /publications/2022/Sasi_Spatial-Relation/
 abstract: "This paper describes a framework for the objectgoal navigation task, which requires a robot to find and move to the closest instance of a target object class from a random starting position. The framework uses a history of robot trajectories to learn a Spatial Relational Graph (SRG) and Graph Convolutional Network (GCN)-based embeddings for the likelihood of proximity of different semantically-labeled regions and the occurrence of different object classes in these regions. To locate a target object instance during evaluation, the robot uses Bayesian inference and the SRG to estimate the visible regions, and uses the learned GCN embeddings to rank visible regions and select the region to explore next. This approach is tested using the Matterport3D benchmark dataset of indoor scenes in AI Habitat, a visually realistic simulation environment, to report substantial performance improvement in comparison with state of the art baselines."
+project_page: https://user432.github.io/objnav-srg/
 paper: https://arxiv.org/pdf/2208.13031v1.pdf
-code: https://user432.github.io/objnav-srg/
+#code: https://user432.github.io/objnav-srg/
 #video: https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/video.mp4
 #iframe: https://www.youtube.com/embed/mLv90hLakBk # https://www.youtube.com/embed/jhjskX4FQwA
 

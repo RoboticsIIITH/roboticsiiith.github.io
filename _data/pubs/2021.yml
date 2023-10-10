@@ -125,8 +125,8 @@
   authors: Ishaan Khare, Jyotish Poonganam, Bharath Gopalakrishnan and K. Madhava Krishna
 
   venue: IEEE European Control Conference (ECC), 2021
-  link: #
-    url:
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9655130
+    url: /publications/2021/Ishaan_Probabilistic-Inverse
     display: Project Page
   id: mkrishna
   featured: 0
@@ -135,8 +135,8 @@
   authors: Unni Krishnan R Nair\*, Anish Gupta\*, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah and K. Madhava Krishna
 
   venue: IEEE European Control Conference (ECC), 2021
-  link: #
-    url:
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9655044
+    url: /publications/2021/Unni_Non-Holonomic
     display: Project Page
   id: mkrishna
   featured: 0
@@ -158,7 +158,7 @@
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
   link: #
-    url:
+    url: /publications/2021/Ayyappa_Multi-view-Planarity
     display: Project Page
   id: mkrishna
   featured: 0
