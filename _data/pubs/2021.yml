@@ -168,8 +168,8 @@
            Michael Milford and K. Madhava Krishna
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
-  link: #
-    url:
+  link: # 
+    url: /publications/2021/Satyajit_Early-Bird
     display: Project Page
   id: mkrishna
   featured: 0
@@ -179,7 +179,7 @@
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
   link: #
-    url:
+    url: /publications/2021/Swapnil_BirdSLAM
     display: Project Page
 
 
@@ -198,7 +198,7 @@
 
   venue: Conference on Robots and Vision (CRV), 2021
   link: #
-    url:
+    url: /publications/2021/Mukul_Building-Facades
     display: Project Page
 
 - title: "An Output Feedback Based Robust Saturated Controller Design for Pavement Sweeping

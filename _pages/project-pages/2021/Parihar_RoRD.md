@@ -25,7 +25,9 @@ affiliations:
     sup: 2
 permalink: /publications/2021/Parihar_RoRD/
 abstract: "We present a novel framework that combines learning of invariant descriptors through data augmentation and orthographic viewpoint projection. We propose rotation-robust local descriptors, learnt through training data augmentation based on rotation homographies, and a correspondence ensemble technique that combines vanilla feature correspondences with those obtained through rotation-robust features. Using a range of benchmark datasets as well as contributing a new bespoke dataset for this research domain, we evaluate the effectiveness of the proposed approach on key tasks including pose estimation and visual place recognition."
-paper: https://uditsinghparihar.github.io/RoRD/
+project_page: https://uditsinghparihar.github.io/RoRD/
+paper: https://arxiv.org/abs/2103.08573
+code: https://github.com/UditSinghParihar/RoRD
 iframe: https://www.youtube.com/embed/4n6_6TMnlOc
 
 ---

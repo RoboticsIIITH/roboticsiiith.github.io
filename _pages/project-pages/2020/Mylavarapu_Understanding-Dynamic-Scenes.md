@@ -1,6 +1,6 @@
 ---
 layout: project-page-new
-title: "Dynamic Target Tracking & Collision Avoidance Behaviour of Person Following Robot Using Model Predictive Control*"
+title: "Understanding Dynamic Scenes using Graph Convolution Networks"
 authors:
   - name: Sravan Mylavarapu*
     sup: 1
