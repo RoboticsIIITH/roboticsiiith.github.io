@@ -1,3 +1,23 @@
+- title: "Monocular Multi-Layer Layout Estimation for Warehouse Racks"
+  authors: Meher Shashwat Nigam, Avinash Prabhu, Anurag Sahu, Tanvi Karandikar, Puru Gupta,N. Sai Shankar,Ravi Kiran Sarvadevabhatla and K. Madhava Krishna
+  
+  venue:    Indian Conference on Computer Vision, Graphics & Image Processing (ICVGIP), 2021
+  link: # https://arxiv.org/pdf/2103.09174.pdf
+    url: /publications/2021/Meher_Monocular
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "GCExp: Goal-Conditioned Exploration for Object Goal Navigation"
+  authors: Gulshan Kumar, N. Sai Shankar, Himansu Didwania, R.D. Roychoudhury, Brojeshwar Bhowmick, and K. Madhava Krishna
+  
+  venue:    IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2021
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9515530
+    url: /publications/2021/Gulshan_GCExp
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Adaptive Synchronization of Uncertain Complex Networks under State-dependent a priori Interconnections"
   authors: Tian Tao, Spandan Roy and Simone Baldi
   
@@ -105,8 +125,8 @@
   authors: Ishaan Khare, Jyotish Poonganam, Bharath Gopalakrishnan and K. Madhava Krishna
 
   venue: IEEE European Control Conference (ECC), 2021
-  link: #
-    url:
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9655130
+    url: /publications/2021/Ishaan_Probabilistic-Inverse
     display: Project Page
   id: mkrishna
   featured: 0
@@ -115,8 +135,8 @@
   authors: Unni Krishnan R Nair\*, Anish Gupta\*, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah and K. Madhava Krishna
 
   venue: IEEE European Control Conference (ECC), 2021
-  link: #
-    url:
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9655044
+    url: /publications/2021/Unni_Non-Holonomic
     display: Project Page
   id: mkrishna
   featured: 0
@@ -138,7 +158,7 @@
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
   link: #
-    url:
+    url: /publications/2021/Ayyappa_Multi-view-Planarity
     display: Project Page
   id: mkrishna
   featured: 0
@@ -148,8 +168,8 @@
            Michael Milford and K. Madhava Krishna
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
-  link: #
-    url:
+  link: # 
+    url: /publications/2021/Satyajit_Early-Bird
     display: Project Page
   id: mkrishna
   featured: 0
@@ -159,7 +179,7 @@
 
   venue: International Conference on Computer Vision Theory and Applications (VISAPP), 2021
   link: #
-    url:
+    url: /publications/2021/Swapnil_BirdSLAM
     display: Project Page
 
 
@@ -178,7 +198,7 @@
 
   venue: Conference on Robots and Vision (CRV), 2021
   link: #
-    url:
+    url: /publications/2021/Mukul_Building-Facades
     display: Project Page
 
 - title: "An Output Feedback Based Robust Saturated Controller Design for Pavement Sweeping

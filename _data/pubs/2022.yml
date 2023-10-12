@@ -1,3 +1,21 @@
+- title: "Object Goal Navigation using Data Regularized Q-Learning"
+  authors: Nandiraju Gireesh, D. A. Sasi Kiran, Snehasis Banerjee, Mohan Sridharan, Brojeshwar Bhowmick, Madhava Krishna
+  venue:  International Conference on Automation Science and Engineering (CASE), 2022
+  link: # https://arxiv.org/pdf/2208.13009.pdf
+    url: /publications/2022/Nandiraju_Object-Goal
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Spatial Relation Graph and Graph Convolutional Network for Object Goal Navigation"
+  authors: D. A. Sasi Kiran, Kritika Anand, Chaitanya Kharyal, Gulshan Kumar, Nandiraju Gireesh, Snehasis Banerjee, Ruddra dev Roychoudhury, Mohan Sridharan, Brojeshwar Bhowmick, Madhava Krishna
+  venue:  International Conference on Automation Science and Engineering (CASE), 2022
+  link: # https://arxiv.org/pdf/2208.13031v1.pdf
+    url: /publications/2022/Sasi_Spatial-Relation
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "A new gripper that acts as an active and passive joint to facilitate prehensile grasping and locomotion"
   authors: Nagamanikandan Govindan, Shashank Ramesh, and Asokan Thondiyath
   venue:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
@@ -10,7 +28,7 @@
 - title: "Adaptive single-stage control for uncertain nonholonomic Euler-Lagrange systems"
   authors: Tian Tao, Spandan Roy and Simone Baldi
   venue:  Conference on Decision and Control (CDC), 2022
-  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9993015
+  link: # https://ieeexplore.ieee.org/document/9993015
     url: /publications/2022/Tian_Adaptive-single-stage
     display: Project Page
   id: spandan.roy

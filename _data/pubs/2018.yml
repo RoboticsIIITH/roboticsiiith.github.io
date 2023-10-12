@@ -1,3 +1,27 @@
+- authors: Ganesh Iyer, J. Krishna Murthy, Gunshi Gupta, K. Madhava Krishna and Liam Paull
+  link: #https://arxiv.org/pdf/1804.03789.pdf
+    display: "Project Page"
+    url: /publications/2018/Ganesh_Geometric-Consistency
+  title: Geometric Consistency for Self-Supervised End-to-End Visual Odometry
+  venue: CVPR 2018
+- authors: Meha Kaushik, K. Madhava Krishna
+  link: #https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Kaushik_Learning_Driving_Behaviors_for_Automated_Cars_in_Unstructured_Environments_ECCVW_2018_paper.pdf
+    display: "Project Page"
+    url: /publications/2018/Meha_Learning-Driving-Behaviors
+  title: Learning Driving Behaviors for Automated Cars in Unstructured Environments
+  venue: ECCV 2018
+- authors: Mahtab Sandhu, Sarthak Upadhyay, Madhava Krishna, and Shanti Medasani
+  link: #https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Sandhu_Motion_Segmentation_Using_Spectral_Clustering_on_Indian_Road_Scenes_ECCVW_2018_paper.pdf
+    display: "Project Page"
+    url: /publications/2018/Mahtab_Motion-Segmentation
+  title: Motion Segmentation Using Spectral Clustering on Indian Road Scenes
+  venue: ECCV 2018
+- authors: Phaniteja S, Parijat Dewangan, Pooja Guhan, Madhava Krishna K and Abhishek Sarkar
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8624979
+    display: "Project Page"
+    url: /publications/2018/Phaniteja_Learning-Dual-Arm
+  title: Learning Dual Arm Coordinated Reachability Tasks in a Humanoid Robot with Articulated Torso
+  venue: Humanoids 2018
 - authors: Nayan Joshi*, Yogesh Sharma*, Parv Parkhiya, Rishabh Khawad, K. Madhava Krishna and Brojeshwar Bhowmick
   link: #https://arxiv.org/pdf/1905.04698.pdf
     display: "Project Page"

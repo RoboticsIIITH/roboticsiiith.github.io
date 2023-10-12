@@ -1,3 +1,11 @@
+- title: "Learning Adaptive Driving Behavior Using Recurrent Deterministic Policy Gradients"
+  authors: Kaustubh Mani, Meha Kaushik, Nirvan Singhania and K. Madhava Krishna
+
+  venue: IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019
+  link: #
+    url: /publications/2019/Kaustubh_Learning-Adaptive-Driving
+    display: Project Page
+
 - title: "Model Predictive Control for Autonomous Driving considering Actuator Dynamics"
   authors: Mithun Babu, Raghu Ram Theerthala, Arun Kumar Singh, Baladhurgesh B.P., Bharath Gopalakrishnan, 
            K. Madhava Krishna, Shanti Medasani
@@ -7,6 +15,7 @@
     url: /publications/2019/Babu_Model-Predictive-Control
     display: Project Page
 
+- title: "PIVO: Probabilistic Inverse Velocity Obstacle for Navigation under Uncertainty"
   authors: "P. S. Naga Jyotish*, Yash Goel*, A. V. S. Sai Bhargav Kumar, K. Madhava Krishna"
 
   venue: 28th IEEE International Conference on Robot and Human Interactive Communication (RoMAN), 2019
