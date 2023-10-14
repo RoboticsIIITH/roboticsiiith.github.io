@@ -1,3 +1,12 @@
+- title: "CLIPGraphs: Multimodal Graph Networks to Infer Object-Room Affinities"
+  authors:  Ayush Agrawal, Raghav Arora, Ahana Datta, Snehasis Banerjee, Brojeshwar Bhowmick, Krishna Murthy Jatavallabhula, Mohan Sridharan, Madhava Krishna
+  venue: IEEE RO-MAN 2023
+  link: # https://arxiv.org/pdf/2306.01540.pdf
+    url: /publications/2023/Ayush_CLIPGraphs
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Instance-Level Semantic Maps for Vision Language Navigation"
   authors:  Laksh Nanwani, Anmol Agarwal, Kanishk Jain, Raghav Prabhakar, Aaron Monis, Aditya Mathur, Krishna Murthy Jatavallabhula, A. H. Abdul Hafez, Vineet Gandhi, K. Madhava Krishna
   venue: IEEE RO-MAN 2023
