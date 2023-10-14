@@ -9,19 +9,28 @@ authors:
   - name: Ahana Datta
     sup: 1
   - name: Snehasis Banerjee
-    sup: 1
+    sup: 1, 2
   - name: Brojeshwar Bhowmick
-    sup: 1
+    sup: 2
   - name: Krishna Murthy Jatavallabhula
-    sup: 1
+    sup: 3
   - name: Mohan Sridharan
-    sup: 1
+    sup: 4
   - name: Madhava Krishna
     sup: 1
 affiliations:
   - name: IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
+  - name: TCS Research, Tata Consultancy Services, India
+    link: #
+    sup: 2
+  - name: CSAIL, Massachusetts Institute of Technology, USA
+    link: #
+    sup: 3
+  - name: Intelligent Robotics Lab, University of Birmingham, UK
+    link: #
+    sup: 4
 permalink: /publications/2023/Ayush_CLIPGraphs/
 abstract: "This paper introduces a novel method for determining the best room to place an object in, for embodied scene rearrangement. While state-of-the-art approaches rely on large language models (LLMs) or reinforcement learned (RL) policies for this task, our approach, CLIPGraphs, efficiently combines commonsense domain knowledge, data-driven methods, and recent advances in multimodal learning. Specifically, it (a) encodes a knowledge graph of prior human preferences about the room location of different objects in home environments,
 (b) incorporates vision-language features to support multimodal
