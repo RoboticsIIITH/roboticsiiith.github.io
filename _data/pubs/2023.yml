@@ -1,8 +1,8 @@
-- title: "Object Rearrangement in Complex Scenes Using Non-Prehensile Action"
+- title: "Disentangling Planning and Control for Non-prehensile Tabletop Manipulation"
   authors:  Vishal Reddy Mandadi, Kallol Saha, Dipanwita Guhathakurta, Nomaan Qureshi, Aditya Agarwal, Bipasha Sen, Dipanjan Das, Brojeshwar Bhowmick, Arun Singh, and Madhava Krishna
   venue: CASE 2023
-  link: # https://iiitaphyd-my.sharepoint.com/personal/admin_kcis_iiit_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Fkcis%5Fiiit%5Fac%5Fin%2FDocuments%2FRobotics%20Research%20Center%2FFinal%5FSubmission2%5Fcompressed%2Epdf&parent=%2Fpersonal%2Fadmin%5Fkcis%5Fiiit%5Fac%5Fin%2FDocuments%2FRobotics%20Research%20Center
-    url: /publications/2023/Vishal_Object-Rearrangement
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260462
+    url: /publications/2023/Vishal_Disentangling-Planning
     display: Project Page
   id: mkrishna
   featured: 1
