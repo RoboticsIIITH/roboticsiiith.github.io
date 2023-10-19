@@ -18,7 +18,7 @@ and optical flow based constraints into a dense CRF-model we infer both the obje
 based algorithm. Our method outperfo rms recently proposed motion detection algorithms and also improves the semantic labeling compared to the state-of-the-art Automatic Labeling Environment algorithm on the challenging KITTI dataset especially for object classes such as pedestrians and
 cars that are critical to an outdoor robotic navigation scenario."
 paper: https://robotics.iiit.ac.in/uploads/Main/Publications/Dinesh_etal_ICVGIP_14.pdf
-video: https://robotics.iiit.ac.in/videos/Semantic_Motion_Segmentation.mp4
-# iframe: https://www.youtube.com/embed/jhjskX4FQwA
+#video: https://robotics.iiit.ac.in/videos/Semantic_Motion_Segmentation.mp4
+iframe: https://www.youtube.com/embed/TR1dkKaNSVc
 
 ---
