@@ -20,7 +20,7 @@ while the low level collision avoidance maneuvers are left with the individual R
 RAs navigate the intersection without a superior direction from the IAs through priorities or when IAs direct the RAs based on priorities computed on a first come first served basis. We show
 performance gain over both these methods in simulations."
 paper: https://robotics.iiit.ac.in/uploads/Main/Publications/Robio_teja.pdf
-video: http://robotics.iiit.ac.in/videos/TrafficManagement/teja_etal_robio08.wmv
+#video: http://robotics.iiit.ac.in/videos/TrafficManagement/teja_etal_robio08.wmv
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
 ---
