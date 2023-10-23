@@ -36,7 +36,7 @@
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2008_6.pdf
     display: "Project Page"
     url: /publications/2008/Handa_Person
-  title: Person following by a mobile robot
+  title: Person following by a mobile robot using a modified optical flow
   venue: CLAWAR 2008
 - authors: Hemanth Korapatti, S Subhash, K Madhava Krishna and A K Pandey
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/2008_9.pdf

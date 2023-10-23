@@ -19,7 +19,7 @@ lie on the corresponding epipolar lines in subsequent images. In the second cons
 or dynamic based on the above geometric properties and the probabilities are updated when the pixels are tracked in subsequent images. The same framework also accounts for the error in estimation of camera motion. Successful and repeatable detection and pursuit of people and other moving objects in
 realtime with a monocular camera mounted on the Pioneer 3DX, in a cluttered environment confirms the efficacy of the method."
 paper: https://robotics.iiit.ac.in/uploads/Main/Publications/abhijit_etal_iros2009.pdf
-video: http://robotics.iiit.ac.in/videos/MultiBodyVSLAM/mot-det-iros09.wmv
+#video: http://robotics.iiit.ac.in/videos/MultiBodyVSLAM/mot-det-iros09.wmv
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
 ---

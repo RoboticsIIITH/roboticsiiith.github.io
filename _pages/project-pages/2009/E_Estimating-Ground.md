@@ -19,7 +19,7 @@ result in formation of new planes. Scan points that do not belong to any of the 
 is decomposed into linear clusters, we compare the quality of the terrain representation due to three such clustering methods, one by iterative end point fit, other by adaptive breakpoint
 detection and thirdly the current method based on adaptive cosine similarity."
 paper: https://robotics.iiit.ac.in/uploads/Main/Publications/2009_4.pdf
-video: https://robotics.iiit.ac.in/videos/OutdoorTerrain/Yaso_etal_ICAR09.mp4
+#video: https://robotics.iiit.ac.in/videos/OutdoorTerrain/Yaso_etal_ICAR09.mp4
 # iframe: https://www.youtube.com/embed/jhjskX4FQwA
 
 ---

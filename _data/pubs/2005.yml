@@ -8,7 +8,7 @@
   link: #http://robotics.iiit.ac.in/uploads/Main/Publications/1.pdf
     display: "Project Page"
     url: /publications/2005/Krishna_A-Constrained-Optimal-Multi-Sensor
-  title: An optimal multi-sensor based object tracking algorithm for surveillence
+  title: A constrained optimal multi-sensor based object tracking algorithm for surveillence
     systems
   venue: IICAI 2005
 - authors: K Madhava Krishna and Prem K Kalra

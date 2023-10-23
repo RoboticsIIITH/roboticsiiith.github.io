@@ -1,6 +1,6 @@
 ---
 layout: project-page-new
-title: "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping"
+title: "GDIP: Object-Detection in Adverse Weather Conditions Using Gated Differentiable Image Processing"
 authors:
   - name: S Sanket Kalwar
     sup: 1
