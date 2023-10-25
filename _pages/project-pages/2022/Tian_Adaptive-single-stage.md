@@ -9,8 +9,7 @@ authors:
   - name: Simone Baldi
     sup: 3
 affiliations:
-  - name: Delft Center for Systems and Control, Delft University
-  of Technology (TU Delft), Netherlands
+  - name: Delft University of Technology (TU Delft), Netherlands
     link: #
     sup: 1
   - name: Robotics Research Center, IIIT Hyderabad

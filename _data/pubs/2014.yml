@@ -37,7 +37,7 @@
   title: CRF Based Frontier Detection using Monocular Camera.
   venue: ICVGIP 2014
 - authors: M. Siva Karthik, Sudhanshu Mittal and K.Madhava Krishna
-  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Siva_etal_ICVGIP_14.pdf
+  link: #https://dl.acm.org/doi/pdf/10.1145/2683483.2683544
     display: "Project Page"
     url: /publications/2014/Karthik_Guess-from-Far
   title: 'Guess from Far, Recognize when Near: Searching the Floor for Small Objects.'
