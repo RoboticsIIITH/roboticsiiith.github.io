@@ -5,7 +5,7 @@
   title: Implementation of Gaits for Achieving Omnidirectional Walking in a Quadruped Robot
   venue: AIR 2015
 - authors: S Phani Teja, Sri Harsha, Avinash Siravuru, Suril V. Shah and K Madhava Krishna
-  link: # https://dl.acm.org/doi/pdf/10.1145/2783449.2783518
+  link: #https://dl.acm.org/doi/pdf/10.1145/2783449.2783518
     display: "Project Page"
     url: /publications/2015/Phani_An-Improved-Compliant
   title: An Improved Compliant Joint Design of a Modular Robot for Descending Big Obstacles
@@ -19,7 +19,7 @@
 - authors: Suril V. Shah, V. V. Anurag, A. H. Abdul Hafez and K. Madhava Krishna
   link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7251467
     display: "Project Page"
-    url: /publications/2015/Suril_Swtiching-method
+    url: /publications/2015/Suril_Switching-method
   title: Switching method to Avoid Algorithmic Singularity in Vision-based Control of a Space Robot
   venue: ICAR 2015
 - authors: Vishakh Duggal, Kumar Bipin, Arun Kumar Singh, Bharath Gopalakrishnan, Brijendra Kumar Bharti, Abdelaziz Khiat and K. Madhava Krishna
@@ -44,7 +44,7 @@
   venue: RAS 2015
 - authors: Akhil Nagariya, Bharath Gopalakrishnan, Arun Kumar Singh, Krishnam Gupta
     and K. Madhava Krishna
-  link: #http://robotics.iiit.ac.in/uploads/Main/Publications/Akhil_etal_CDC_15.pdf
+  link: #https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7402636
     display: "Project Page"
     url: /publications/2015/Nagariya_Mobile-Robot-Navigation
   title: 'Mobile robot navigation amidst humans with intents and uncertainties : A
