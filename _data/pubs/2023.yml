@@ -15,6 +15,15 @@
     display: Project Page
   id: mkrishna
   featured: 1
+  
+- title: "A Novel Hybrid Gripper Capable of Grasping and Throwing Manipulation"
+  authors:  Nagamanikandan Govindan, Bharadhwaj Ramachandran, Pasala Haasith Venkata Sai, K. Madhava Krishna
+  venue: IEEE/ASME Transactions on Mechatronics
+  link: # https://ieeexplore.ieee.org/document/10107527
+    url: /publications/2023/Nagamanikandan_Throwing
+    display: Project Page
+  id: nagamanikandan.g
+  featured: 1
 
 - title: "Instance-Level Semantic Maps for Vision Language Navigation"
   authors:  Laksh Nanwani, Anmol Agarwal, Kanishk Jain, Raghav Prabhakar, Aaron Monis, Aditya Mathur, Krishna Murthy Jatavallabhula, A. H. Abdul Hafez, Vineet Gandhi, K. Madhava Krishna
