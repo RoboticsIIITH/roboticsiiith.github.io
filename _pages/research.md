@@ -165,6 +165,18 @@ The underactuated gripper can grasp objects with active actuation and land on an
 
 ---
 
+#### Throwing Manipulation
+Throwing motion is known for phenomenally fast rearrangement, sorting tasks, and placing the object outside the limited workspace with less effort. However, in the robotics domain, despite many simple yet versatile, mechanically intelligent grippers reported earlier, they focus primarily on achieving robust grasping and dexterous manipulation. This work presents a novel design of a single actuator driven hybrid gripper with mechanically coupled rigid links and elastic gripping surface; this arrangement provides the dual function of versatile grasping and throwing manipulation.
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://i.ytimg.com/vi/1REb7JnupX8/maxresdefault.jpg" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://www.youtube.com/embed/1REb7JnupX8" >
+</button>
+</div>
+<center>  A Novel Hybrid Gripper Capable of Grasping and Throwing Manipulation </center>
+</div>
+
+
 ## Mobile manipulation
 Performing mobile manipulation tasks in a home-like environment require a synergy of navigation, manipulation, and interaction with the environment. In line with it, students at RRC are developing a proof-of-concept of a mobile manipulation system to demonstrate tasks involving human commands, typically picking and placing an object in a partially unstructured environment. Other than typical pick-and-place tasks, students are also working on various research threads (like model-based manipulation) to make the real physical robots perform fine manipulation tasks such as pushing, sliding, striking, throwing, etc. 
 
