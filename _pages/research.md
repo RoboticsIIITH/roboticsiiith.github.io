@@ -178,7 +178,16 @@ Throwing motion is known for phenomenally fast rearrangement, sorting tasks, and
 
 
 ## Mobile manipulation
-Performing mobile manipulation tasks in a home-like environment require a synergy of navigation, manipulation, and interaction with the environment. In line with it, students at RRC are developing a proof-of-concept of a mobile manipulation system to demonstrate tasks involving human commands, typically picking and placing an object in a partially unstructured environment. Other than typical pick-and-place tasks, students are also working on various research threads (like model-based manipulation) to make the real physical robots perform fine manipulation tasks such as pushing, sliding, striking, throwing, etc. 
+Performing mobile manipulation tasks in a home-like environment require a synergy of navigation, manipulation, and interaction with the environment. In line with it, students at RRC are developing a proof-of-concept of a mobile manipulation system to demonstrate tasks involving human commands, typically picking and placing an object in a partially unstructured environment. Other than typical pick-and-place tasks, students are also working on various research threads (like model-based manipulation) to make the real physical robots perform fine manipulation tasks such as pushing, sliding, striking, throwing, etc.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://i.ytimg.com/vi/tXGL7ALfNuw/maxresdefault.jpg" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://www.youtube.com/embed/tXGL7ALfNuw" >
+</button>
+</div>
+<center>  Mobile Manipulation using (7+3) D.O.F Manipulator </center>
+</div>
 
 <center><img src="{{ site.url }}{{ site.baseurl }}images/research/Mobile Manipulator_RRC.png" class="img-responsive" width="50%" style="float: center"></center>
 
