@@ -34,6 +34,18 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
 
 <!-- For some of our group highlights and representative work, you can see them on the [highlights]() page.  -->
 
+### 2024
+
+{% for publi in site.data.pubs.2024 %}
+  
+  <b> {{ publi.title }} <br /> </b> 
+  <em>{{ publi.authors }} </em> <br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
 ### 2023
 
 {% for publi in site.data.pubs.2023 %}

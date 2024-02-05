@@ -2,11 +2,11 @@
 layout: project-page-new
 title: "AnyLoc: Towards Universal Visual Place Recognition"
 authors:
-  - name: Nikhil Keetha
+  - name: Nikhil Keetha*
     sup: 1
-  - name: Avneesh Mishra
+  - name: Avneesh Mishra*
     sup: 2
-  - name: Jay Karhade
+  - name: Jay Karhade*
     sup: 1
   - name: Krishna Murthy Jatavallabhula
     sup: 3
