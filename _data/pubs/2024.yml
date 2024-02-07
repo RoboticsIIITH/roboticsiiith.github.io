@@ -6,3 +6,12 @@
     display: Project Page
   id: mkrishna
   featured: 1
+
+- title: "FinderNet: A Data Augmentation Free Canonicalization aided Loop Detection and Closure technique for Point clouds in 6-DOF separation."
+  authors:  Sudarshan S Harithas, Gurkirat Singh, Aneesh Chavan, Sarthak Sharma, Suraj Patni, Chetan Arora, Madhava Krishna
+  venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: # https://arxiv.org/pdf/2304.01074.pdf
+    url: /publications/2024/Sudarshan_FinderNet
+    display: Project Page
+  id: mkrishna
+  featured: 1
