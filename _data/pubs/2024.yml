@@ -1,17 +1,8 @@
 - title: "AnyLoc: Towards Universal Visual Place Recognition"
   authors:  Nikhil Keetha, Avneesh Mishra, Jay Karhade, Krishna Murthy Jatavallabhula, Sebastian Scherer, Madhava Krishna, Sourav Garg
   venue: ICRA 2024
-  link: # https://arxiv.org/abs/2308.00688
+  link: # https://ieeexplore.ieee.org/document/10260462
     url: /publications/2024/Nikhil_AnyLoc
     display: Project Page
   id: mkrishna
-  featured: 1
-
-- title: "FinderNet: A Data Augmentation Free Canonicalization aided Loop Detection and Closure technique for Point clouds in 6-DOF separation."
-  authors:  Sudarshan S Harithas, Gurkirat Singh, Aneesh Chavan, Sarthak Sharma, Suraj Patni, Chetan Arora, Madhava Krishna
-  venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
-  link: # https://arxiv.org/pdf/2304.01074.pdf
-    url: /publications/2024/Sudarshan_FinderNet
-    display: Project Page
-  id: mkrishna
-  featured: 1
+  featured: 1  

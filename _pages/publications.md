@@ -34,6 +34,32 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
 
 <!-- For some of our group highlights and representative work, you can see them on the [highlights]() page.  -->
 
+<!-- {{ (2000..2024) | join: " | " }} -->
+
+<!-- {{ "2000" | (2001..2024) | join: " | " }} -->
+
+<!-- {% assign years = "" %}
+{% for year in (2024..2001) %}
+  {% assign years = years | append: year %}
+  {% unless forloop.last %}{% assign years = years | append: " \| " %}{% endunless %}
+{% endfor %}
+{{ years }} -->
+
+{% assign years = (2001..2024) | reverse %}
+{{ years | join: " \| " }}
+
+### 2024
+
+{% for publi in site.data.pubs.2024 %}
+  
+  <b> {{ publi.title }} <br /> </b> 
+  <em>{{ publi.authors }} </em> <br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
+
 ### 2023
 
 {% for publi in site.data.pubs.2023 %}

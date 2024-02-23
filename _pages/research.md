@@ -7,14 +7,17 @@ permalink: /research/
 ---
 
 # Research
-The following is a non-exhaustive list of the research areas and projects at RRC. 
+RRC is dedicated towards buidling next generation robots, that can assist humans in day-to-day life, providng care, safety, and comfort.  
 
----
+## Research Areas at RRC
 
+- [Autonomous Driving](#autonomous-driving)
+- [Robotic Vision](#robotic-vision)
+- [Arial Robots and Control](#arial-robots-and-control)
+- [Robot and mechanism design](#robot-and-mechanism-design)
+- [Mobile manipulation](#mobile-manipulation)
 
-
-
-## Autonomous Driving
+## Autonomous Driving <a name="autonomous-driving"></a>
 
 
 #### *Self-Driving Car*
@@ -59,7 +62,7 @@ Trajectory Optimizer: In Trajectory optimization, we optimize a trajectory that
 
 ---
 
-## Robotic Vision
+## Robotic Vision <a name="robotic-vision"></a>
 
 
 #### *Autonomous Indoor Wheel Chair for Social Applications*
@@ -91,7 +94,7 @@ Object detection is challenging under adverse weather conditions (such as fog or
 
 ---
 
-## Arial Robots and Control
+## Arial Robots and Control <a name="arial-robots-and-control"></a>
 
 #### *Non-Linear Control of Quadrotors*
 Quadrotors find a vast potential use in delivery and disaster relief operations. Control becomes critical in such scenarios, especially when quadrotors have to manoeuvre through constrained spaces or deliver payloads at precise locations in the presence of external disturbances and parametric uncertainties stemming from uncertain payloads. Therefore, the controller has to guarantee a predefined tracking accuracy not to violate the state constraints . On the other hand, conventional fixed-valued state constraints are not suitable in many scenarios such as (i) initial offset being well beyond the expected accuracy, (ii) system dynamics experiencing significant transients due to the dropping of the payload. However, to the best of the authors’ knowledge, state-of-the-art controllers do not provide any solution for an underactuated system like a quadrotor when the system needs to honour time-varying constraints under uncertainties. This work proposes a controller for quadrotors which is robust against external disturbances and parametric variations and guarantees a time-varying predefined position, velocity, attitude, and attitude-rate accuracy. The closed-loop system stability is established analytically, and the effectiveness of the proposed controller is validated experimentally compared to the state-of-the-art under a precision payload delivery scenario.
@@ -149,7 +152,7 @@ A UAV-based remote sensing system incorporated with computer vision has demonstr
 
 ---
 
-## Robot and mechanism design
+## Robot and mechanism design <a name="robot-and-mechanism-design"></a>
 
 Robots don’t need to look like a human or other biological agents. Unconventional robot designs with novel mechanisms can be synthesized to perform multiple functionalities with less design complexity that sometimes may outperform biological agents. RRC is working on different novel robotic designs for manipulation and locomotion – like throwing, perching, adaptive landing, pollination, and so on.
 
@@ -165,7 +168,7 @@ The underactuated gripper can grasp objects with active actuation and land on an
 
 ---
 
-#### Throwing Manipulation
+#### Throwing Manipulation 
 Throwing motion is known for phenomenally fast rearrangement, sorting tasks, and placing the object outside the limited workspace with less effort. However, in the robotics domain, despite many simple yet versatile, mechanically intelligent grippers reported earlier, they focus primarily on achieving robust grasping and dexterous manipulation. This work presents a novel design of a single actuator driven hybrid gripper with mechanically coupled rigid links and elastic gripping surface; this arrangement provides the dual function of versatile grasping and throwing manipulation.
 <div class="video">
 <div class="video__youtube" data-youtube>
@@ -177,7 +180,7 @@ Throwing motion is known for phenomenally fast rearrangement, sorting tasks, and
 </div>
 
 
-## Mobile manipulation
+## Mobile manipulation <a name="mobile-manipulation"></a>
 Performing mobile manipulation tasks in a home-like environment require a synergy of navigation, manipulation, and interaction with the environment. In line with it, students at RRC are developing a proof-of-concept of a mobile manipulation system to demonstrate tasks involving human commands, typically picking and placing an object in a partially unstructured environment. Other than typical pick-and-place tasks, students are also working on various research threads (like model-based manipulation) to make the real physical robots perform fine manipulation tasks such as pushing, sliding, striking, throwing, etc.
 
 <div class="video">
