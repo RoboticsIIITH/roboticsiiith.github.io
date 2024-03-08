@@ -1,3 +1,12 @@
+- title: "FinderNet: A Data Augmentation Free Canonicalization aided Loop Detection and Closure technique for Point clouds in 6-DOF separation"
+  authors: Sudarshan S, Harithas Gurkirat, Singh Aneesh Chavan, Sarthak Sharma, Suraj Patni, Chetan Arora, Madhava Krishna
+  venue: ICRA 2024
+  link: # https://arxiv.org/pdf/2308.00688.pdf
+    url: /publications/2024/Sudarshan_FinderNet
+    display: Project Page
+  id: mkrishna
+  featured: 1  
+
 - title: "AnyLoc: Towards Universal Visual Place Recognition"
   authors:  Nikhil Keetha, Avneesh Mishra, Jay Karhade, Krishna Murthy Jatavallabhula, Sebastian Scherer, Madhava Krishna, Sourav Garg
   venue: ICRA 2024
@@ -6,3 +15,5 @@
     display: Project Page
   id: mkrishna
   featured: 1  
+
+

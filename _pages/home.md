@@ -40,6 +40,12 @@ The Robotics Research Center (RRC) is a part of the International Institute of I
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rrc6.jpg" alt="Slide 6" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rrc7.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rrc8.jpg" alt="Slide 5" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
