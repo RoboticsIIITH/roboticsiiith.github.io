@@ -17,12 +17,12 @@ permalink: /uasat/
 <div class='eu-header-row'>
 <div class="col1">
 
-  ![Image Alt Text](/images/eufunding/MeitY.jpg)
+  ![Image Alt Text](/images/uasat/MeitY.jpg)
 
 </div>
 
 <div class="col1">
-  ![Image Alt Text](/images/eufunding/IIITH logo.png) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
+  ![Image Alt Text](/images/uasat/IIITH logo.png) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
   <!-- <p style="margin-left: 10px;">Your text goes here.</p> -->
 </div>
 
@@ -37,16 +37,50 @@ The project **SwaYaan-Capacity Building Human Resource Development(UASAT)**, Mei
 - To promote entrepreneurial mindset and nurture technical talent among the student community through innovative interventions such as Bootcamps and Proof-of Concepts.
 - To nurture technical talent and ideation among the student community through IPR generation, Competitions, Workshops / Conferences, etc.
 
-In this regard, five (5) Work-Themes are identified to create a full-fledged ecosystem in UAS/Drone and related technologies. The Work Theme (WT) includes (1) Drone Electronics (involving Sensors, Onboard Computers, Communication Technology etc.) (2) GNC Algorithms & Simulation (3) Aeromechanics (4) Drone Applications (including domain-specific applications & security) and (5) Allied UAS Technologies (Data Analysis, AI/ML, loT, Cloud Computing etc.)
+In this regard, five Work-Themes are identified to create a full-fledged ecosystem in UAS/Drone and related technologies. The Work Theme (WT) includes: 
+- Drone Electronics (involving Sensors, Onboard Computers, Communication Technology etc.)
+- GNC Algorithms & Simulation 
+- Aeromechanics 
+- Drone Applications (including domain-specific applications & security) 
+- Allied UAS Technologies (Data Analysis, AI/ML, loT, Cloud Computing etc.)
 
-### Project UASAT aims to meet various deliverables and targets through implementation of various components under three major Activity Verticals including:
-- (a) Capacity and Capability building,
-- (b) Ideation and Innovation &
-- (c) Human Resource Development with an aim to create around 40,000 + Professionals trained in Drones and related areas through 1500+ activities over the period of 5 Years.
+### Project UASAT aims to achieve the following deliverables and targets: 
 
-To accomplish the objectives under the defined work-themes, a National Ecosystem is being created by 30 Institutions distributed across various states of India in a hub and spoke model with five (5) IISc/IITs/IIITs as Resource Centres (RC), fifteen (15) IITs, NITs and IIITDMs as Participating Institutes (PI-Academic) and ten (10) C-DAC/NIELIT Centres as Participating Institutes (PI-C-DAC/ NIELIT Centres) to conduct various activities under different verticals with IIITDM, Kurnool and C-DAC, Hyderabad as a part of Project Management Unit (PMU)
+It aims to meet various deliverables and targets through implementation of various components under three major Activity Verticals including:
+- Capacity and Capability building,
+- Ideation and Innovation
+- Human Resource Development with an aim to create around 40,000 + Professionals trained in Drones and related areas through 1500+ activities over the period of 5 Years.
 
-### Collaborators
+To accomplish the objectives under the defined work-themes, a National Ecosystem is being created by 30 Institutions distributed across various states of India in a hub and spoke model with five IISc/IITs/IIITs as Resource Centres (RC), fifteen IITs, NITs and IIITDMs as Participating Institutes (PI-Academic) and ten C-DAC/NIELIT Centres as Participating Institutes (PI-C-DAC/ NIELIT Centres) to conduct various activities under different verticals with IIITDM, Kurnool and C-DAC, Hyderabad as a part of Project Management Unit (PMU)
+
+### WTEG Collaborators
+
+<!-- {% assign number_printed = 0 %}
+{% assign fixed_image_height = 20 %} <!-- Set your desired fixed height -->
+
+<!-- {% for pic in site.data.pics_uasat_collaborators %}
+
+{% assign even_odd = number_printed | modulo: 5 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-{{ even_odd == 3 ? 4 : 3 }} clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/uasat/{{ pic.image }}" class="img-responsive" width="95%" height="{{ fixed_image_height }}" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd > 3 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% if number_printed > 0 %}
+</div>
+{% endif %} -->
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pics_uasat_collaborators %}
@@ -58,19 +92,19 @@ To accomplish the objectives under the defined work-themes, a National Ecosystem
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/eufunding/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/uasat/{{ pic.image }}" class="img-responsive" width="85%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
+{% if even_odd > 1 %}
 </div>
 {% endif %}
 
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -81,7 +115,7 @@ To accomplish the objectives under the defined work-themes, a National Ecosystem
 
 {% if even_odd == 3 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 
