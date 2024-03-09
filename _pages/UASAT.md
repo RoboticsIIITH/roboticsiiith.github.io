@@ -70,7 +70,7 @@ To accomplish the objectives under the defined work-themes, a National Ecosystem
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
