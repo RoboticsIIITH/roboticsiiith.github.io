@@ -13,16 +13,16 @@ permalink: /uasat/
 </div> -->
 
 
-<!-- ![Image Alt Text](/images/eufunding/IIITH Logo.png) -->
+<!-- ![Image Alt Text](/images/uasat/IIITH Logo.png) -->
 <div class='eu-header-row'>
 <div class="col1">
 
-  ![Image Alt Text](/images/eufunding/MeitY.jpg)
+  ![Image Alt Text](/images/uasat/MeitY.jpg)
 
 </div>
 
 <div class="col1">
-  ![Image Alt Text](/images/eufunding/IIITH logo.png) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
+  ![Image Alt Text](/images/uasat/IIITH logo.png) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
   <!-- <p style="margin-left: 10px;">Your text goes here.</p> -->
 </div>
 
