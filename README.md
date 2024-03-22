@@ -25,3 +25,11 @@ Copyright Allan Lab. Code released under the MIT License.
 - Copy the contents of `_site` in `/var/www/html` (`/usr/bin/cp -R _site/* /var/www/html`)
 - Your latest changes will now be reflected on https://robotics.iiit.ac.in
 
+### Renewal of the certificates for RRC website 
+- SSH into the website server
+- Then, do a dry run on the `robotics.iiit.ac.in` server (that hosts our website), verify the output, and carry out the actual renewal.
+
+- `certbot renew --agree-tos --dry-run`
+- `cat /etc/letsencrypt/live/robotics.iiit.ac.in/fullchain.pem`
+- `certbot renew --agree-tos`
+
