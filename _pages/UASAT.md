@@ -83,23 +83,21 @@ To accomplish the objectives under the defined work-themes, a National Ecosystem
 </div>
 {% endif %}
 
-### Ongoing and Past Events organised by RRC so far as part of UASAT Project
+### Events organised by RRC so far as part of UASAT Project
 
-**Ongoing Event -Third Master Trainer Program Workshop – 11th – 15th March 2024.**
+**Third Master Trainer Program Workshop – 11th – 15th March 2024.**
 
 IIIT Hyderabad is identified as one of the Resource Centers (RC) for the MeitY approved project entitled “Capacity building for human resource development in Unmanned Aircraft System (Drone and related Technology)”. As a part of this project, IIIT Hyderabad is organizing the third Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies" for five days from 11/03/2024 to 15/03/2024. 
 
-**Past Events**
-
-- First Master Trainer Program – 30th Jan – 3rd Feb 2023 
-
-The first Master Trainer Program (MTP) was conducted from 30 January 2023 to 3 February 2023. The topics covered were Introduction to UAV, Kinematics and Dynamics, Cyber Security for Internet of drones, IoT, RTOS for drones, Control System, Image processing, Arducopter, ROS, AIRSIM, OpenCV, and DGCA regulations for drones. The program concluded with a flight demonstration from Arka Aerospace. There were nearly 30 participants for the MTP- Batch 1. 
-
-- Second Master Trainer Program – 17th – 22nd July 2023 
+**Second Master Trainer Program – 17th – 22nd July 2023**
 
 The second Master Trainer Program (MTP) was conducted from 17 July 2023 to 22 July 2023. The topics covered were Ardupilot, PyMAVLINK , ROS, Gazebo, OpenCV, and PyBullet. The theory part will be covered on basic NCC (Navigation Guidance and Control) for UAV, image processing and security. There were nearly 25 participants for the MTP- Batch 2. 
 
-- National 2 Day Workshop 
+**First Master Trainer Program – 30th Jan – 3rd Feb 2023**
+
+The first Master Trainer Program (MTP) was conducted from 30 January 2023 to 3 February 2023. The topics covered were Introduction to UAV, Kinematics and Dynamics, Cyber Security for Internet of drones, IoT, RTOS for drones, Control System, Image processing, Arducopter, ROS, AIRSIM, OpenCV, and DGCA regulations for drones. The program concluded with a flight demonstration from Arka Aerospace. There were nearly 30 participants for the MTP- Batch 1. 
+
+**National 2 Day Workshop**
 
 National 2 day workshop was conducted from 3 Nov 2023 & 4 Nov 2023 on Systems and Intelligence for UAV.  The below mentioned are various topics which were covered during these two-day schedule. 
 - System design of passenger drone.  
