@@ -33,7 +33,7 @@ abstract: "Classical motion planning for robotic manipulation includes a set of 
 diverse valid trajectories are and without specially designed cost functions for a given scene, the overall solutions tend to have low success rates. While deep-learning-based algorithms tremendously improve success rates, they are much harder to adopt without specialized training datasets. We propose EDMP, an Ensemble-of-costs-guided Diffusion for Motion Planning that aims to combine the strengths of classical and deeplearning-based motion planning. Our diffusion-based network is
 trained on a set of diverse kinematically valid trajectories. Like
 classical planning, for any new scene at the time of inference, we compute scene-specific costs such as "collision cost" and guide the diffusion to generate valid trajectories that satisfy the scene-specific constraints. Further, instead of a single cost function that may be insufficient in capturing diversity across scenes, we use an ensemble of costs to guide the diffusion process, significantly improving the success rate compared to classical planners. EDMP performs comparably with SOTA
-deep-learning-based methods while retaining the generalization capabilities primarily associated with classical planners"
+deep-learning-based methods while retaining the generalization capabilities primarily associated with classical planners."
 project_page: https://ensemble-of-costs-diffusion.github.io/
 paper: https://arxiv.org/pdf/2309.11414.pdf
 code: https://github.com/vishal-2000/EDMP
