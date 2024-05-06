@@ -10,7 +10,7 @@ authors:
     sup: 3
   - name: Udit Singh Parihar
     sup: 1
-  - name: Madhava Krishna
+  - name: K Madhava Krishna
     sup: 1
 affiliations:
   - name: Robotics Research Center,KCIS, IIIT Hyderabad, India
