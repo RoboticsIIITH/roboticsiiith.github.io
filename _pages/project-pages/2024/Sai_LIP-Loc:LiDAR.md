@@ -34,7 +34,7 @@ project_page: https://liploc.shubodhs.ai/
 paper: https://arxiv.org/pdf/2312.16648
 code: https://github.com/Shubodh/lidar-image-pretrain-VPR
 #supplement: https://clipgraphs.github.io/static/pdfs/Supplementary.pdf
-video: https://www.youtube.com/watch?v=ahlw_Q_3ud0
+#video: https://www.youtube.com/watch?v=ahlw_Q_3ud0
 iframe: https://www.youtube.com/embed/ahlw_Q_3ud0
 #demo: https://anyloc.github.io/#interactive_demo
 
