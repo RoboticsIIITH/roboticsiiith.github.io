@@ -22,7 +22,7 @@ affiliations:
   - name: Microsoft
     link: #
     sup: 3
-permalink: /publications/2024/Sai_LIP-Loc:LiDAR/
+permalink: /publications/2024/Sai_LIP-Loc-LiDAR/
 abstract: "Global visual localization in LiDAR-maps, crucial for
 autonomous driving applications, remains largely unexplored due to the challenging issue of bridging the crossmodal heterogeneity gap. Popular multi-modal learning approach Contrastive Language-Image Pre-Training
 (CLIP) [32] has popularized contrastive symmetric loss using batch construction technique by applying it to multimodal domains of text and image. We apply this approach to the domains of 2D image and 3D LiDAR points on the task of cross-modal localization. Our method is explained as follows: A batch of N (image, LiDAR) pairs is constructed so
