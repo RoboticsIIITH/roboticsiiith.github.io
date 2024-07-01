@@ -35,7 +35,7 @@ project_page: https://anyloc.github.io/
 paper: https://arxiv.org/pdf/2308.00688.pdf
 code: https://github.com/AnyLoc/AnyLoc
 #supplement: https://clipgraphs.github.io/static/pdfs/Supplementary.pdf
-video: https://www.youtube.com/watch?v=ITo8rMInatk&feature=youtu.be
+# video: https://www.youtube.com/watch?v=ITo8rMInatk&feature=youtu.be
 iframe: https://www.youtube.com/embed/ITo8rMInatk
 demo: https://anyloc.github.io/#interactive_demo
 

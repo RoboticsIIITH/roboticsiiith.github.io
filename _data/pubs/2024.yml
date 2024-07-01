@@ -34,11 +34,11 @@
   id: mkrishna
   featured: 1
 
-- title: "Anticipate & Collab: Data-driven Task Anticipation and Knowledge-driven Planning for Human-robot Collaboration"
-  authors: Shivam Singh, Karthik Swaminathan, Raghav Arora, Ramandeep Singh, Ahana Datta, Dipanjan Das, Snehasis Banerjee, Mohan Sridharan, Madhava Krishna
+- title: "Anticipate & Act: Integrating LLMs and Classical Planning for Efficient Task Execution in Household Environments"
+  authors: Raghav Arora, Shivam Singh, Karthik Swaminathan, Ahana Datta, Snehasis Banerjee, Brojeshwar Bhowmick, Krishna Murthy Jatavallabhula, Mohan Sridharan, Madhava Krishna
   venue: ICRA 2024
   link: # https://arxiv.org/pdf/2404.03587
-    url: /publications/2024/Shivam_Anticipate
+    url: /publications/2024/Raghav_Anticipate
     display: Project Page
   id: mkrishna
   featured: 1
