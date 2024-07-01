@@ -1,3 +1,12 @@
+- title: "Object Goal Navigation using Data Regularized Q-Learning"
+  authors: Nandiraju Gireesh, D. A. Sasi Kiran, Snehasis Banerjee, Mohan Sridharan, Brojeshwar Bhowmick,Madhava Krishna
+  venue:  CASE, 2022
+  link: # https://arxiv.org/pdf/2208.13009
+    url: /publications/2022/Nandiraju_Object-Goal
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Multi-Modal Model Predictive Control Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving"
   authors: Vivek K. Adajania, Aditya Sharma, Anish Gupta, Houman Masnavi, K. Madhava Krishna and Arun K. Singh
   venue:  RAL & ICRA, 2022
