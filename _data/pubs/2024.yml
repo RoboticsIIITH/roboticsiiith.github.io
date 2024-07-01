@@ -1,3 +1,21 @@
+- title: "MPC-based obstacle aware multi-UAV formation control under imperfect communication"
+  authors: Vikrant Dewangan, Harikumar Kandath
+  venue: ICARA 2024
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10553141
+    url: /publications/2024/Vikrant_MPC-based
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Leveraging Latent Temporal Features for Robust Fault Detection and Isolation in Hexacopter UAVs"
+  authors: Shivaan Sehgal, Aakash Maniar, Harikumar Kandath, Deepak Gangadharan
+  venue: ICARA 2024
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552933
+    url: /publications/2024/Shivaan_Leveraging
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving"
   authors:  Vikrant Dewangan, Tushar Choudhary, Shivam Chandhok, Shubham Priyadarshan, Anushka Jain, Arun K. Singh, Siddharth Srivastava, Krishna Murthy Jatavallabhula, K. Madhava Krishna
   venue: ICRA 2024
@@ -45,7 +63,7 @@
 
 - title: "FinderNet: A Data Augmentation Free Canonicalization aided Loop Detection and Closure technique for Point clouds in 6-DOF separation"
   authors: Sudarshan S, Harithas Gurkirat, Singh Aneesh Chavan, Sarthak Sharma, Suraj Patni, Chetan Arora, Madhava Krishna
-  venue: ICRA 2024
+  venue: WACV 2024
   link: # https://arxiv.org/pdf/2308.00688.pdf
     url: /publications/2024/Sudarshan_FinderNet
     display: Project Page
