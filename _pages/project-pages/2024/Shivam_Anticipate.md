@@ -1,7 +1,6 @@
 ---
 layout: project-page-new
-title: "Anticipate & Collab: Data-driven Task Anticipation and
-Knowledge-driven Planning for Human-robot Collaboration"
+title: "Anticipate & Collab: Data-driven Task Anticipation and Knowledge-driven Planning for Human-robot Collaboration"
 authors:
   - name: Shivam Singh∗
     sup: 1
