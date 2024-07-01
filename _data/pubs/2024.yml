@@ -1,3 +1,12 @@
+- title: "Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty"
+  authors: Bhaskar Joshi, Dhruv Kapur, Harikumar Kandath
+  venue: ICARA 2024
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10553074
+    url: /publications/2024/Bhaskar_Sim-to-Real
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "MPC-based obstacle aware multi-UAV formation control under imperfect communication"
   authors: Vikrant Dewangan, Harikumar Kandath
   venue: ICARA 2024
