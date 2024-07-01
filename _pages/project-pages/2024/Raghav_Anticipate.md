@@ -40,7 +40,7 @@ paper: https://events.infovaya.com/uploads/documents/pdfviewer/37/ff/133990-3210
 code: https://github.com/AnticipateAndAct/AnticipateAndAct/
 supplement: https://raraghavarora.github.io/PDFs/Anticipate_Act__Supplementary_Material.pdf
 #video: https://www.youtube.com/watch?v=QW5VCDIgXus
-iframe: https://www.youtube.com/embed/v=Q6V-8bXk8lA
+iframe: https://www.youtube.com/embed/Q6V-8bXk8lA
 #demo: https://anyloc.github.io/#interactive_demo
 
 ---
