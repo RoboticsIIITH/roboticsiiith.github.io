@@ -1,3 +1,57 @@
+- title: "A dynamic area approximation-based stochastic multi-UAV target search with noisy measurements"
+  authors: P. Gokul, K. Harikumar and J. Senthilnath
+  venue:  2024 International Conference on Unmanned Aircraft Systems (ICUAS)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10557107
+    url: /publications/2024/P_A-dynamic-area
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "An Efficient Approach With Dynamic Multiswarm of UAVs for Forest Firefighting"
+  authors: Josy John, K. Harikumar, J. Senthilnath and Suresh Sundaram
+  venue:  IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS SYSTEMS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416753
+    url: /publications/2024/Josy_An-Efficient-Approach
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Metacognitive Decision-Making Framework for Multi-UAV Target Search Without Communication"
+  authors: J. Senthilnath, K. Harikumar, Suresh Sundaram
+  venue:  IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS SYSTEMS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10430105
+    url: /publications/2024/J_Metacognitive
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Distributed Adaptive Synchronization in Euler-Lagrange Networks With Uncertain Interconnections"
+  authors: Tian Tao, Spandan Roy,  Bart De Schutter and Simone Baldi
+  venue:  IEEE TRANSACTIONS ON AUTOMATIC CONTROL
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10122561
+    url: /publications/2024/Tian_Distributed
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Adaptive Synchronization of Uncertain Underactuated Euler-Lagrange Agents"
+  authors: Tian Tao, Spandan Roy,  Bart De Schutter and Simone Baldi
+  venue:  IEEE TRANSACTIONS ON AUTOMATIC CONTROL
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379117
+    url: /publications/2024/Tian_Adaptive-Synchronization
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Introducing Switched Adaptive Control for Self-Reconfigurable Mobile Cleaning Robots"
+  authors: Madan Mohan Rayguru, Spandan Roy, Lim Yi, Mohan Rajesh Elara and Simone Baldi
+  venue: IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10082944
+    url: /publications/2024/Bhaskar_Sim-to-RealMadan_Introducing-Switched
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty"
   authors: Bhaskar Joshi, Dhruv Kapur, Harikumar Kandath
   venue: ICARA 2024
