@@ -6,7 +6,11 @@
     display: Project Page
   id: mkrishna
   featured: 1
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 9b7f223d1a33a7ee06bc77ea0b0dddaaf9d596da
 - title: "MPC-based obstacle aware multi-UAV formation control under imperfect communication"
   authors: Vikrant Dewangan, Harikumar Kandath
   venue: ICARA 2024
@@ -43,11 +47,19 @@
   id: mkrishna
   featured: 1
 
+<<<<<<< HEAD
 - title: "Anticipate & Collab: Data-driven Task Anticipation and Knowledge-driven Planning for Human-robot Collaboration"
   authors: Shivam Singh, Karthik Swaminathan, Raghav Arora, Ramandeep Singh, Ahana Datta, Dipanjan Das, Snehasis Banerjee, Mohan Sridharan, Madhava Krishna
   venue: ICRA 2024
   link: # https://arxiv.org/pdf/2404.03587
     url: /publications/2024/Shivam_Anticipate
+=======
+- title: "Anticipate & Act: Integrating LLMs and Classical Planning for Efficient Task Execution in Household Environments"
+  authors: Raghav Arora, Shivam Singh, Karthik Swaminathan, Ahana Datta, Snehasis Banerjee, Brojeshwar Bhowmick, Krishna Murthy Jatavallabhula, Mohan Sridharan, Madhava Krishna
+  venue: ICRA 2024
+  link: # https://arxiv.org/pdf/2404.03587
+    url: /publications/2024/Raghav_Anticipate
+>>>>>>> 9b7f223d1a33a7ee06bc77ea0b0dddaaf9d596da
     display: Project Page
   id: mkrishna
   featured: 1
