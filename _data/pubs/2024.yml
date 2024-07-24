@@ -1,3 +1,30 @@
+- title: "Bi-level Trajectory Optimization on Uneven Terrains with Differentiable Wheel-Terrain Interaction Model"
+  authors: Amith Manoharan, Aditya Sharma, Himani Belsare, Kaustab Pal, K. Madhava Krishna, Arun Kumar Singh
+  venue:  IROS 2024
+  link: # https://arxiv.org/pdf/2404.03307
+    url: /publications/2024/Amith_Bi-level
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving"
+  authors: Pranjal Paul, Anant Garg, Tushar Choudhary, Arun Kumar Singh, K. Madhava Krishna
+  venue:  IROS 2024
+  link: # https://arxiv.org/pdf/2403.20116
+    url: /publications/2024/Pranjal_LeGo
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation"
+  authors: Gaurav Singh, Sanket Kalwar, Md Faizal Karim, Bipasha Sen, Nagamanikandan Govindan, Srinath Sridhar and K Madhava Krishna
+  venue:  IROS 2024
+  link: # https://arxiv.org/pdf/2404.04643
+    url: /publications/2024/Gaurav_Constrained
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "A dynamic area approximation-based stochastic multi-UAV target search with noisy measurements"
   authors: P. Gokul, K. Harikumar and J. Senthilnath
   venue:  2024 International Conference on Unmanned Aircraft Systems (ICUAS)
