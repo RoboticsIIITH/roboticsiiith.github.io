@@ -27,7 +27,7 @@ project_page: https://reachpranjal.github.io/lego-drive/
 paper: https://arxiv.org/pdf/2403.20116
 code: https://github.com/reachpranjal/lego-drive
 #supplement: https://clipgraphs.github.io/static/pdfs/Supplementary.pdf
-video: https://www.youtube.com/watch?v=eOYAq2cz1Pk
+#video: https://www.youtube.com/watch?v=eOYAq2cz1Pk
 iframe: https://www.youtube.com/embed/eOYAq2cz1Pk
 #demo: https://anyloc.github.io/#interactive_demo
 
