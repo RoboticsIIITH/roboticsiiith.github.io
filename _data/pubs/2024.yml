@@ -1,3 +1,21 @@
+- title: "Leveraging Cycle-Consistent Anchor Points for Self-Supervised RGB-D Registration"
+  authors: Siddharth Tourani, Jayaram Reddy, Sarvesh Thakur,K Madhava Krishna, Muhammad Haris Khan, N Dinesh Reddy
+  venue:  ICRA 2024
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610738
+    url: /publications/2024/Siddharth_Leveraging
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Design and Analysis of a Modular Flapping Wing Robot with a Swappable Powertrain Module"
+  authors: Snehit Gupta, K P Rithwik, Kurva Prashanth, Avijit Ashe, Harikumar Kandath
+  venue:  ICMA 2024
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10633033
+    url: /publications/2024/Snehit_Design
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding"
   authors: Yash Mehan, Kumaraditya Gupta, Rohit Jayanti, Anirudh Govil, Sourav Garg, and Madhava Krishna
   venue:  IROS 2024
