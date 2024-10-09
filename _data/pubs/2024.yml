@@ -1,3 +1,21 @@
+- title: "Identification and Learning-Based Control of an End-Effector for Targeted Throwing"
+  authors: Haasith Venkata Sai Pasala, Nagamanikandan Govindan, and Samarth Brahmbhatt
+  venue:  IEEE ROBOTICS AND AUTOMATION LETTERS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10681644
+    url: /publications/2024/Haasith_Identification
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Revisit Anything: Visual Place Recognition via Image Segment Retrieval"
+  authors: Kartik Garg, Sai Shubodh Puligilla, Shishir Kolathaya, Madhava Krishna, and Sourav Garg
+  venue:  ECCV 2024
+  link: # https://arxiv.org/pdf/2409.18049
+    url: /publications/2024/Kartik_Revisit
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Leveraging Cycle-Consistent Anchor Points for Self-Supervised RGB-D Registration"
   authors: Siddharth Tourani, Jayaram Reddy, Sarvesh Thakur,K Madhava Krishna, Muhammad Haris Khan, N Dinesh Reddy
   venue:  ICRA 2024
