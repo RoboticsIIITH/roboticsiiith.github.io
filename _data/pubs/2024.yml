@@ -1,3 +1,39 @@
+- title: "Identification and Learning-Based Control of an End-Effector for Targeted Throwing"
+  authors: Haasith Venkata Sai Pasala, Nagamanikandan Govindan, and Samarth Brahmbhatt
+  venue:  IEEE ROBOTICS AND AUTOMATION LETTERS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10681644
+    url: /publications/2024/Haasith_Identification
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Revisit Anything: Visual Place Recognition via Image Segment Retrieval"
+  authors: Kartik Garg, Sai Shubodh Puligilla, Shishir Kolathaya, Madhava Krishna, and Sourav Garg
+  venue:  ECCV 2024
+  link: # https://arxiv.org/pdf/2409.18049
+    url: /publications/2024/Kartik_Revisit
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Leveraging Cycle-Consistent Anchor Points for Self-Supervised RGB-D Registration"
+  authors: Siddharth Tourani, Jayaram Reddy, Sarvesh Thakur,K Madhava Krishna, Muhammad Haris Khan, N Dinesh Reddy
+  venue:  ICRA 2024
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610738
+    url: /publications/2024/Siddharth_Leveraging
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Design and Analysis of a Modular Flapping Wing Robot with a Swappable Powertrain Module"
+  authors: Snehit Gupta, K P Rithwik, Kurva Prashanth, Avijit Ashe, Harikumar Kandath
+  venue:  ICMA 2024
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10633033
+    url: /publications/2024/Snehit_Design
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding"
   authors: Yash Mehan, Kumaraditya Gupta, Rohit Jayanti, Anirudh Govil, Sourav Garg, and Madhava Krishna
   venue:  IROS 2024
