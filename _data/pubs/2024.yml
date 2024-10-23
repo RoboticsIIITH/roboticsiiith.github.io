@@ -1,3 +1,12 @@
+- title: "Open-Set 3D Semantic Instance Maps for Vision Language Navigation — O3D-SIM"
+  authors: Laksh Nanwani, Kumaraditya Gupta, Aditya Mathur, Swayam Agrawal, A.H. Abdul Hafez, K. Madhava Krishna
+  venue:  Advanced Robotics - Taylor and Francis - 2024
+  link: # https://smart-wheelchair-rrc.github.io/o3d-sim-webpage/O3D-SIM.pdf
+    url: /publications/2024/Laksh_Open-Set
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Identification and Learning-Based Control of an End-Effector for Targeted Throwing"
   authors: Haasith Venkata Sai Pasala, Nagamanikandan Govindan, and Samarth Brahmbhatt
   venue:  IEEE ROBOTICS AND AUTOMATION LETTERS
