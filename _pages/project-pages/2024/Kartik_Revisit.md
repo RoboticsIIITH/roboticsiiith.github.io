@@ -31,8 +31,8 @@ project_page: https://revisit-anything.github.io/
 paper: https://arxiv.org/pdf/2409.18049
 code: https://github.com/AnyLoc/revisit-anything
 #supplement: https://clipgraphs.github.io/static/pdfs/Supplementary.pdf
-#video: https://www.youtube.com/watch?v=ITo8rMInatk&feature=youtu.be
-#iframe: https://www.youtube.com/embed/ITo8rMInatk
+video: https://revisit-anything.github.io/data/method_viz/teaser.mp4
+iframe: https://www.youtube.com/embed/zLXYdT4WVtQ
 #demo: https://anyloc.github.io/#interactive_demo
 
 ---
