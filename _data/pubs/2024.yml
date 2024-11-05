@@ -1,3 +1,12 @@
+- title: "Modular Adaptive Aerial Manipulation Under Unknown Dynamic Coupling Forces"
+  authors: Rishabh Dev Yadav, Swati Dantu, Wei Pan, Sihao Sun, Spandan Roy, Simone Baldi
+  venue:  IEEE/ASME TRANSACTIONS ON MECHATRONICS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10701509
+    url: /publications/2024/Rishabh_Modular
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Open-Set 3D Semantic Instance Maps for Vision Language Navigation — O3D-SIM"
   authors: Laksh Nanwani, Kumaraditya Gupta, Aditya Mathur, Swayam Agrawal, A.H. Abdul Hafez, K. Madhava Krishna
   venue:  Advanced Robotics - Taylor and Francis - 2024
