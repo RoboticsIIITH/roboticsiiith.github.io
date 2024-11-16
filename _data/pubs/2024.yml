@@ -1,3 +1,12 @@
+- title: "A Hierarchical Manipulation Planning Framework Combining Striking,Pushing, and Pick & Place Motion Primitives"
+  authors: Prakrut Kotecha, Priyansh Sinha, Nagamanikandan Govindan
+  venue:  IEEE 20th International Conference on Automation Science and Engineering (CASE)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711645
+    url: /publications/2024/Prakrut_A-Hierarchical
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Modular Adaptive Aerial Manipulation Under Unknown Dynamic Coupling Forces"
   authors: Rishabh Dev Yadav, Swati Dantu, Wei Pan, Sihao Sun, Spandan Roy, Simone Baldi
   venue:  IEEE/ASME TRANSACTIONS ON MECHATRONICS
