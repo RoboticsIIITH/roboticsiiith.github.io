@@ -1,9 +1,9 @@
 ---
-title: "Second Workshop on Systems and Intelligence for UAV"
+title: "RRC - Events"
 layout: textlay
-excerpt: "Focused on Computer Vision and Artificial Intelligence."
-sitemap: true
-permalink: /uav-workshop-2024/
+excerpt: "RRC -- Events"
+sitemap: false
+permalink: /events/
 ---
 
 # Second Workshop on Systems and Intelligence for UAV  
