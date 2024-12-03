@@ -47,7 +47,7 @@ This workshop will delve into the integration of computer vision and artificial 
 | 6    | Dr. Nagamanikandan G     | Trajectory generation with splines and trapezoidal profiles | 19-Dec-24  | 2:00 PM – 3:30 PM |
 | 7    | Dr. Arun Kumar Singh     | Advanced Topics in Robotics          | 19-Dec-24  | 3:30 PM – 5:00 PM | -->
 
-<h3>Day 1 – 18th December 2024</h3>
+<!-- <h3>Day 1 – 18th December 2024</h3> -->
 
 <table style="width: 100%; border-collapse: collapse; text-align: left; border: 1px solid #ccc;">
   <thead>
@@ -84,7 +84,8 @@ This workshop will delve into the integration of computer vision and artificial 
   </tbody>
 </table>
 
-<h3>Day 2 – 19th December 2024</h3>
+<!-- <h3>Day 2 – 19th December 2024</h3> -->
+#### **Day 2 – 19th December 2024**  
 
 <table style="width: 100%; border-collapse: collapse; text-align: left; border: 1px solid #ccc;">
   <thead>
