@@ -17,9 +17,14 @@ permalink: /events/
 # Second Workshop on Systems and Intelligence for UAV  
 **Focused on Computer Vision and Artificial Intelligence**  
 
-<div style="text-align: center; width: 100%; margin: 0 auto;">
+<!-- <div style="text-align: center; width: 100%; margin: 0 auto;">
   <img src="/images/events/Systems-and-Intelligence-for-UAV_2024.png" alt="Systems and Intelligence for UAV 2024" style="width: 100%; height: auto;">
+</div> -->
+
+<div style="text-align: center; width: 100%; margin: 0 auto;">
+  <img src="/images/events/Systems-and-Intelligence-for-UAV_2024.png" alt="Systems and Intelligence for UAV 2024" style="width: 100%; height: auto; max-height: 500px; object-fit: contain;">
 </div>
+
 
 - **Dates**: 18/12/2024 and 19/12/2024  
 - **Venue**: IIIT Hyderabad, Gachibowli, Hyderabad  
