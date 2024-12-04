@@ -7,35 +7,30 @@ permalink: /publications/
 ---
 
 <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc; overflow-x: auto; white-space: nowrap;">
-  <!-- Years Navigation -->
-  <div style="display: inline-flex; gap: 10px;">
-    <!-- Loop through the years in reverse order -->
-    <!-- Replace #year links with actual URLs if needed -->
-    <a href="#2024" style="text-decoration: none; color: #007bff;">2024</a>
-    <a href="#2023" style="text-decoration: none; color: #007bff;">2023</a>
-    <a href="#2022" style="text-decoration: none; color: #007bff;">2022</a>
-    <a href="#2021" style="text-decoration: none; color: #007bff;">2021</a>
-    <a href="#2020" style="text-decoration: none; color: #007bff;">2020</a>
-    <a href="#2019" style="text-decoration: none; color: #007bff;">2019</a>
-    <a href="#2018" style="text-decoration: none; color: #007bff;">2018</a>
-    <a href="#2017" style="text-decoration: none; color: #007bff;">2017</a>
-    <a href="#2016" style="text-decoration: none; color: #007bff;">2016</a>
-    <a href="#2015" style="text-decoration: none; color: #007bff;">2015</a>
-    <a href="#2014" style="text-decoration: none; color: #007bff;">2014</a>
-    <a href="#2013" style="text-decoration: none; color: #007bff;">2013</a>
-    <a href="#2012" style="text-decoration: none; color: #007bff;">2012</a>
-    <a href="#2011" style="text-decoration: none; color: #007bff;">2011</a>
-    <a href="#2010" style="text-decoration: none; color: #007bff;">2010</a>
-    <a href="#2009" style="text-decoration: none; color: #007bff;">2009</a>
-    <a href="#2008" style="text-decoration: none; color: #007bff;">2008</a>
-    <a href="#2007" style="text-decoration: none; color: #007bff;">2007</a>
-    <a href="#2006" style="text-decoration: none; color: #007bff;">2006</a>
-    <a href="#2005" style="text-decoration: none; color: #007bff;">2005</a>
-    <a href="#2004" style="text-decoration: none; color: #007bff;">2004</a>
-    <a href="#2003" style="text-decoration: none; color: #007bff;">2003</a>
-    <a href="#2002" style="text-decoration: none; color: #007bff;">2002</a>
-    <a href="#2001" style="text-decoration: none; color: #007bff;">2001</a>
-  </div>
+  <a href="#2024" style="text-decoration: none; color: #007bff;">2024</a>
+  <a href="#2023" style="text-decoration: none; color: #007bff;">2023</a>
+  <a href="#2022" style="text-decoration: none; color: #007bff;">2022</a>
+  <a href="#2021" style="text-decoration: none; color: #007bff;">2021</a>
+  <a href="#2020" style="text-decoration: none; color: #007bff;">2020</a>
+  <a href="#2019" style="text-decoration: none; color: #007bff;">2019</a>
+  <a href="#2018" style="text-decoration: none; color: #007bff;">2018</a>
+  <a href="#2017" style="text-decoration: none; color: #007bff;">2017</a>
+  <a href="#2016" style="text-decoration: none; color: #007bff;">2016</a>
+  <a href="#2015" style="text-decoration: none; color: #007bff;">2015</a>
+  <a href="#2014" style="text-decoration: none; color: #007bff;">2014</a>
+  <a href="#2013" style="text-decoration: none; color: #007bff;">2013</a>
+  <a href="#2012" style="text-decoration: none; color: #007bff;">2012</a>
+  <a href="#2011" style="text-decoration: none; color: #007bff;">2011</a>
+  <a href="#2010" style="text-decoration: none; color: #007bff;">2010</a>
+  <a href="#2009" style="text-decoration: none; color: #007bff;">2009</a>
+  <a href="#2008" style="text-decoration: none; color: #007bff;">2008</a>
+  <a href="#2007" style="text-decoration: none; color: #007bff;">2007</a>
+  <a href="#2006" style="text-decoration: none; color: #007bff;">2006</a>
+  <a href="#2005" style="text-decoration: none; color: #007bff;">2005</a>
+  <a href="#2004" style="text-decoration: none; color: #007bff;">2004</a>
+  <a href="#2003" style="text-decoration: none; color: #007bff;">2003</a>
+  <a href="#2002" style="text-decoration: none; color: #007bff;">2002</a>
+  <a href="#2001" style="text-decoration: none; color: #007bff;">2001</a>
 </nav>
 
 
