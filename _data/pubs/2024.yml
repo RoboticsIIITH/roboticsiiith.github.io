@@ -1,3 +1,12 @@
+- title: "Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics"
+  authors: Saksham Gupta, Amitabh Sharma, Aditya Mulgundkar, Rishabh Dev Yadav, Spandan Roy
+  venue:  IEEE 20th International Conference on Automation Science and Engineering (CASE)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711418
+    url: /publications/2024/Saksham_Adaptive
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "A Hierarchical Manipulation Planning Framework Combining Striking,Pushing, and Pick & Place Motion Primitives"
   authors: Prakrut Kotecha, Priyansh Sinha, Nagamanikandan Govindan
   venue:  IEEE 20th International Conference on Automation Science and Engineering (CASE)
