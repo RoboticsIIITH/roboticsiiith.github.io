@@ -159,35 +159,39 @@ This workshop will delve into the integration of computer vision and artificial 
   - [Profile Link](https://tuit.ut.ee/en/content/arun-kumar-singh)  
   - Topic: Advanced Robotics  -->
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <!-- Row 1 -->
-  <a href="https://makarandtapaswi.github.io/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
-    <img src="/images/events/MT.jpeg" alt="Makarand Tapaswi" 
-         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <div style="margin-top: 10px; font-size: 14px; color: black;">Makarand Tapaswi</div>
-  </a>
-  <a href="https://ravika.github.io/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
-    <img src="/images/events/RK.jpeg" alt="Ravi Kiran S" 
-         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <div style="margin-top: 10px; font-size: 14px; color: black;">Ravi Kiran S</div>
-  </a>
-  <a href="https://robotics.iiit.ac.in/faculty_mkrishna/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
-    <img src="/images/events/MK.png" alt="Madhava Krishna" 
-         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <div style="margin-top: 10px; font-size: 14px; color: black;">Madhava Krishna</div>
-  </a>
+  <div style="display: flex; gap: 20px; justify-content: center;">
+    <a href="https://makarandtapaswi.github.io/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+      <img src="/images/events/MT.jpeg" alt="Makarand Tapaswi" 
+           style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+      Makarand Tapaswi
+    </a>
+    <a href="https://ravika.github.io/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+      <img src="/images/events/RK.jpeg" alt="Ravi Kiran S" 
+           style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+      Ravi Kiran S
+    </a>
+    <a href="https://robotics.iiit.ac.in/faculty_mkrishna/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+      <img src="/images/events/MK.png" alt="Madhava Krishna" 
+           style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+      Madhava Krishna
+    </a>
+  </div>
   
   <!-- Row 2 -->
-  <a href="https://www.iiit.ac.in/faculty/nagamanikandan-govindan/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
-    <img src="/images/events/NG.jpeg" alt="Nagamanikandan G" 
-         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <div style="margin-top: 10px; font-size: 14px; color: black;">Nagamanikandan G</div>
-  </a>
-  <a href="https://tuit.ut.ee/en/content/arun-kumar-singh" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
-    <img src="/images/events/AK.jpeg" alt="Arun Kumar Singh" 
-         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <div style="margin-top: 10px; font-size: 14px; color: black;">Arun Kumar Singh</div>
-  </a>
+  <div style="display: flex; gap: 20px; justify-content: center;">
+    <a href="https://www.iiit.ac.in/faculty/nagamanikandan-govindan/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+      <img src="/images/events/NG.jpeg" alt="Nagamanikandan G" 
+           style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+      Nagamanikandan G
+    </a>
+    <a href="https://tuit.ut.ee/en/content/arun-kumar-singh" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+      <img src="/images/events/AK.jpeg" alt="Arun Kumar Singh" 
+           style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+      Arun Kumar Singh
+    </a>
+  </div>
 </div>
 
 
