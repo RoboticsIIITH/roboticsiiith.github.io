@@ -82,6 +82,23 @@ This workshop will delve into the integration of computer vision and artificial 
       <td style="border: 1px solid #ccc; padding: 8px;">3:30 PM – 5:00 PM</td>
     </tr>
     <!-- Day 2 -->
+  </tbody>
+</table>
+
+
+#### **Day 2 – 19th December 2024**  
+
+<table style="width: 100%; border-collapse: collapse; text-align: left; border: 1px solid #ccc;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 8px;">S.No</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Speaker</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Topic/Title of Talk</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Date</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Timings</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">4</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Dr. Ravi Kiran S</td>
@@ -109,30 +126,6 @@ This workshop will delve into the integration of computer vision and artificial 
       <td style="border: 1px solid #ccc; padding: 8px;">Advanced Topics in Robotics</td>
       <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
       <td style="border: 1px solid #ccc; padding: 8px;">3:30 PM – 5:00 PM</td>
-    </tr>
-  </tbody>
-</table>
-
-
-#### **Day 2 – 19th December 2024**  
-
-<table style="width: 100%; border-collapse: collapse; text-align: left; border: 1px solid #ccc;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #ccc; padding: 8px;">S.No</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Speaker</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Topic/Title of Talk</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Date</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Timings</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">4</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Ravi Kiran S</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Image Processing Techniques and Computer Vision Applications</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">10:00 AM – 11:30 AM</td>
     </tr>
   </tbody>
 </table>
