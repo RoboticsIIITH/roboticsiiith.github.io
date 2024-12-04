@@ -11,7 +11,8 @@ permalink: /events/
   <a href="#detailed-schedule" style="margin: 0 15px; text-decoration: none; color: #007bff;">Schedule</a>
   <a href="#speakers" style="margin: 0 15px; text-decoration: none; color: #007bff;">Speakers</a>
   <a href="#registration" style="margin: 0 15px; text-decoration: none; color: #007bff;">Registration</a>
-  <a href="#rrc-homepage" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a>
+  <!-- <a href="#rrc-homepage" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a> -->
+  <a href="https://robotics.iiit.ac.in/" style="text-decoration: none; color: #007bff;">RRC Homepage</a>
 </nav>
 
 # Second Workshop on Systems and Intelligence for UAV  
@@ -58,6 +59,7 @@ This workshop will delve into the integration of computer vision and artificial 
     </tr>
   </thead>
   <tbody>
+    <!-- Day 1 -->
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">1</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Dr. Makarand Tapaswi</td>
@@ -72,8 +74,45 @@ This workshop will delve into the integration of computer vision and artificial 
       <td style="border: 1px solid #ccc; padding: 8px;">18-Dec-24</td>
       <td style="border: 1px solid #ccc; padding: 8px;">2:00 PM – 3:30 PM</td>
     </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">3</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Prof. Madhava Krishna</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Geometry in Vision and SLAM - Session 1</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">18-Dec-24</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">3:30 PM – 5:00 PM</td>
+    </tr>
+    <!-- Day 2 -->
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">4</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Ravi Kiran S</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Image Processing Techniques and Computer Vision Applications</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">10:00 AM – 11:30 AM</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">5</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Prof. Madhava Krishna</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Geometry in Vision and SLAM - Session 2</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">11:30 AM – 1:00 PM</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">6</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Nagamanikandan G</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Trajectory Generation with Splines and Trapezoidal Profiles</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">2:00 PM – 3:30 PM</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">7</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Arun Kumar Singh</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Advanced Topics in Robotics</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">3:30 PM – 5:00 PM</td>
+    </tr>
   </tbody>
 </table>
+
 
 #### **Day 2 – 19th December 2024**  
 
@@ -147,5 +186,5 @@ Organized by Robotics Research Center, IIIT Hyderabad
 
 </div>
 
-### <a id="rrc-homepage"></a>[RRC Homepage](https://robotics.iiit.ac.in/)
+<!-- ### <a id="rrc-homepage"></a>[RRC Homepage](https://robotics.iiit.ac.in/) -->
 
