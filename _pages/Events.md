@@ -10,7 +10,7 @@ permalink: /events/
   <a href="#about-the-workshop" style="margin: 0 15px; text-decoration: none; color: #007bff;">About</a>
   <a href="#detailed-schedule" style="margin: 0 15px; text-decoration: none; color: #007bff;">Schedule</a>
   <a href="#speakers" style="margin: 0 15px; text-decoration: none; color: #007bff;">Speakers</a>
-  <a href="#registration" style="margin: 0 15px; text-decoration: none; color: #007bff;">Registration</a>
+  <a href="https://forms.gle/He2kuPwxMjdnk4LM8" style="margin: 0 15px; text-decoration: none; color: #007bff;">Registration</a>
   <!-- <a href="#rrc-homepage" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a> -->
   <a href="https://robotics.iiit.ac.in/" style="text-decoration: none; color: #007bff;">RRC Homepage</a>
 </nav>
@@ -22,8 +22,13 @@ permalink: /events/
   <img src="/images/events/Systems-and-Intelligence-for-UAV_2024.png" alt="Systems and Intelligence for UAV 2024" style="width: 100%; height: auto;">
 </div> -->
 
-<div style="text-align: center; width: 100%; margin: 0 auto;">
+<!-- <div style="text-align: center; width: 100%; margin: 0 auto;">
   <img src="/images/events/Systems-and-Intelligence-for-UAV_2024.png" alt="Systems and Intelligence for UAV 2024" style="width: 100%; height: auto; max-height: 500px; object-fit: contain;">
+</div> -->
+
+<div style="text-align: center; width: 100%; margin: 0 auto;">
+  <img src="/images/events/Systems-and-Intelligence-for-UAV_2024.png" alt="Systems and Intelligence for UAV 2024" 
+       style="width: 100%; max-width: 1200px; height: auto; max-height: 500px; object-fit: contain;">
 </div>
 
 
