@@ -128,7 +128,7 @@ This workshop will delve into the integration of computer vision and artificial 
     <tr>
       <td style="border: 1px solid #ccc; padding: 8px;">7</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Dr. Arun Kumar Singh</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Advanced Topics in Robotics</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Advancements in Motion Planning</td>
       <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
       <td style="border: 1px solid #ccc; padding: 8px;">3:30 PM – 5:00 PM</td>
     </tr>
@@ -139,7 +139,7 @@ This workshop will delve into the integration of computer vision and artificial 
 
 ### <a id="speakers"></a>Speakers  
 
-- **Dr. Makarand Tapaswi**  
+<!-- - **Dr. Makarand Tapaswi**  
   - [Profile Link](https://makarandtapaswi.github.io/)  
   - Topic: Transformers and Vision Transformers  
 
@@ -157,7 +157,38 @@ This workshop will delve into the integration of computer vision and artificial 
 
 - **Dr. Arun Kumar Singh**  
   - [Profile Link](https://tuit.ut.ee/en/content/arun-kumar-singh)  
-  - Topic: Advanced Robotics 
+  - Topic: Advanced Robotics  -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  <!-- Row 1 -->
+  <a href="https://makarandtapaswi.github.io/" target="_blank" style="text-decoration: none;">
+    <img src="images/events/MT.jpeg" alt="Makarand Tapaswi" 
+         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <div>Makarand Tapaswi</div>
+  </a>
+  <a href="https://ravika.github.io/" target="_blank" style="text-decoration: none;">
+    <img src="images/events/RK.jpeg" alt="Ravi Kiran S" 
+         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <div>Ravi Kiran S</div>
+  </a>
+  <a href="https://robotics.iiit.ac.in/faculty_mkrishna/" target="_blank" style="text-decoration: none;">
+    <img src="/images/events/MK.png" alt="Madhava Krishna" 
+         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <div>Madhava Krishna</div>
+  </a>
+
+  <!-- Row 2 -->
+  <a href="https://www.iiit.ac.in/faculty/nagamanikandan-govindan/" target="_blank" style="text-decoration: none;">
+    <img src="images/events/NG.jpeg" alt="Nagamanikandan G" 
+         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <div>Nagamanikandan G</div>
+  </a>
+  <a href="https://tuit.ut.ee/en/content/arun-kumar-singh" target="_blank" style="text-decoration: none;">
+    <img src="images/events/AK.jpeg" alt="Arun Kumar Singh" 
+         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <div>Arun Kumar Singh</div>
+  </a>
+</div>
 
 ---
 
