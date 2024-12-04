@@ -161,11 +161,11 @@ This workshop will delve into the integration of computer vision and artificial 
 
 ---
 
-### <a id="registration"></a>Registration  
+<!-- ### <a id="registration"></a>Registration  
 
 [Register Here](https://forms.gle/He2kuPwxMjdnk4LM8)  
 
----
+--- -->
 
 Organized by Robotics Research Center, IIIT Hyderabad  
 **Funded by MeitY, Govt. of India**  
