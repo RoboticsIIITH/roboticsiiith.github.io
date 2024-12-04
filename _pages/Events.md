@@ -11,24 +11,8 @@ permalink: /events/
 
 <!-- Full-width poster image -->
 <div class="full-width-poster">
-  <img src="images/events/Systems-and-Intelligence-for-UAV_2024.png" alt="Workshop Poster" style="width: 100%; height: auto;">
-</div>
-
-Organized by Robotics Research Center, IIIT Hyderabad  
-**Funded by MeitY, Govt. of India**  
-
-<div class='eu-header-row'>
-<div class="col1">
-
-  ![Image Alt Text](/images/events/meity.png)
-
-</div>
-
-<div class="col1">
-  ![Image Alt Text](/images/events/swayaan_logo.jpg) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
-  <!-- <p style="margin-left: 10px;">Your text goes here.</p> -->
-</div>
-
+  <!-- <img src="images/events/Systems-and-Intelligence-for-UAV_2024.png" alt="Workshop Poster" style="width: 100%; height: auto;"> -->
+  ![Image Alt Text](/images/events/Systems-and-Intelligence-for-UAV_2024.png)
 </div>
 
 
@@ -175,6 +159,23 @@ This workshop will delve into the integration of computer vision and artificial 
   - Topic: Advanced Robotics  
 
 ---
+
+Organized by Robotics Research Center, IIIT Hyderabad  
+**Funded by MeitY, Govt. of India**  
+
+<div class='eu-header-row'>
+<div class="col1">
+
+  ![Image Alt Text](/images/events/meity.png)
+
+</div>
+
+<div class="col1">
+  ![Image Alt Text](/images/events/swayaan_logo.jpg) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
+  <!-- <p style="margin-left: 10px;">Your text goes here.</p> -->
+</div>
+
+</div>
 
 ### [RRC Homepage](https://robotics.iiit.ac.in/)  
 
