@@ -1,3 +1,12 @@
+- title: "Adaptive Tracking and Anti-Swing Control of Quadrotors Carrying Suspended Payload Under State-Dependent Uncertainty"
+  authors: Swati Dantu, Rishabh Dev Yadav , Ananth Rachakonda, Spandan Roy and Simone Baldi
+  venue:  IEEE/ASME TRANSACTIONS ON MECHATRONICS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10769989
+    url: /publications/2024/Swati_Adaptive
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics"
   authors: Saksham Gupta, Amitabh Sharma, Aditya Mulgundkar, Rishabh Dev Yadav, Spandan Roy
   venue:  IEEE 20th International Conference on Automation Science and Engineering (CASE)
