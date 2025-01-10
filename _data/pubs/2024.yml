@@ -1,3 +1,21 @@
+- title: "CrackUDA: Incremental Unsupervised Domain Adaptation for Improved Crack Segmentation in Civil Structures"
+  authors: Kushagra Srivastava, Damodar Datta Kancharla, Rizvi Tahereen, Pradeep Kumar Ramancharla, Ravi Kiran Sarvadevabhatla, Harikumar Kandath
+  venue:  International Conference on Pattern Recognition
+  link: # https://link.springer.com/chapter/10.1007/978-3-031-78113-1_6
+    url: /publications/2024/Kushagra_CrackUDA
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Deep RL based Obstacle Avoidance for UAVs with Time Varying sensor Bias"
+  authors: Aditya Kurande*, Bhaskar Joshi*, and Harikumar Kandath
+  venue:  2024 IEEE SENSORS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10785031
+    url: /publications/2024/Aditya_Deep-RL
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Adaptive Tracking and Anti-Swing Control of Quadrotors Carrying Suspended Payload Under State-Dependent Uncertainty"
   authors: Swati Dantu, Rishabh Dev Yadav , Ananth Rachakonda, Spandan Roy and Simone Baldi
   venue:  IEEE/ASME TRANSACTIONS ON MECHATRONICS
