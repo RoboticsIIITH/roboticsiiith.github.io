@@ -5,16 +5,27 @@ excerpt: "RRC -- Gallery"
 permalink: /gallery/
 ---
 
-# Event Gallery
-
-## IEEE Robotics and Automation Society (RAS) President Visit (2025)
+<!-- ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
 <div class="row">
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{i}}.jpeg" class="img-responsive" width="100%" style="float: left" />
   </div>
 {% endfor %}
-</div>
+</div> -->
+
+## IEEE Robotics and Automation Society (RAS) President Visit (2025)
+{% for i in (1..4) %}
+  <div class="col-sm-6 clearfix">
+    {% assign image_path = site.url | append: site.baseurl | append: "/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/" | append: i | append: ".jpeg" %}
+    <img src="{{ image_path }}" 
+         class="img-responsive" 
+         width="100%" 
+         style="float: left" 
+         alt="Gallery Image {{ i }}"
+         onerror="this.style.display='none';" />
+  </div>
+{% endfor %}
 
 ## Talk by Dr Shreya Santra
 <div class="row">
