@@ -1,3 +1,30 @@
+- title: "Equilibrium Point Selection and Two Stage Optimal Control of Quadrotor Under Actuator Failure"
+  authors: Vidya C S, Harikumar Kandath
+  venue:  2024 12th International Conference on Control, Mechatronics and Automation (ICCMA)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10843913
+    url: /publications/2024/Vidya_Equilibrium
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning"
+  authors: Harsh Bansal* Vyom Goyal* Bhaskar Joshi Akhil Gupta Harikumar Kandath†
+  venue:  IEEE 20th International Conference on Automation Science and Engineering (CASE)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711835
+    url: /publications/2024/Harsh_RaCIL
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Attention Meets UAVs:A Comprehensive Evaluation of DDoS Detection in Low-Cost UAVs"
+  authors: Ashish Sharma, SVSLN Surya Suhas Vaddhiparthy, Sai Usha Goparaju,Deepak Gangadharan and Harikumar Kandath
+  venue:  IEEE 20th International Conference on Automation Science and Engineering (CASE)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711508 
+    url: /publications/2024/Ashish_Attention
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "CrackUDA: Incremental Unsupervised Domain Adaptation for Improved Crack Segmentation in Civil Structures"
   authors: Kushagra Srivastava, Damodar Datta Kancharla, Rizvi Tahereen, Pradeep Kumar Ramancharla, Ravi Kiran Sarvadevabhatla, Harikumar Kandath
   venue:  International Conference on Pattern Recognition
