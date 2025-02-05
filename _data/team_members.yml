@@ -45,6 +45,17 @@
   education2: <a href="https://nagamanigi.wixsite.com/home"> Personal Webpage </a>
   education3: Email - nagamanikandan.g (at) iiit.ac.in
 
+- name: Antony Thomas
+  photo: antony.jpg
+  info: Assistant Professor, started 2025
+  email: chatzopoulos (at) Physics.LeidenUniv.nl
+  url: /faculty_athomas
+  id: athomas
+  number_educ: 3
+  education1: Ph.D. at University of Genoa, Italy
+  education2: <a href="https://sites.google.com/view/antony-thomas"> Personal Webpage </a>
+  education3: Email - antony.thomas (at) iiit.ac.in
+
 
 
 # - name: "This could be you !"

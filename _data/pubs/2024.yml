@@ -1,3 +1,12 @@
+- title: "Equilibrium Point Selection and Two Stage Optimal Control of Quadrotor Under Actuator Failure"
+  authors: Vidya C S, Harikumar Kandath
+  venue:  2024 12th International Conference on Control, Mechatronics and Automation (ICCMA)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10843913
+    url: /publications/2024/Vidya_Equilibrium
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning"
   authors: Harsh Bansal* Vyom Goyal* Bhaskar Joshi Akhil Gupta Harikumar Kandath†
   venue:  IEEE 20th International Conference on Automation Science and Engineering (CASE)
