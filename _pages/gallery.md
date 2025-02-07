@@ -31,7 +31,7 @@ permalink: /gallery/
 <div class="row">
 {% for i in (1..3) %}
   <div class="col-sm-6 clearfix">
-    <img src="../Gallery/Talk_by_Dr_Shreya_Santra/{i}.jpeg" class="img-responsive" width="100%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Shreya_Santra/{i}.jpeg" class="img-responsive" width="100%" style="float: left" />
   </div>
 {% endfor %}
 </div>
@@ -47,11 +47,11 @@ permalink: /gallery/
 
 ## ICRA 2024
 <div class="row">
-{% for i in (1..3) %}
+<!-- {% for i in (1..3) %} -->
   <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/ICRA_2024/{{i}}.jpg" class="img-responsive" width="100%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/ICRA_2024/1.jpg" class="img-responsive" width="100%" style="float: left" />
   </div>
-{% endfor %}
+<!-- {% endfor %} -->
 </div>
 
 ## Talk by Dr Samarth Brahmbhatt
