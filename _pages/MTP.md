@@ -66,74 +66,54 @@ The five-day program will cover foundations of computer vision, scientific machi
   </thead>
   <tbody>
       <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">Nilgiri 119</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">3rd Mar 2025 & Nilgiri 119</td>
       <td style="border: 1px solid #ccc; padding: 8px;">Basis of RL, 10am -11:30am, Ravi Kiran S</td>
       <td style="border: 1px solid #ccc; padding: 8px;"> </td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Foundations of Computer Vision</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Introduction to Image Processing, 11:45am-1:15pm, Ravi Kiran S</td>
       <td style="border: 1px solid #ccc; padding: 8px;"> </td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Robotics</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Basics of RL, 2:00 pm - 3:00pm, Tejas Bodas</td>
       <td style="border: 1px solid #ccc; padding: 8px;"> </td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Machine Learning</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Basics of RL -1, 3:45pm - 5:15pm, Tejas Bodas</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">2</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Ravi Kiran S</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Neural Networks - MLP and CNN</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">18-Dec-24</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">2:00 PM – 3:30 PM</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">4th Mar 2025 & Nilgiri 119</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Robot Motion Planning,10am -11:30am, Antony Thomas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Robot Motion Planning-1,11:45am -1:15pm, Antony Thomas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Basics of RL-3, 2:00 pm - 3:00pm, Tejas Bodas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Image Processing -1, 3:45pm - 5:15pm, Ravi Kiran S</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">3</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Prof. Madhava Krishna</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Geometry in Vision and SLAM - Session 1</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">18-Dec-24</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">3:30 PM – 5:00 PM</td>
-    </tr>
-    <!-- Day 2 -->
-  </tbody>
-</table>
-
-
-#### **Day 2 – 19th December 2024**  
-
-<table style="width: 100%; border-collapse: collapse; text-align: left; border: 1px solid #ccc;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #ccc; padding: 8px;">S.No</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Speaker</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Topic/Title of Talk</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Date</th>
-      <th style="border: 1px solid #ccc; padding: 8px;">Timings</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">4</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Ravi Kiran S</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Image Processing Techniques and Computer Vision Applications</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">10:00 AM – 11:30 AM</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">5th Mar 2025 & Nilgiri 119</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Robot Motion Planning,10am -11:30am, Antony Thomas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Robot Motion Planning-1,11:45am -1:15pm, Antony Thomas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Basics of RL-3, 2:00 pm - 3:00pm, Tejas Bodas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Motion Planning for Robotics & Drones, 3:45pm - 5:15pm, Madhava Krishna K</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">5</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Prof. Madhava Krishna</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Geometry in Vision and SLAM - Session 2</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">11:30 AM – 1:00 PM</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">6th Mar 2025 & Nilgiri 119</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Robot Motion Planning,10am -11:30am, Antony Thomas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Scientific Machine Learning,11:45am -1:15pm, Vinod PK</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Basics of RL-3, 2:00 pm - 3:00pm, Tejas Bodas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Trajectory Planning, 3:45pm - 5:15pm, Nagamanikandan G</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">6</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Nagamanikandan G</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Trajectory Generation with Splines and Trapezoidal Profiles</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">2:00 PM – 3:30 PM</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ccc; padding: 8px;">7</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Dr. Arun Kumar Singh</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">Advancements in Motion Planning</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">19-Dec-24</td>
-      <td style="border: 1px solid #ccc; padding: 8px;">3:30 PM – 5:00 PM</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">7th Mar 2025 & Nilgiri 119</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Introduction to Neural Networks,10am -11:30am, Ravi Kiran S</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Scientific Machine Learning-1,11:45am -1:15pm, Vinod PK</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Basics of RL-3, 2:00 pm - 3:00pm, Tejas Bodas</td>
+      <td style="border: 1px solid #ccc; padding: 8px;"> </td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Motion Planning for Robotics & Drones, 3:45pm - 5:15pm, Madhava Krishna K</td>
     </tr>
   </tbody>
 </table>
@@ -160,7 +140,11 @@ The five-day program will cover foundations of computer vision, scientific machi
 
 - **Dr. Vinod P K**  
   - [Profile Link](https://faculty.iiit.ac.in/~vinod.pk/)  
-  - Topic: Advanced Robotics  -->
+  - Topic: Advanced Robotics  
+
+- **Dr. Vishnu Sreekumar**  
+  - [Profile Link](https://www.iiit.ac.in/faculty/vishnu-sreekumar/)  
+  - Topic: Non-parametric statistics for AI/ML. -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- Row 1 -->
@@ -190,6 +174,11 @@ The five-day program will cover foundations of computer vision, scientific machi
     <img src="/images/events/Vinod-P-K.png" alt="Vinod P K" 
          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     Vinod P K
+  </a>
+  <a href="https://www.iiit.ac.in/faculty/vishnu-sreekumar/" target="_blank" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+    <img src="/images/events/Sreekumar.jpeg" alt="Vishnu Sreekumar" 
+         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    Vishnu Sreekumar
   </a>
 </div>
 
