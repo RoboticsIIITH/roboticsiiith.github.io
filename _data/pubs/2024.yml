@@ -1,3 +1,21 @@
+- title: "An annular event-triggered artificial time-delayed control-based guidance approach"
+  authors:  Arunava Banerjee, Rajasree Sarkar, Joyjit Mukherjee, Spandan Roy
+  venue: Taylor & Francis (2024) Journal
+  link: # https://www.tandfonline.com/doi/full/10.1080/00207179.2023.2260045
+    url: /publications/2024/Arunava_An-annular-event
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Optimized RainDNet: an efficient image deraining method with enhanced perceptual quality"
+  authors:  Debesh Kumar Shandilya, Spandan Roy, Navjot Singh
+  venue: Signal, Image and Video Processing (2024) Journal
+  link: # https://link.springer.com/article/10.1007/s11760-024-03380-1
+    url: /publications/2024/Debesh_Optimized-RainDNet
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Equilibrium Point Selection and Two Stage Optimal Control of Quadrotor Under Actuator Failure"
   authors: Vidya C S, Harikumar Kandath
   venue:  2024 12th International Conference on Control, Mechatronics and Automation (ICCMA)

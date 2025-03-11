@@ -1,0 +1,28 @@
+- title: "DA-VIL: Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control"
+  authors:  Md Faizal Karim, Shreya Bollimuntha, Mohammed Saad Hashmi, Autrio Das, Gaurav Singh, Srinath Sridhar, Arun Kumar Singh, Nagamanikandan Govindan, K Madhava Krishna
+  venue: ICRA 2025
+  link: # https://arxiv.org/pdf/2410.19712
+    url: /publications/2025/Md_DA-VIL
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement"
+  authors:  Shivam Singh, Karthik Swaminathan, Nabanita Dash, Ramandeep Singh, Snehasis Banerjee, Mohan Sridharan, Madhava Krishna
+  venue: ICRA 2025
+  link: # https://sssshivvvv.github.io/adaptbot/
+    url: /publications/2025/Shivam_AdaptBot
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "CrowdSurfer: Sampling Optimization Augmented with Vector-Quantized Variational AutoEncoder for Dense Crowd Navigation"
+  authors:  Naman Kumar*, Antareep Singha*, Laksh Nanwani*, Dhruv Potdar, Tarun R., Fatemeh Rastgar, Simon Idoko, Arun Kumar Singh, K. Madhava Krishna
+  venue: ICRA 2025
+  link: # https://arxiv.org/abs/2409.16011
+    url: /publications/2025/Naman_CrowdSurfer
+    display: Project Page
+  id: mkrishna
+  featured: 1  
+
+
