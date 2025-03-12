@@ -32,8 +32,8 @@ project_page: https://sssshivvvv.github.io/adaptbot/
 paper: https://smart-wheelchair-rrc.github.io/CrowdSurfer-webpage/CrowdSurfer.pdf
 code: https://github.com/sssshivvvv/adaptbot
 supplement: https://sssshivvvv.github.io/adaptbot/AdaptBot__SupplementaryMaterial_.pdf
-video: https://www.youtube.com/watch?v=d9qBa6zbkXc
-# iframe: https://www.youtube.com/embed/BMDCYdxfaXM
+# video: https://www.youtube.com/watch?v=d9qBa6zbkXc
+iframe:   https://www.youtube.com/embed/d9qBa6zbkXc
 #demo: https://anyloc.github.io/#interactive_demo
 
 ---
