@@ -13,12 +13,24 @@ RRC is dedicated towards buidling next generation robots, that can assist humans
 
 - [Autonomous Driving](#autonomous-driving)
 - [Robotic Vision](#robotic-vision)
-- [Arial Robots and Control](#arial-robots-and-control)
+- [Aerial Robots and Control](#aerial-robots-and-control)
 - [Robot and mechanism design](#robot-and-mechanism-design)
 - [Mobile manipulation](#mobile-manipulation)
 
 ## Autonomous Driving <a name="autonomous-driving"></a>
 
+#### *Topometric Navigation for Urban Autonomous Driving*
+
+We propose to localize at city scale using sparse maps augmented with semantic features. We first create such maps using foundational models and then develop a custom particle filter method to localize. 
+It has major applications in autonomous driving, city-scale localization and navigation.
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://docs.google.com/presentation/d/1TJ0iLlxKxScDvWv8WpiUYVAGD60bjTou5Zbj7vNNfdE/edit?usp=sharing" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/pranjal_paul_research_iiit_ac_in/EXNTaTCTMzxJghOCmfKDmTIBFWmZlV-HaFmZF767pL5QFQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VnIosQ" >
+</button>
+</div>
+<center>Localization at city-scale using sparse maps</center>
+</div>
 
 #### *Self-Driving Car*
 Our lab has a custom-built self-driving stack for our Mahinda E2O vehicle. The stack comprises modular perception, planning, and control modules. We also have an on-campus shuttle-like service where the car is capable of autonomous pickup and drop-off. Our larger aim is to provide a research platform for self-driving that implements the complete tech stack with plug-and-play modules that will allow researchers to test new algorithms quickly at any layer of the stack on a real car. We have made strides in that area under the project **AutoDP**. Find out more about AutoDP [here]({{ site.url }}{{ site.baseurl }}/auto_dp).
@@ -64,6 +76,44 @@ Trajectory Optimizer: In Trajectory optimization, we optimize a trajectory that
 
 ## Robotic Vision <a name="robotic-vision"></a>
 
+#### *Open-Set 3D Semantic Instance Maps for Vision Language Navigation -- O3D-SIM*
+Humans excel at forming mental maps of their surroundings, equipping them to understand object relationships and navigate based on language queries. Our previous work SI Maps (Nanwani L, Agarwal A, Jain K, et al. Instance-level semantic maps for vision language navigation. In: 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE; 2023 Aug.) showed that having instance-level information and the semantic understanding of an environment helps significantly improve performance for language-guided tasks. We extend this instance-level approach to 3D while increasing the pipeline's robustness and improving quantitative and qualitative results. It can be applied to robots for a human-like interaction in home/office environments. The approach can also be combined with physics-based simulation engines for creating simulations of real world scenarios. We have made strides in that area under the project **O3D-SIM**.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://drive.google.com/file/d/1eqnWPeJBYoEaVoYM4dndpFj4oksVFp6u/view" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1fAjS6WG3Q-y-mYdfYQfrPReE8fe3Lhhb/view" >
+</button>
+</div>
+<center>Instance maps for vision-language guided navigation</center>
+</div>
+
+
+#### *CrowdSurfer: Sampling Optimization Augmented with Vector-Quantized Variational AutoEncoder for Dense Crowd Navigation*
+In this paper, we show that it is possible to dramatically enhance crowd navigation by just improving the local planner. Our approach combines generative modelling with inference time optimization to generate sophisticated long-horizon local plans at interactive rates. More specifically, we train a Vector Quantized Variational AutoEncoder to learn a prior over the expert trajectory distribution conditioned on the perception input which is used as an initialization during run-time. In particular, we compare against the recent DRL-VO approach and show a 40% improvement in success rate and a 6% improvement in travel time.
+This approach can be applied to mobile robots operating in crowded environments such as hospitals, airports, and shopping malls, where dynamic and dense human traffic is common. Enhancing local planning capabilities allows robots to navigate safely and efficiently without relying on static global maps, making them more adaptable to changing environments.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://drive.google.com/file/d/1y702G-9PmddHzWvD8yC7xRWVx6EzaSTA/view?usp=sharing" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1BG7O1j3HOIcy7ZRe8BYYlECoz4jy1ikM/view?usp=sharing" >
+</button>
+</div>
+<center> Sampling based optimizer augmented with VQ-VAEs for dense crowd navigation </center>
+</div>
+
+
+#### *Autonomous Wheelchair*
+?? @Ask Tarun
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://drive.google.com/file/d/1KqT2zTEl0fr3fYuVQntllxKiZ0XBPE4x/view" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1ls2k2TRoOYNwzSTdgmZPcFIGX5ph3JLq/view" >
+</button>
+</div>
+<center>Autonomous wheelchair</center>
+</div>
 
 #### *Autonomous Indoor Wheel Chair for Social Applications*
 The Vision-Language Robotic Navigation project (VNLP) aims to develop and deploy an autonomous interactive robotic wheelchair in hospital spaces, university campuses, and even residential spaces. The project involves building a robotic wheelchair equipped with sensors like depth cameras, LiDARs and a microphone to effectively interact with the dynamic environment and follow complex commands given by the operators. The project is demonstration dependent as much as it is research dependent. Current research addresses the problem of Referring Image Segmentation, that uses language commands to attend to correct entities in images. Peripheral projects include following a specified person in a crowd, finding a person/scene using scene recognition, etc., and localizing efficiently in long corridors.
@@ -94,7 +144,115 @@ Object detection is challenging under adverse weather conditions (such as fog or
 
 ---
 
-## Arial Robots and Control <a name="arial-robots-and-control"></a>
+## Aerial Robots and Control <a name="aerial-robots-and-control"></a>
+
+#### *Impedance Control on Aerial Manipulator*
+Stable aerial manipulation during dynamic tasks such as object catching, perching, or contact with rigid surfaces necessarily requires compliant behavior, which is often achieved via impedance control. Successful manipulation depends on how effectively the impedance control can tackle the unavoidable coupling forces between the aerial vehicle and the manipulator. However, the existing impedance controllers for aerial manipulator either ignore these coupling forces (in partitioned system compliance methods) or require their precise knowledge (in complete system compliance methods). Unfortunately, such forces are very difficult to model, if at all possible. To solve this long-standing control challenge, we introduce an impedance controller for aerial manipulator which does not rely on a priori knowledge of the system dynamics and of the coupling forces. The impedance control design can address unknown coupling forces, along with system parametric uncertainties, via suitably designed adaptive laws. The closed-loop system stability is proved analytically and experimental results with a payload-catching scenario demonstrate significant improvements in overall stability and tracking over the state-of-the-art impedance controllers using either partitioned or complete system compliance. This has major applications in aerial manipulation in challenging environments and environmental interaction for AAM.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://iiithydresearch-my.sharepoint.com/:b:/g/personal/amitabh_sharma_research_iiit_ac_in/EayZugmfYfFKrsjQcyDs_k4Bp5mEIPTNIjltRzAKPOliYw?e=VbswwL" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/ERksUl-VySxKv6irftJxy9QBScuH2mzIidbSJjM5KvDyBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vdzeg8" >
+</button>
+</div>
+<center> impedance control on aerial manipulator </center>
+</div>
+
+#### *Convex Polytope based High Speed Drone Navigation*
+In this paper, we address the problem of reactive motion planning for a quadrotor in an unknown, unstructured, and uncertain environment. We build on top of the work done on vision-based Safe Flight Corridor (SFC) generation and trajectory optimization, and provide a reformulation of trajectory generation paradigm to provide safety guarantees against collision in a noisy and uncertain environment. In this work, we assume that a noise model for the sensor is known and provide a method to compensate for expected noise in a region during both corridor finding and trajectory generation. The approach presented here is "mapless", i.e. collision avoidance is achieved without map fusion, reducing the computational load. The algorithms prevents generation of overly-conservative trajectories by not relying on map inflation to account for robot size, instead we find our SFCs in the noise compensated configuration space of the UAV and also bias the trajectory generation optimization to prefer safer regions. Finally, we present simulation and hardware experiments of our noise compensation, and provide a benchmarking with other notable approaches for reactive planning in an unknown environment. This has major applications in mapping in dense environments and target tracking for "defense" related tasks.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://iiithydstudents-my.sharepoint.com/:p:/g/personal/yash_bhutada_students_iiit_ac_in/EQbdzeTfSLZJrkr_QZotgYEBJm1tB1GWda3KogRSQIoKgg?e=gSwYCX" />
+<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1P3DtaeBASO614zEg0OWo0Le2xVylncgZ/view?usp=sharing" >
+</button>
+</div>
+<center> convex polytope based high speed drone navigation </center>
+</div>
+
+#### *Swarm-Gen: Generative Models Augmented with Differentiable Safety Filter*
+
+In this paper, we combine generative models with a safety-filter (SF) to generate diverse and feasible swarm coordination behavior in a scalable manner. Specifically, we sample diverse trajectories from a learned generative model which is subsequently projected onto the feasible set using the SF. We experiment with two choices for generative models, namely: Conditional Variational Autoencoder (CVAE) and Vector-Quantized Variational Autoencoder (VQ-VAE). We highlight the trade-offs these two models provide in terms of computation time and trajectory diversity. We develop a custom solver for our SF and equip it with a neural network that predicts context-specific initialization. The initialization network is trained in a self-supervised manner, taking advantage of the differentiability of the SF solver. We provide two sets of empirical results. First, we demonstrate that we can generate a large set of multi-modal, feasible trajectories, simulating diverse swarm behaviors, within a few tens of milliseconds. Second, we show that our initialization network provides faster convergence of our SF solver vis-a-vis other alternative heuristics.
+
+Swarm-Gen can be used in scenarios requiring coordinated multi-robot systems, such as search and rescue missions, environmental monitoring, and industrial automation, where generating diverse and safe trajectories is crucial.
+
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://iiithydresearch-my.sharepoint.com/:b:/g/personal/amitabh_sharma_research_iiit_ac_in/EcQOFBD0B-VBuHHmHJt4NHEB5SOcC_ZZNK8zqkLi9DdwKA?e=IdXpuf" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/Ec9kV0yvmq9KpdS7KfqEV0gBYU-5NNmu5vxesYfYKghR3g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tAjsaw" >
+</button>
+</div>
+<center> Swarm-Gen: Generative models with a differentiable safety filter </center>
+</div>
+
+
+#### *Sensor based Active Fault Tolerant Controller for Hexacopter*
+
+This paper presents the analysis and results of a data-driven approach for fault detection and isolation in case of complete failure of a single motor on a hexacopter. The proposed approach consists of a two-stage architecture using the Rotation Forest algorithm [1], [2], which can detect faults without any false alarms and achieve a true positive classification rate of 92.6% and a false positive classification rate of 0.06%. The classification results are compared to other methods such as Logistic Regression, Gaussian Naive Bayes, AdaBoost, and Random Forest. Over 120 datasets containing approximately 21,000 data points are generated in simulation - divided into two sets for training and validation of the model. Outdoor flight tests are performed to validate the classifier algorithm further. We can detect and classify the fault within 60ms of its occurrence. A dataset is published in the open-source domain and can be used for training similar models. The work presented in this paper is data-driven (or model free) since the classifier has no knowledge of the parameters of the UAV and is derived only based on the functional relationship between input and output variables.
+
+The proposed fault detection and isolation method for hexacopter UAVs has several potential applications. It can enhance UAV reliability in critical missions such as search and rescue, disaster response, and military surveillance by ensuring continued flight despite motor failures. The approach can also be applied in commercial drone delivery services to prevent crashes and package losses. Additionally, it can be used in industrial inspections of power lines, pipelines, and remote infrastructure where UAV stability is crucial. The data-driven, model-free nature of the system makes it adaptable to different UAV configurations, improving safety in autonomous aerial operations.
+
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://iiithydresearch-my.sharepoint.com/:b:/r/personal/amitabh_sharma_research_iiit_ac_in/Documents/RnD%20Showcase%202025/Hari%20Sir/A1_Landscape_R%26D_Showcase_2023_eFTC.pdf?csf=1&web=1&e=OAPE8h" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/ES-595vip9xJm8ZN_al4ZJABKaGWeEw-JrRp081aOObAxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RDvTLY" >
+</button>
+</div>
+<center> Sensor based Active Fault Tolerant Controller for Hexacopter </center>
+</div>
+
+
+#### *Equilibrium Point Selection and Two Stage Optimal Control of Quadrotor Under Actuator Failure*
+
+This paper presents a simple method for stabilizing the quadrotor dynamics under complete loss of one actuator using two-stage optimal control. Detailed equilibrium analysis and subsequent selection of operating point under actuator loss are provided, incorporating constraints on the maximum available thrust. A detailed simulation study using a high-fidelity nonlinear model of the quadrotor is presented showing the stability and performance of the closed-loop system under complete actuator loss, in the presence of external disturbances. This has major applications in autonomous UAVs.
+
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://drive.google.com/file/d/1I15qd9stq6Tot6NTuT7q5AbpgqENDcuU/view?usp=drive_link" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/EfP8Y1NWuDJHgHXbu4WYHkoBcvZSTLUpJhF2e8gCDgT6Ng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mR65k6" >
+</button>
+</div>
+<center> Equilibrium Point Selection and Two Stage Optimal Control of Quadrotor </center>
+</div>
+
+
+
+#### *Drone-based Infrastructure Assessment*
+
+Unmanned Aerial Vehicle (UAV) based remote sensing sys-tem incorporated with computer vision has demonstrated potential for assisting building construction and in disaster management like damage assessment during earthquakes. The vulnerability of a building to earthquake can be assessed through inspection that takes into account the expected damage progression of the associated component and the component’s contribution to structural system performance. Most of these inspections are done manually, leading to high utilization of manpower, time, and cost. This paper proposes a methodology to automate these inspections through UAV-based image data collection and a software library for post-processing that helps in estimating the seismic structural parameters. The key parameters considered here are the distances between adjacent buildings, building plan-shape, building plan area, objects on the rooftop and rooftop layout. The accuracy of the proposed methodology in estimating the above mentioned parameters is verifed through field measurements taken using a distance measuring sensor and also from the data obtained through Google Earth. Despite the technological advancements in the con-struction and surveying sector, the inspection of salient featureslike windows in an under-construction or existing building ispredominantly a manual process. Moreover, the number ofwindows present in a building is directly related to the magnitudeof deformation it suffers under earthquakes. In this research, amethod to accurately detect and count the number of windowsof a building by deploying an Unmanned Aerial Vehicle (UAV)based remote sensing system is proposed. The proposed two-stagemethod automates the identification and counting of windows bydeveloping computer vision pipelines that utilize data from UAV’sonboard camera and other sensors. Quantitative and Qualitativeresults show the effectiveness of our proposed approach inaccurately detecting and counting the windows compared to the existing method. This has major applications in damage detection and structural component recognition, monitoring the ongoing construction process, surveying the area, classification of completed rooftops, and 3D reconstruction.
+
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://docs.google.com/presentation/d/1l-cz20deDid-V8gE67eu_VJOdkHc7ki6X_9WEdqwevY/edit?usp=sharing" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/ETcA0P37HddPoGX6Rg1sorUBDrdMpTxbXkYccqm5nSfMQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oajPpR" >
+</button>
+</div>
+<center> Drone-based Infrastructure Assessment </center>
+</div>
+
+
+
+#### *Flapping Wing UAV*
+
+Flapping-wing robots (FWR) have domain-specific
+applications, where the lack of a fast-rotating propeller makes them safer when operating in complex environments with human proximity. However, most existing research in flapping-wing robots focuses on improving range/endurance or increasing pay-
+load capacity. This paper proposes a modular powertrain-based flapping-wing robot as a versatile solution to a mission-specific priority switch between payload or range for the same FWR. As the flapping frequency and stroke amplitude directly influence the flight characteristics of the FWR, we exploit this relation when designing our swappable powertrain with different motor-gearbox combinations and 4-bar crank lengths to obtain the desired frequency and amplitude. We calculate initial estimates for default configuration and simulate it using pterasoftware. We then fabricate two powertrain modules - a default configuration with a higher flapping frequency for payload purposes and an
+extended-range configuration with a tandem propeller for higher flight velocity for longer range and endurance. To verify the results, we compare the flight test data of both power train configurations using the same FWR platform.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://drive.google.com/drive/folders/1BszBg42tOQhAOEWKZurYalDZwLD2r6SR?usp=sharing" />
+<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1IGsAbJ_sEPHS67SMXc7vWGhsj1aI-ttF/view?usp=sharing" >
+</button>
+</div>
+<center> flapping wing UAV </center>
+</div>
+
+
 
 #### *Non-Linear Control of Quadrotors*
 Quadrotors find a vast potential use in delivery and disaster relief operations. Control becomes critical in such scenarios, especially when quadrotors have to manoeuvre through constrained spaces or deliver payloads at precise locations in the presence of external disturbances and parametric uncertainties stemming from uncertain payloads. Therefore, the controller has to guarantee a predefined tracking accuracy not to violate the state constraints . On the other hand, conventional fixed-valued state constraints are not suitable in many scenarios such as (i) initial offset being well beyond the expected accuracy, (ii) system dynamics experiencing significant transients due to the dropping of the payload. However, to the best of the authors’ knowledge, state-of-the-art controllers do not provide any solution for an underactuated system like a quadrotor when the system needs to honour time-varying constraints under uncertainties. This work proposes a controller for quadrotors which is robust against external disturbances and parametric variations and guarantees a time-varying predefined position, velocity, attitude, and attitude-rate accuracy. The closed-loop system stability is established analytically, and the effectiveness of the proposed controller is validated experimentally compared to the state-of-the-art under a precision payload delivery scenario.
@@ -155,6 +313,111 @@ A UAV-based remote sensing system incorporated with computer vision has demonstr
 ## Robot and mechanism design <a name="robot-and-mechanism-design"></a>
 
 Robots don’t need to look like a human or other biological agents. Unconventional robot designs with novel mechanisms can be synthesized to perform multiple functionalities with less design complexity that sometimes may outperform biological agents. RRC is working on different novel robotic designs for manipulation and locomotion – like throwing, perching, adaptive landing, pollination, and so on.
+
+#### *Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control*
+
+We propose a novel pipeline for dual-arm manipulation that combines the advantages of policy learning based on environment feedback and gradient-based optimization to learn controller gains required for the control outputs. This allows the robotic system to dynamically modulate its impedance in response to task demands, ensuring stability and dexterity in dual-arm operations. We evaluate our pipeline on a trajectory-tracking task involving a variety of large, complex objects with different masses and geometries. The performance is then compared to three other established methods for controlling dual-arm robots, demonstrating superior results.
+DA-VIL can be applied in industrial automation for handling large or complex assemblies, service robotics requiring human-like interactions, and assistive technologies where precise and adaptable dual-arm manipulation is essential.
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://iiithydresearch-my.sharepoint.com/:p:/g/personal/shreya_bollimuntha_research_iiit_ac_in/EYB8FnctCdROsNNqmQ2QngYBVK9f5cK8mk7rrjKHPvd6Bw?e=Oq4pjR" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/EVThQGCb5IxEhAigV3P60w8BxkK7l503lBVAl5dpAiP6bg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GTSTRU" >
+</button>
+</div>
+<center>Dual-arm manipulation based on policy learning and gradient-based optimization</center>
+</div>
+
+
+#### *Force Closure complete Dual-arm Grasping*
+
+Dual-arm robotic grasping is essential for manipulating large objects, yet dedicated datasets are limited. We present a large-scale dataset of 16 million dual-arm grasps evaluated under improved force-closure constraints, along with a benchmark set of 300 objects and 30,000 grasps in simulation for grasp quality assessment. Using this dataset, our Dual-Arm Grasp Classifier surpasses state-of-the-art methods by 15%, achieving higher grasp success rates and better generalization across objects.
+
+This dataset helps robots learn better ways to grasp large objects using two arms. It improves training for AI models, making robot grasps stronger and more reliable. Robots can use this for tasks like packing, assembling, and helping people. With better data, they can handle different objects more easily and work more efficiently.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://iiithydresearch-my.sharepoint.com/:p:/g/personal/md_faizal_research_iiit_ac_in/EQgbJocYtbtPrbZjt4g3tjoByJwvfQNHuxMbzGytepMjEA" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/EYs1rohruDlCr-hip7FVlhMB49lXGbWHXp4EYrleuX6vqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7vuWUf" >
+</button>
+</div>
+<center>Force closure based dual-arm grasping dataset</center>
+</div>
+
+#### *EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning*
+
+This approach offers remarkable adaptability, as they can be directly used for any new scene without needing specific training datasets. However, without a prior understanding of what diverse valid trajectories are and without specially designed cost functions for a given scene, the overall solutions tend to have low success rates. While deep-learning-based algorithms tremendously improve success rates, they are much harder to adopt without specialized training datasets. We propose EDMP, an Ensemble-of-costs- guided Diffusion for Motion Planning that aims to combine the strengths of classical and deep-learning-based motion planning. Our diffusion-based network is trained on a set of diverse general valid trajectories enabling the model to implicitly learn the properties of a valid trajectory. Like classical planning, for any new scene at the time of inference, we compute collision costs and incorporate this cost at each timestep of the diffusion network to generate valid collision-free trajectories. Instead of a single collision cost that may be insufficient in capturing diverse cues across scenes, we use an ensemble of collision costs to guide the diffusion process, significantly improving the success rate compared to classical planners. As we show in our experiments, EDMP outperforms SOTA deep-learning- based methods in most cases while retaining the generalization capabilities primarily associated with classical planners.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://ensemble-of-costs-diffusion.github.io/images/edmparch.png" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/MM_v2.mp4" >
+<button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/with-without-grasp-clipped.mp4" >
+<button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/denoisings/denoising_video_speedened1.mp4" >
+</button>
+</div>
+<center>EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning</center>
+</div>
+
+
+#### *GPD: Guided Polynomial Diffusion for Motion Planning*
+
+Diffusion-based motion planners are becoming popular due to their well-established performance improvements, stemming from sample diversity and the ease of incorporating new constraints directly during inference. However, a primary limitation of the diffusion process is the requirement for a substantial number of denoising steps, especially when the denoising process is coupled with gradient-based guidance. In this paper, we introduce, for the first time, diffusion in the parametric space of trajectories, where the parameters are represented as Bernstein coefficients. We show that this representation greatly improves the effectiveness of the costfunction guidance and the inference speed. We also introduce a novel stitching algorithm that leverages the diversity in diffusion-generated trajectories to produce collision-free trajectories with just a single cost function-guided model. We demonstrate that our approaches outperform current SOTA diffusion-based motion planners for manipulators and provide an ablation study on key components.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://guided-polynomial-diffusion.github.io/data/videos/state-space_vs_pd.mp4" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://guided-polynomial-diffusion.github.io/data/videos/stitching.mp4" >
+</button>
+</div>
+<center>GPD: Guided Polynomial Diffusion for Motion Planning</center>
+</div>
+
+
+#### *Bipedal Robot*
+
+This project presents the development of a
+6DOF (3DOF each leg) bipedal robot designed
+to achieve efficient and stable locomotion. The
+robot incorporates capstan reducers in the hip
+joints, allowing for high torque transmission
+with minimal backlash while maintaining a
+lightweight structure. The use of 3D-printed
+components significantly reduces weight,
+making the design suitable for research in
+dynamic walking. This bipedal robot can be used for research in legged locomotion, aiding in the development of more efficient and agile humanoid robots for real-world applications. Its lightweight and high-torque design make it suitable for use in assistive robotics, disaster response, and autonomous exploration in challenging terrain.
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://drive.google.com/file/d/1BewCwaeV52FJymf7M0viUERRz13xFJFP/view?usp=sharing" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1eyUBRyjXXhB-vPEFOzCugFSb3xaAy7IH/view?usp=sharing" >
+</button>
+</div>
+<center>Bipedal Robot</center>
+</div>
+
+
+#### *Robotic Intubtation System*
+
+This paper presents the development of a robot
+assisted intubation system engineered to
+mitigate the complexities inherent in
+endotracheal intubation across critical care
+environments. Current methodologies,
+including video laryngoscopy and flexible
+fiberoptic bronchoscopy, demand high levels of
+expertise and are associated with significant
+procedural risks. The proposed BRIS employs a
+synergistic integration of robotics, a deep
+learning approach, and a camera- augmented mouthpiece, controlled via a precision-engineered joystick mechanism. This has major applications in automation of intubation of patients.
+
+<div class="video">
+<div class="video__youtube" data-youtube>
+<img src="https://drive.google.com/file/d/1Bhyr53WPadUm1P0ISj0s4c1LjBV9b-wp/view?usp=sharing" class="video__placeholder" />
+<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1H64Sj__A4aXVch8-wXYM7e8AhnOdVwqD/view?usp=sharing" >
+</button>
+</div>
+<center>Robotic Intubtation System</center>
+</div>
+
 
 #### *Robot hand capable of grasping and throwing manipulation*
 Throwing manipulation is known for significantly fast rearrangement, sorting tasks, and placing objects outside the limited workspace with less effort. We present a standalone mechanism of a single actuated driven throwing gripper with mechanically coupled rigid links and an elastic gripping surface. This provides the function of grasping, placing, and throwing objects. 
