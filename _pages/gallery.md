@@ -25,33 +25,25 @@ permalink: /gallery/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" 
+         class="img-responsive" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
-</div>
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 0 %}
+</div> <!-- Close the row after every 4 images -->
 {% endif %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
+<!-- Close any unclosed row at the end -->
+{% assign remainder = number_printed | modulo: 4 %}
+{% if remainder != 0 %}
 </div>
 {% endif %}
 
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-{% if even_odd == 4 %}
-</div>
-{% endif %}
 
 
 ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
