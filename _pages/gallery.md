@@ -14,8 +14,9 @@ permalink: /gallery/
 {% endfor %}
 </div> -->
 
+## IEEE Robotics and Automation Society (RAS) President Visit (2025)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pics_funding_private %}
+{% for pic in site.data.ieee_ras_president_visit %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -24,7 +25,7 @@ permalink: /gallery/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/funding/private/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit//{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
