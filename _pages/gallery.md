@@ -33,6 +33,26 @@ permalink: /gallery/
 </div>
 {% endif %}
 
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+{% if even_odd == 4 %}
+</div>
+{% endif %}
+
+
 ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
