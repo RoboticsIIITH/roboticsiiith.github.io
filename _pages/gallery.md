@@ -37,10 +37,18 @@ permalink: /gallery/
 </div>
 
 ## Second Workshop on Systems and Intelligence for UAV (2024)
-<div class="row">
+<!-- <div class="row">
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpeg" class="img-responsive" width="100%" style="float: left" />
+  </div>
+{% endfor %}
+</div> -->
+
+<div class="row">
+{% for i in (1..4) %}
+  <div class="col-sm-6 clearfix">
+    <img src="/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/1.jpeg" class="img-responsive" width="100%" style="float: left" />
   </div>
 {% endfor %}
 </div>
