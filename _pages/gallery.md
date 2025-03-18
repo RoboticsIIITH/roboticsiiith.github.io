@@ -16,7 +16,7 @@ permalink: /gallery/
 
 ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pics_ieee_ras_president_visit %}
+{% for pic in site.data.pics_funding_public %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
