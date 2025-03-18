@@ -3,7 +3,7 @@ title: "RRC - Fourth_Master Trainer Program"
 layout: textlay
 excerpt: "RRC -- Fourth_Master Trainer Program"
 sitemap: false
-permalink: /Fourth_Master Trainer Program/
+permalink: /Events/
 ---
 
 <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc;">
@@ -32,7 +32,7 @@ permalink: /Fourth_Master Trainer Program/
 </div> -->
 
 
-- **Dates**: 03/04/2024 and 07/04/2024  
+- **Dates**: 03/03/2024 and 07/03/2024  
 - **Venue**: IIIT Hyderabad, Gachibowli, Hyderabad  
 - **[Register Now](https://forms.gle/M7RkcQGFCSLEKkwJ6)**  
 
@@ -187,7 +187,7 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     Tejas Bodas
   </a>
-  <a href="#" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+  <a href="https://www.iiit.ac.in/faculty/vinod-p-k/" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
     <img src="/images/MTP/Vinod-P-K.png" alt="Vinod PK" 
          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     Vinod PK
@@ -236,13 +236,13 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
 
 ---
 
-<!-- ### <a id="registration"></a>Registration  
+### <a id="registration"></a>Registration  
 
-[Register Here](https://forms.gle/He2kuPwxMjdnk4LM8)  
+[Register Here](https://forms.gle/M7RkcQGFCSLEKkwJ6)  
 
---- -->
+---
 
 Organized by Robotics Research Center, IIIT Hyderabad  
 
-<!-- ### <a id="rrc-homepage"></a>[RRC Homepage](https://robotics.iiit.ac.in/) -->
+### <a id="rrc-homepage"></a>[RRC Homepage](https://robotics.iiit.ac.in/)
 
