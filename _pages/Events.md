@@ -8,7 +8,7 @@ permalink: /Events/
 
 <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc;">
   <a href="#about-the-workshop" style="margin: 0 15px; text-decoration: none; color: #007bff;">About</a>
-  <a href="#detailed-schedule" style="margin: 0 15px; text-decoration: none; color: #007bff;">Schedule</a>
+  <a href="#workshop-schedule" style="margin: 0 15px; text-decoration: none; color: #007bff;">Schedule</a>
   <a href="#speakers" style="margin: 0 15px; text-decoration: none; color: #007bff;">Speakers</a>
   <a href="https://forms.gle/M7RkcQGFCSLEKkwJ6" style="margin: 0 15px; text-decoration: none; color: #007bff;">Registration</a>
   <!-- <a href="#rrc-homepage" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a> -->
@@ -49,7 +49,7 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
 
 ---
 
-### <a id="workshop-schedule"></a>Detailed Schedule  
+### <a id="workshop-schedule"></a>Workshop Schedule  
 
 <!-- <!DOCTYPE html> -->
 <html lang="en">
