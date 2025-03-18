@@ -74,7 +74,7 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
 </head>
 <body>
 
-    <h2>Workshop Schedule</h2>
+    
 
     <table>
         <tr>
