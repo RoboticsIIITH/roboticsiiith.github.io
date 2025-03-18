@@ -1,7 +1,7 @@
 ---
-title: "RRC - Fourth_Master Trainer Program"
+title: "RRC - Fourth Master Trainer Program"
 layout: textlay
-excerpt: "RRC -- Fourth_Master Trainer Program"
+excerpt: "RRC -- Fourth Master Trainer Program"
 sitemap: false
 permalink: /Events/
 ---
@@ -33,7 +33,7 @@ permalink: /Events/
 
 
 - **Dates**: 03/03/2024 and 07/03/2024  
-- **Venue**: IIIT Hyderabad, Gachibowli, Hyderabad  
+- **Venue**: Saranga Hall 119, Nilgiri Building, IIIT Hyderabad Campus, Gachibowli, Hyderabad  
 - **[Register Now](https://forms.gle/M7RkcQGFCSLEKkwJ6)**  
 
 ---
@@ -51,7 +51,11 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
 
 ### <a id="detailed-schedule"></a>Detailed Schedule  
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Workshop Schedule</title>
     <style>
         table {
@@ -69,7 +73,9 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
     </style>
 </head>
 <body>
+
     <h2>Workshop Schedule</h2>
+
     <table>
         <tr>
             <th>Date</th>
@@ -144,7 +150,10 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
             <td>Spandan Roy, Vinod PK, M Akshith Reddy</td>
         </tr>
     </table>
+
 </body>
+</html>
+
 
 ---
 
@@ -194,12 +203,12 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
   </a>
   
   <!-- Row 2 -->
-  <a href="https://sites.google.com/view/harikumar-kandath/home" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+  <a href="https://sites.google.com/view/harikumar-kandath/home/" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
     <img src="/images/events/HK.jpeg" alt="Harikumar K" 
          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     Harikumar K
   </a>
-  <a href="https://sites.google.com/view/spandanroy" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
+  <a href="https://sites.google.com/view/spandanroy/" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
     <img src="/images/MTP/spandan.jpeg" alt="Spandan Roy" 
          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     Spandan Roy
