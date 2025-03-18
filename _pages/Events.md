@@ -15,7 +15,7 @@ permalink: /Events/
   <a href="https://robotics.iiit.ac.in/" style="text-decoration: none; color: #007bff;">RRC Homepage</a>
 </nav>
 
-# Fourth_Master Trainer Program
+# Fourth Master Trainer Program
 **Focused on  Learning, Vision and Motion Planning**  
 
 <!-- <div style="text-align: center; width: 100%; margin: 0 auto;">
@@ -49,14 +49,14 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
 
 ---
 
-### <a id="detailed-schedule"></a>Detailed Schedule  
+### <a id="workshop-schedule"></a>Detailed Schedule  
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Workshop Schedule</title>
+    <!-- <title>Workshop Schedule</title> -->
     <style>
         table {
             width: 100%;
@@ -204,7 +204,7 @@ We welcome you to the Master Trainer Program for Technology Specific Work Theme 
   
   <!-- Row 2 -->
   <a href="https://sites.google.com/view/harikumar-kandath/home/" style="text-decoration: none; text-align: center; display: inline-block; width: 150px;">
-    <img src="/images/events/HK.jpeg" alt="Harikumar K" 
+    <img src="/images/MTP/harikumar-kandath.jpg" alt="Harikumar K" 
          style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     Harikumar K
   </a>
