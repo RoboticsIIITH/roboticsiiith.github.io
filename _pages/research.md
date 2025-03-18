@@ -21,12 +21,16 @@ RRC is dedicated towards buidling next generation robots, that can assist humans
 
 #### *Topometric Navigation for Urban Autonomous Driving*
 
-We propose to localize at city scale using sparse maps augmented with semantic features. We first create such maps using foundational models and then develop a custom particle filter method to localize. 
-It has major applications in autonomous driving, city-scale localization and navigation.
+We propose city-scale localization using sparse topometric maps augmented with foundational features. We achieve sparsity by registering language-aligned landmark cluster centroids exploiting vision-language models. During the query run, we perform 6 DoF pose estimation through geometric and semantic matching following the Monte Carlo localization scheme. We further propose a novel pose refinement step which follows the principles of pose graph optimization. Through the experiments, we show that our framework achieves kilometre-scale localization with navigation-ready accuracy while using less than 1% of the dense map built by standard SLAM techniques. You can read more about our work [here](https://reachpranjal.github.io/sparseloc/).
+
 <div class="video">
 <div class="video__youtube" data-youtube>
 <img src="https://docs.google.com/presentation/d/1TJ0iLlxKxScDvWv8WpiUYVAGD60bjTou5Zbj7vNNfdE/edit?usp=sharing" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/pranjal_paul_research_iiit_ac_in/EXNTaTCTMzxJghOCmfKDmTIBFWmZlV-HaFmZF767pL5QFQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VnIosQ" >
+<button class="video__button" data-youtube-button="https://reachpranjal.github.io/sparseloc/static/videos/teaser.mp4">
+</button>
+<button class="video__button" data-youtube-button="https://www.youtube.com/watch?v=Up8mKxx43Ow">
+</button>
+<button class="video__button" data-youtube-button="https://reachpranjal.github.io/sparseloc/static/videos/kidnap.mp4">
 </button>
 </div>
 <center>Localization at city-scale using sparse maps</center>
@@ -104,7 +108,11 @@ This approach can be applied to mobile robots operating in crowded environments 
 
 
 #### *Autonomous Wheelchair*
-?? @Ask Tarun
+This project develops an autonomous wheelchair for safe and efficient navigation in complex environments. It leverages 3D LiDAR for real-time perception and mapping, enabling dynamic obstacle avoidance and localization. The system employs global and local planning techniques for smooth, adaptive trajectories, with onboard processing handled by a Jetson-based computing platform.
+
+Beyond standard navigation, our research explores advanced motion planning. We developed a Dynamic MPC planner using CasADi for optimized trajectory generation and Crowdsurfer, accepted at ICRA 2025, for crowd navigation. Crowdsurfer combines generative modeling with inference-time optimization, achieving state-of-the-art performance without explicit obstacle prediction.
+
+By integrating robust navigation with cutting-edge planning, this work advances autonomous mobility in real-world environments.
 
 <div class="video">
 <div class="video__youtube" data-youtube>
@@ -345,7 +353,7 @@ This dataset helps robots learn better ways to grasp large objects using two arm
 
 #### *EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning*
 
-This approach offers remarkable adaptability, as they can be directly used for any new scene without needing specific training datasets. However, without a prior understanding of what diverse valid trajectories are and without specially designed cost functions for a given scene, the overall solutions tend to have low success rates. While deep-learning-based algorithms tremendously improve success rates, they are much harder to adopt without specialized training datasets. We propose EDMP, an Ensemble-of-costs- guided Diffusion for Motion Planning that aims to combine the strengths of classical and deep-learning-based motion planning. Our diffusion-based network is trained on a set of diverse general valid trajectories enabling the model to implicitly learn the properties of a valid trajectory. Like classical planning, for any new scene at the time of inference, we compute collision costs and incorporate this cost at each timestep of the diffusion network to generate valid collision-free trajectories. Instead of a single collision cost that may be insufficient in capturing diverse cues across scenes, we use an ensemble of collision costs to guide the diffusion process, significantly improving the success rate compared to classical planners. As we show in our experiments, EDMP outperforms SOTA deep-learning- based methods in most cases while retaining the generalization capabilities primarily associated with classical planners.
+Classical motion planning offers remarkable adaptability, as they can be directly used for any new scene without needing specific training datasets. However, without a prior understanding of what diverse valid trajectories are and without specially designed cost functions for a given scene, the overall solutions tend to have low success rates. While deep-learning-based algorithms tremendously improve success rates, they are much harder to adopt without specialized training datasets. We propose EDMP, an Ensemble-of-costs- guided Diffusion for Motion Planning that aims to combine the strengths of classical and deep-learning-based motion planning. Our diffusion-based network is trained on a set of diverse general valid trajectories enabling the model to implicitly learn the properties of a valid trajectory. Like classical planning, for any new scene at the time of inference, we compute collision costs and incorporate this cost at each timestep of the diffusion network to generate valid collision-free trajectories. Instead of a single collision cost that may be insufficient in capturing diverse cues across scenes, we use an ensemble of collision costs to guide the diffusion process, significantly improving the success rate compared to classical planners. As we show in our experiments, EDMP outperforms SOTA deep-learning- based methods in most cases while retaining the generalization capabilities primarily associated with classical planners.
 
 <div class="video">
 <div class="video__youtube" data-youtube>
