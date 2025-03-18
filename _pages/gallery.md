@@ -25,7 +25,7 @@ permalink: /gallery/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" 
+    <img src="{{ site.url }}{{ site.baseurl }}/images/funding/public/{{ pic.image }}" 
          class="img-responsive" width="95%" style="float: left" />
 </div>
 
