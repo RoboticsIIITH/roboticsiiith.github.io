@@ -15,6 +15,38 @@ permalink: /gallery/
 </div> -->
 
 ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
+{% assign number_printed = 0 %}
+{% for pic in site.data.ieee_ras_president_visit %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" 
+         class="img-responsive" width="95%" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 0 %}
+</div> <!-- Close the row after every 4 images -->
+{% endif %}
+
+{% endfor %}
+
+<!-- Close any unclosed row at the end -->
+{% assign remainder = number_printed | modulo: 4 %}
+{% if remainder != 0 %}
+</div>
+{% endif %}
+
+
+
+## IEEE Robotics and Automation Society (RAS) President Visit (2025)
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
     {% assign image_path = site.url | append: site.baseurl | append: "/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/" | append: i | append: ".jpeg" %}
@@ -37,10 +69,18 @@ permalink: /gallery/
 </div>
 
 ## Second Workshop on Systems and Intelligence for UAV (2024)
-<div class="row">
+<!-- <div class="row">
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpeg" class="img-responsive" width="100%" style="float: left" />
+  </div>
+{% endfor %}
+</div> -->
+
+<div class="row">
+{% for i in (1..4) %}
+  <div class="col-sm-6 clearfix">
+    <img src="/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/1.jpeg" class="img-responsive" width="100%" style="float: left" />
   </div>
 {% endfor %}
 </div>
