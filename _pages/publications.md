@@ -7,6 +7,7 @@ permalink: /publications/
 ---
 
 <!-- <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc; overflow-x: auto; white-space: nowrap;">
+  <a href="#2024" style="text-decoration: none; color: #007bff;">2025</a>
   <a href="#2024" style="text-decoration: none; color: #007bff;">2024</a>
   <a href="#2023" style="text-decoration: none; color: #007bff;">2023</a>
   <a href="#2022" style="text-decoration: none; color: #007bff;">2022</a>
@@ -34,6 +35,7 @@ permalink: /publications/
 </nav> -->
 
 <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc; overflow-x: auto; white-space: nowrap;">
+  <a href="#2024" style="text-decoration: none; color: #007bff; margin: 0 15px;">2025</a> |
   <a href="#2024" style="text-decoration: none; color: #007bff; margin: 0 15px;">2024</a> |
   <a href="#2023" style="text-decoration: none; color: #007bff; margin: 0 15px;">2023</a> |
   <a href="#2022" style="text-decoration: none; color: #007bff; margin: 0 15px;">2022</a> |
@@ -102,6 +104,18 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
 
 <!-- {% assign years = (2001..2024) | reverse %}
 {{ years | join: " \| " }} -->
+
+### <a id="2025"></a>2025
+
+{% for publi in site.data.pubs.2025 %}
+  
+  <b> {{ publi.title }} <br /> </b> 
+  <em>{{ publi.authors }} </em> <br />
+  Published at {{ publi.venue }} &nbsp; [<a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.link.display }}</a>]
+
+{% endfor %}
+
+***
 
 ### <a id="2024"></a>2024
 
