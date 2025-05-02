@@ -15,6 +15,49 @@ permalink: /gallery/
 </div> -->
 
 ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
+{% assign number_printed = 0 %}
+{% for pic in site.data.pics_ieee_ras_president_visit %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+<!-- {% assign even_odd = number_printed | modulo: 4 %} -->
+
+{% if even_odd > 2 %}
+
+</div> <!-- Close the row after every 4 images -->
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+{% if even_odd == 4 %}
+</div>
+{% endif %}
+
+
+<!-- ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
     {% assign image_path = site.url | append: site.baseurl | append: "/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/" | append: i | append: ".jpeg" %}
@@ -25,36 +68,44 @@ permalink: /gallery/
          alt="Gallery Image {{ i }}"
          onerror="this.style.display='none';" />
   </div>
-{% endfor %}
+{% endfor %} -->
 
-## Talk by Dr Shreya Santra
+<!-- ## Talk by Dr Shreya Santra
 <div class="row">
 {% for i in (1..3) %}
   <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Shreya_Santra/{i}.jpeg" class="img-responsive" width="100%" style="float: left" />
   </div>
 {% endfor %}
-</div>
+</div> -->
 
-## Second Workshop on Systems and Intelligence for UAV (2024)
-<div class="row">
+<!-- ## Second Workshop on Systems and Intelligence for UAV (2024) -->
+<!-- <div class="row">
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpeg" class="img-responsive" width="100%" style="float: left" />
+  </div>
+{% endfor %}
+</div> -->
+
+<!-- <div class="row">
+{% for i in (1..4) %}
+  <div class="col-sm-6 clearfix">
+    <img src="/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/1.jpeg" class="img-responsive" width="100%" style="float: left" />
   </div>
 {% endfor %}
 </div>
 
 ## ICRA 2024
 <div class="row">
-<!-- {% for i in (1..3) %} -->
+
   <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/Gallery/ICRA_2024/1.jpg" class="img-responsive" width="100%" style="float: left" />
   </div>
-<!-- {% endfor %} -->
-</div>
 
-## Talk by Dr Samarth Brahmbhatt
+</div> -->
+
+<!-- ## Talk by Dr Samarth Brahmbhatt
 <div class="row">
 {% for i in (1..2) %}
   <div class="col-sm-6 clearfix">
@@ -70,9 +121,9 @@ permalink: /gallery/
     <img src="{{ site.url }}{{ site.baseurl }}/Gallery/second_Master_Trainer_Program_17th_21st_July_2023/{{i}}.jpg" class="img-responsive" width="100%" style="float: left" />
   </div>
 {% endfor %}
-</div>
+</div> -->
 
-## National Workshop on Systems and Intelligence for UAV
+<!-- ## National Workshop on Systems and Intelligence for UAV
 <div class="row">
 {% for i in (1..4) %}
   <div class="col-sm-6 clearfix">
@@ -88,7 +139,7 @@ permalink: /gallery/
 .img-responsive {
     margin-bottom: 15px;
 }
-</style>
+</style> -->
 
 
 
