@@ -1,3 +1,12 @@
+- title: "An adversarial twin-agent inverse proximal policy optimization guided by model predictive control"
+  authors:  Nikita Gupta, Harikumar Kandath, Hariprasad Kodamana
+  venue: Computers and Chemical Engineering Journal
+  link: # https://www.sciencedirect.com/science/article/pii/S0098135425001280?via%3Dihub
+    url: /publications/2025/Nikita_An-adversarial
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "A task and motion planning framework using iteratively deepened AND/OR graph networks"
   authors:  Hossein Karami, Antony Thomas, Fulvio Mastrogiovanni
   venue: Robotics and Autonomous Systems Journal
