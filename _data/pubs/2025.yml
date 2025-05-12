@@ -1,3 +1,21 @@
+- title: "Sensor Based Active Fault Tolerant Controller for Hexacopters"
+  authors:  Munjaal Bhatt, Aakash Maniar, Aditya Mulgundkar, Deepak Gangadharan†, Harikumar Kandath
+  venue: 2025 11th International Conference on Automation, Robotics, and Applications
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10977680
+    url: /publications/2025/Munjaal_Sensor
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "GPALM-Multifunctional Underactuated Mechanism with Grasping, Perching, and Adaptive Landing Skills for Drone Applications"
+  authors:  Deep Patel, Nagamanikandan Govindan, Manas Reddy Ramidi, Harikumar Kandath
+  venue: Journal of Mechanisms and Robotics
+  link: # https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4068556/1216691/GPALM-Multifunctional-Underactuated-Mechanism-with?redirectedFrom=fulltext
+    url: /publications/2025/Deep_GPALM
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "An adversarial twin-agent inverse proximal policy optimization guided by model predictive control"
   authors:  Nikita Gupta, Harikumar Kandath, Hariprasad Kodamana
   venue: Computers and Chemical Engineering Journal
