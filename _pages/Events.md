@@ -32,7 +32,7 @@ permalink: /Events/
 </div> -->
 
 
-- **Dates**: 03/03/2024 and 07/03/2024  
+- **Dates**: 03/03/2025 and 07/03/2025  
 - **Venue**: Saranga Hall 119, Nilgiri Building, IIIT Hyderabad Campus, Gachibowli, Hyderabad  
 - **[Register Now](https://forms.gle/M7RkcQGFCSLEKkwJ6)**  
 

@@ -7,6 +7,7 @@ permalink: /publications/
 ---
 
 <!-- <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc; overflow-x: auto; white-space: nowrap;">
+  <a href="#2025" style="text-decoration: none; color: #007bff;">2025</a>
   <a href="#2024" style="text-decoration: none; color: #007bff;">2024</a>
   <a href="#2023" style="text-decoration: none; color: #007bff;">2023</a>
   <a href="#2022" style="text-decoration: none; color: #007bff;">2022</a>

@@ -7,7 +7,7 @@
   number_educ: 4
   education1: Ph.D. at Indian Institute of Technology, Kanpur
   education2: Postdoc at LAAS-CNRS, France
-  education3: <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en"> Google Scholars </a>
+  education3: <a href="https://madhavak-iiith.github.io/"> Personal Webpage </a>
   education4: Email - mkrishna (at) iiit.ac.in
 
 - name: Spandan Roy
@@ -34,17 +34,6 @@
   education3: <a href="https://scholar.google.co.in/citations?user=5i1t_QgAAAAJ&hl=en"> Google Scholars </a>
   education4: Email - harikumar.kandath (at) iiit.ac.in
 
-- name: Nagamanikandan Govindan
-  photo: mani.jpeg
-  info: Assistant Professor, started 2020
-  email: chatzopoulos (at) Physics.LeidenUniv.nl
-  url: /faculty_ngovindan
-  id: ngovindan
-  number_educ: 3
-  education1: Ph.D. at Indian Institute of Technology, Madras
-  education2: <a href="https://nagamanigi.wixsite.com/home"> Personal Webpage </a>
-  education3: Email - nagamanikandan.g (at) iiit.ac.in
-
 - name: Antony Thomas
   photo: antony.jpg
   info: Assistant Professor, started 2025
@@ -55,6 +44,17 @@
   education1: Ph.D. at University of Genoa, Italy
   education2: <a href="https://sites.google.com/view/antony-thomas"> Personal Webpage </a>
   education3: Email - antony.thomas (at) iiit.ac.in
+
+# name: Nagamanikandan Govindan
+# photo: mani.jpeg
+# info: Assistant Professor, started 2020
+# email: chatzopoulos (at) Physics.LeidenUniv.nl
+# url: /faculty_ngovindan
+# id: ngovindan
+# number_educ: 3
+# education1: Ph.D. at Indian Institute of Technology, Madras
+# education2: <a href="https://nagamanigi.wixsite.com/home"> Personal Webpage </a>
+# education3: Email - nagamanikandan.g (at) iiit.ac.in
 
 
 
