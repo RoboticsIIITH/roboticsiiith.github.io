@@ -23,14 +23,10 @@ RRC is dedicated towards buidling next generation robots, that can assist humans
 
 We propose city-scale localization using sparse topometric maps augmented with foundational features. We achieve sparsity by registering language-aligned landmark cluster centroids exploiting vision-language models. During the query run, we perform 6 DoF pose estimation through geometric and semantic matching following the Monte Carlo localization scheme. We further propose a novel pose refinement step which follows the principles of pose graph optimization. Through the experiments, we show that our framework achieves kilometre-scale localization with navigation-ready accuracy while using less than 1% of the dense map built by standard SLAM techniques. You can read more about our work [here](https://reachpranjal.github.io/sparseloc/).
 
+
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://docs.google.com/presentation/d/1TJ0iLlxKxScDvWv8WpiUYVAGD60bjTou5Zbj7vNNfdE/edit?usp=sharing" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://reachpranjal.github.io/sparseloc/static/videos/teaser.mp4">
-</button>
-<button class="video__button" data-youtube-button="https://www.youtube.com/watch?v=Up8mKxx43Ow">
-</button>
-<button class="video__button" data-youtube-button="https://reachpranjal.github.io/sparseloc/static/videos/kidnap.mp4">
+<button class="video__button" data-youtube-button="https://www.youtube.com/embed/Up8mKxx43Ow">
 </button>
 </div>
 <center>Localization at city-scale using sparse maps</center>
@@ -85,9 +81,8 @@ Humans excel at forming mental maps of their surroundings, equipping them to und
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://drive.google.com/file/d/1eqnWPeJBYoEaVoYM4dndpFj4oksVFp6u/view" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1fAjS6WG3Q-y-mYdfYQfrPReE8fe3Lhhb/view" >
-</button>
+<!-- <img src="https://drive.google.com/file/d/1eqnWPeJBYoEaVoYM4dndpFj4oksVFp6u/view" class="video__placeholder" /> -->
+<iframe src="https://drive.google.com/file/d/1fAjS6WG3Q-y-mYdfYQfrPReE8fe3Lhhb/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
 <center>Instance maps for vision-language guided navigation</center>
 </div>
@@ -99,8 +94,8 @@ This approach can be applied to mobile robots operating in crowded environments 
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://drive.google.com/file/d/1y702G-9PmddHzWvD8yC7xRWVx6EzaSTA/view?usp=sharing" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1BG7O1j3HOIcy7ZRe8BYYlECoz4jy1ikM/view?usp=sharing" >
+<!-- <img src="https://drive.google.com/file/d/1y702G-9PmddHzWvD8yC7xRWVx6EzaSTA/view?usp=sharing" class="video__placeholder" /> -->
+<iframe src="https://drive.google.com/file/d/1BG7O1j3HOIcy7ZRe8BYYlECoz4jy1ikM/preview" width="820" height="450" allowfullscreen></iframe>
 </button>
 </div>
 <center> Sampling based optimizer augmented with VQ-VAEs for dense crowd navigation </center>
@@ -116,9 +111,8 @@ By integrating robust navigation with cutting-edge planning, this work advances 
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://drive.google.com/file/d/1KqT2zTEl0fr3fYuVQntllxKiZ0XBPE4x/view" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1ls2k2TRoOYNwzSTdgmZPcFIGX5ph3JLq/view" >
-</button>
+<!-- <img src="https://drive.google.com/file/d/1KqT2zTEl0fr3fYuVQntllxKiZ0XBPE4x/view" class="video__placeholder" /> -->
+<iframe src="https://drive.google.com/file/d/1ls2k2TRoOYNwzSTdgmZPcFIGX5ph3JLq/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
 <center>Autonomous wheelchair</center>
 </div>
@@ -159,9 +153,8 @@ Stable aerial manipulation during dynamic tasks such as object catching, perchin
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://iiithydresearch-my.sharepoint.com/:b:/g/personal/amitabh_sharma_research_iiit_ac_in/EayZugmfYfFKrsjQcyDs_k4Bp5mEIPTNIjltRzAKPOliYw?e=VbswwL" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/ERksUl-VySxKv6irftJxy9QBScuH2mzIidbSJjM5KvDyBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vdzeg8" >
-</button>
+<!-- <img src="https://iiithydresearch-my.sharepoint.com/:b:/g/personal/amitabh_sharma_research_iiit_ac_in/EayZugmfYfFKrsjQcyDs_k4Bp5mEIPTNIjltRzAKPOliYw?e=VbswwL" /> -->
+<iframe src="https://drive.google.com/file/d/1NFO0nnE0ebKqZRiVCJJt7kC1zt-0_Gkm/preview" width="800" height="450" allowfullscreen></iframe>
 </div>
 <center> impedance control on aerial manipulator </center>
 </div>
@@ -171,9 +164,9 @@ In this paper, we address the problem of reactive motion planning for a quadroto
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://iiithydstudents-my.sharepoint.com/:p:/g/personal/yash_bhutada_students_iiit_ac_in/EQbdzeTfSLZJrkr_QZotgYEBJm1tB1GWda3KogRSQIoKgg?e=gSwYCX" />
-<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1P3DtaeBASO614zEg0OWo0Le2xVylncgZ/view?usp=sharing" >
-</button>
+<!-- <img src="https://iiithydstudents-my.sharepoint.com/:p:/g/personal/yash_bhutada_students_iiit_ac_in/EQbdzeTfSLZJrkr_QZotgYEBJm1tB1GWda3KogRSQIoKgg?e=gSwYCX" /> -->
+<iframe src="https://drive.google.com/file/d/1P3DtaeBASO614zEg0OWo0Le2xVylncgZ/preview" width="820" height="450" allowfullscreen>
+</iframe>
 </div>
 <center> convex polytope based high speed drone navigation </center>
 </div>
@@ -187,9 +180,8 @@ Swarm-Gen can be used in scenarios requiring coordinated multi-robot systems, su
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://iiithydresearch-my.sharepoint.com/:b:/g/personal/amitabh_sharma_research_iiit_ac_in/EcQOFBD0B-VBuHHmHJt4NHEB5SOcC_ZZNK8zqkLi9DdwKA?e=IdXpuf" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/Ec9kV0yvmq9KpdS7KfqEV0gBYU-5NNmu5vxesYfYKghR3g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tAjsaw" >
-</button>
+<!-- <img src="https://iiithydresearch-my.sharepoint.com/:b:/g/personal/amitabh_sharma_research_iiit_ac_in/EcQOFBD0B-VBuHHmHJt4NHEB5SOcC_ZZNK8zqkLi9DdwKA?e=IdXpuf" /> -->
+<iframe src="https://drive.google.com/file/d/1Z4tAktYSSU08EAUzvJMDU1Q4n524ekKd/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
 <center> Swarm-Gen: Generative models with a differentiable safety filter </center>
 </div>
@@ -204,9 +196,8 @@ The proposed fault detection and isolation method for hexacopter UAVs has severa
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://iiithydresearch-my.sharepoint.com/:b:/r/personal/amitabh_sharma_research_iiit_ac_in/Documents/RnD%20Showcase%202025/Hari%20Sir/A1_Landscape_R%26D_Showcase_2023_eFTC.pdf?csf=1&web=1&e=OAPE8h" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/ES-595vip9xJm8ZN_al4ZJABKaGWeEw-JrRp081aOObAxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RDvTLY" >
-</button>
+<!-- <img src="https://iiithydresearch-my.sharepoint.com/:b:/r/personal/amitabh_sharma_research_iiit_ac_in/Documents/RnD%20Showcase%202025/Hari%20Sir/A1_Landscape_R%26D_Showcase_2023_eFTC.pdf?csf=1&web=1&e=OAPE8h" /> -->
+<iframe src="https://drive.google.com/file/d/1vBVd-hrmM3T5rkVuBjXczAOiRzK54k-p/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
 <center> Sensor based Active Fault Tolerant Controller for Hexacopter </center>
 </div>
@@ -219,10 +210,10 @@ This paper presents a simple method for stabilizing the quadrotor dynamics under
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://drive.google.com/file/d/1I15qd9stq6Tot6NTuT7q5AbpgqENDcuU/view?usp=drive_link" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/EfP8Y1NWuDJHgHXbu4WYHkoBcvZSTLUpJhF2e8gCDgT6Ng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mR65k6" >
-</button>
+<!-- <img src="https://drive.google.com/file/d/1I15qd9stq6Tot6NTuT7q5AbpgqENDcuU/view?usp=drive_link" /> -->
+<iframe src="https://drive.google.com/file/d/1P7txGn1Tvn2d8vTn-Fky-YvB5yYMCb71/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/drone.png" class="img-responsive" width="80%" style="float: center"></center>
 <center> Equilibrium Point Selection and Two Stage Optimal Control of Quadrotor </center>
 </div>
 
@@ -235,10 +226,10 @@ Unmanned Aerial Vehicle (UAV) based remote sensing sys-tem incorporated with com
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://docs.google.com/presentation/d/1l-cz20deDid-V8gE67eu_VJOdkHc7ki6X_9WEdqwevY/edit?usp=sharing" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/ETcA0P37HddPoGX6Rg1sorUBDrdMpTxbXkYccqm5nSfMQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oajPpR" >
-</button>
+<!-- <img src="" /> -->
+<iframe src="https://drive.google.com/file/d/10Mmova1vBShzTlH1ZsILD0nsnREbywlO/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/drone.png" class="img-responsive" width="80%" style="float: center"></center>
 <center> Drone-based Infrastructure Assessment </center>
 </div>
 
@@ -246,18 +237,16 @@ Unmanned Aerial Vehicle (UAV) based remote sensing sys-tem incorporated with com
 
 #### *Flapping Wing UAV*
 
-Flapping-wing robots (FWR) have domain-specific
-applications, where the lack of a fast-rotating propeller makes them safer when operating in complex environments with human proximity. However, most existing research in flapping-wing robots focuses on improving range/endurance or increasing pay-
-load capacity. This paper proposes a modular powertrain-based flapping-wing robot as a versatile solution to a mission-specific priority switch between payload or range for the same FWR. As the flapping frequency and stroke amplitude directly influence the flight characteristics of the FWR, we exploit this relation when designing our swappable powertrain with different motor-gearbox combinations and 4-bar crank lengths to obtain the desired frequency and amplitude. We calculate initial estimates for default configuration and simulate it using pterasoftware. We then fabricate two powertrain modules - a default configuration with a higher flapping frequency for payload purposes and an
+Flapping-wing robots (FWR) have domain-specific applications, where the lack of a fast-rotating propeller makes them safer when operating in complex environments with human proximity. However, most existing research in flapping-wing robots focuses on improving range/endurance or increasing payload capacity. This paper proposes a modular powertrain-based flapping-wing robot as a versatile solution to a mission-specific priority switch between payload or range for the same FWR. As the flapping frequency and stroke amplitude directly influence the flight characteristics of the FWR, we exploit this relation when designing our swappable powertrain with different motor-gearbox combinations and 4-bar crank lengths to obtain the desired frequency and amplitude. We calculate initial estimates for default configuration and simulate it using pterasoftware. We then fabricate two powertrain modules - a default configuration with a higher flapping frequency for payload purposes and an
 extended-range configuration with a tandem propeller for higher flight velocity for longer range and endurance. To verify the results, we compare the flight test data of both power train configurations using the same FWR platform.
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://drive.google.com/drive/folders/1BszBg42tOQhAOEWKZurYalDZwLD2r6SR?usp=sharing" />
-<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1IGsAbJ_sEPHS67SMXc7vWGhsj1aI-ttF/view?usp=sharing" >
-</button>
+<!-- <img src="" /> -->
+<iframe src="https://drive.google.com/file/d/1IGsAbJ_sEPHS67SMXc7vWGhsj1aI-ttF/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
-<center> flapping wing UAV </center>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/flag-wing.png" class="img-responsive" width="80%" style="float: center"></center>
+<center> Flapping Wing UAV </center>
 </div>
 
 
@@ -328,12 +317,13 @@ We propose a novel pipeline for dual-arm manipulation that combines the advantag
 DA-VIL can be applied in industrial automation for handling large or complex assemblies, service robotics requiring human-like interactions, and assistive technologies where precise and adaptable dual-arm manipulation is essential.
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://iiithydresearch-my.sharepoint.com/:p:/g/personal/shreya_bollimuntha_research_iiit_ac_in/EYB8FnctCdROsNNqmQ2QngYBVK9f5cK8mk7rrjKHPvd6Bw?e=Oq4pjR" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/EVThQGCb5IxEhAigV3P60w8BxkK7l503lBVAl5dpAiP6bg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GTSTRU" >
-</button>
+<!-- <img src="" class="video__placeholder" /> -->
+<iframe src="https://drive.google.com/file/d/1igKuhNKPuJryga07TaIiS_XW8hnCq6tu/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/davil.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>Dual-arm manipulation based on policy learning and gradient-based optimization</center>
 </div>
+
 
 
 #### *Force Closure complete Dual-arm Grasping*
@@ -344,10 +334,10 @@ This dataset helps robots learn better ways to grasp large objects using two arm
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://iiithydresearch-my.sharepoint.com/:p:/g/personal/md_faizal_research_iiit_ac_in/EQgbJocYtbtPrbZjt4g3tjoByJwvfQNHuxMbzGytepMjEA" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://iiithydresearch-my.sharepoint.com/:v:/g/personal/amitabh_sharma_research_iiit_ac_in/EYs1rohruDlCr-hip7FVlhMB49lXGbWHXp4EYrleuX6vqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7vuWUf" >
-</button>
+<!-- <img src="" class="video__placeholder" /> -->
+<iframe src="https://drive.google.com/file/d/1dyHbli1myYJxYw_qCFRAa2TZ-EfGDowi/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/dual-arm-grasping-dataset.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>Force closure based dual-arm grasping dataset</center>
 </div>
 
@@ -357,12 +347,14 @@ Classical motion planning offers remarkable adaptability, as they can be directl
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://ensemble-of-costs-diffusion.github.io/images/edmparch.png" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/MM_v2.mp4" >
-<button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/with-without-grasp-clipped.mp4" >
+<!-- <img src="https://ensemble-of-costs-diffusion.github.io/images/edmparch.png" class="video__placeholder" /> -->
+<button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/MM_v2.mp4" ></button>
+<button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/with-without-grasp-clipped.mp4" > </button>
 <button class="video__button" data-youtube-button="https://ensemble-of-costs-diffusion.github.io/videos/denoisings/denoising_video_speedened1.mp4" >
 </button>
+<!-- width="820" height="450" allowfullscreen></iframe> -->
 </div>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/edmparch.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning</center>
 </div>
 
@@ -373,10 +365,14 @@ Diffusion-based motion planners are becoming popular due to their well-establish
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://guided-polynomial-diffusion.github.io/data/videos/state-space_vs_pd.mp4" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://guided-polynomial-diffusion.github.io/data/videos/stitching.mp4" >
-</button>
+<!-- <img src="" class="video__placeholder" /> -->
+<a href="https://guided-polynomial-diffusion.github.io/data/videos/stitching.mp4" target="_blank">
+  <button>Watch Video</button>
+</a>
+
 </div>
+<!-- <center><img src="{{ site.url }}{{ site.baseurl }}images/research/davil.png" class="img-responsive" width="100%" style="float: center"></center> -->
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/gpd-videoframe_8441.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>GPD: Guided Polynomial Diffusion for Motion Planning</center>
 </div>
 
@@ -395,10 +391,11 @@ making the design suitable for research in
 dynamic walking. This bipedal robot can be used for research in legged locomotion, aiding in the development of more efficient and agile humanoid robots for real-world applications. Its lightweight and high-torque design make it suitable for use in assistive robotics, disaster response, and autonomous exploration in challenging terrain.
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://drive.google.com/file/d/1BewCwaeV52FJymf7M0viUERRz13xFJFP/view?usp=sharing" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1eyUBRyjXXhB-vPEFOzCugFSb3xaAy7IH/view?usp=sharing" >
+<!-- <img src="" class="video__placeholder" /> -->
+<iframe src="https://drive.google.com/file/d/1eyUBRyjXXhB-vPEFOzCugFSb3xaAy7IH/preview" width="820" height="450" allowfullscreen></iframe>
 </button>
 </div>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/biped-1.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>Bipedal Robot</center>
 </div>
 
@@ -419,10 +416,11 @@ learning approach, and a camera- augmented mouthpiece, controlled via a precisio
 
 <div class="video">
 <div class="video__youtube" data-youtube>
-<img src="https://drive.google.com/file/d/1Bhyr53WPadUm1P0ISj0s4c1LjBV9b-wp/view?usp=sharing" class="video__placeholder" />
-<button class="video__button" data-youtube-button="https://drive.google.com/file/d/1H64Sj__A4aXVch8-wXYM7e8AhnOdVwqD/view?usp=sharing" >
+<!-- <img src="" class="video__placeholder" /> -->
+<iframe src="https://drive.google.com/file/d/1H64Sj__A4aXVch8-wXYM7e8AhnOdVwqD/preview" width="820" height="450" allowfullscreen></iframe>
 </button>
 </div>
+<center><img src="{{ site.url }}{{ site.baseurl }}images/research/robot-intubation.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>Robotic Intubtation System</center>
 </div>
 
