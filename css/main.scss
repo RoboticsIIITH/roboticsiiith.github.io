@@ -13,17 +13,17 @@ body {
 	padding-bottom: 20px;
 }
 
-/* Mobile: More padding (collapsed menu takes space) */
-@media (max-width: 767px) {
+/* DEsktop: More padding (collapsed menu takes space) */
+@media (max-width: 768px) {
 	body {
-		padding-top: 100px;
+		padding-top: 65px;
 	}
 }
 
-/* Desktop: Match actual navbar height */
-@media (min-width: 768px) {
+/* Mobile: Match actual navbar height */
+@media (min-width: 767px) {
 	body {
-		padding-top: 80px; /* Match .navbar min-height */
+		padding-top: 75px; /* Match .navbar min-height */
 	}
 }
 
@@ -43,20 +43,21 @@ figcaption {
 /* Top navigation bar */
 
 .navbar {
-	min-height: 80px;
-  }
-  
+	min-height: 60px;
+}
+
 .navbar-brand {
-padding: 0 15px;
-height: 80px;
-line-height: 80px;
+	padding: 0 15px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 18px;
 }
 
 .navbar-toggle {
-/* (80px - button height 34px) / 2 = 23px */
-margin-top: 23px;
-padding: 9px 10px !important;
+	margin-top: 13px; /* (60px - 34px)/2 = 13 */
+	padding: 6px 8px !important;
 }
+
 
 @media (min-width: 768px) {
 .navbar-nav > li > a {
