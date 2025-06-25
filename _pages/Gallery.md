@@ -27,27 +27,8 @@ permalink: /gallery/
 <div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
-
-## ICRA_2024
-{% assign number_printed = 0 %}
-{% for pic in site.data.pics_icra_2024 %}
-
-{% assign even_odd = number_printed | modulo: 3 %}
-
-{% if even_odd == 0 %}
-</div class="row"> 
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/Gallery/ICRA_2024/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+</div> -->
 
 {% if even_odd == 2 %}
 </div>

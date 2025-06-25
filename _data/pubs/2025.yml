@@ -1,8 +1,8 @@
-- title: "DG16M: A Large-Scale Dataset for Dual-Arm Grasping with Force-Optimized Grasps"
-  authors: Md Faizal Karim, Mohammed Saad Hashmi1, Shreya Bollimuntha, Mahesh Reddy Tapeti, Gaurav Singh,Nagamanikandan Govindan, K Madhava Krishna
-  venue: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  link: # https://arxiv.org/pdf/2503.08358
-    url: /publications/2025/Md_DG16M
+- title: "Control Barrier Function-based Predictive Control for Close Proximity operation of UAVs inside a Tunnel"
+  authors: Vedant Mundheda, Damodar Datta K and Harikumar Kandath
+  venue: 2025 International Conference on Unmanned Aircraft Systems (ICUAS)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11007781&tag=1
+    url: /publications/2025/Vedant_Control
     display: Project Page
   id: mkrishna
   featured: 1
