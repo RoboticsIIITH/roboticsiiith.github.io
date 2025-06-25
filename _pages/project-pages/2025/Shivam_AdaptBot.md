@@ -24,22 +24,6 @@ affiliations:
   - name: Robotics Research Center, IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
-<<<<<<< HEAD
-  - name: TCS Research
-    link: https://www.tcs.com/what-we-do/research
-    sup: 2
-  - name: University of Edinburgh, UK
-    link: https://www.ed.ac.uk/
-    sup: 3
-permalink: /publications/2025/Shivam_AdaptBot/
-abstract: "Embodied agents assisting humans are often asked to complete a new task in a new scenario. An agent preparing a particular dish in the kitchen based on a known recipe may be asked to prepare a new dish or to perform cleaning tasks in the storeroom. There may not be sufficient resources, e.g., time or labeled examples, to train the agent for these new situations. Large Language Models (LLMs) trained on considerable knowledge across many domains are able to predict a sequence of abstract actions for such new tasks and scenarios, although it may not be possible for the agent to execute this action sequence due to task-, agent-, or domain-specific constraints. Our framework addresses these challenges by leveraging the generic predictions provided by LLM and the prior domain-specific knowledge encoded in a Knowledge Graph (KG), enabling an agent to quickly adapt to new tasks and scenarios. The robot also solicits and uses human input as needed to refine its existing knowledge. Based on experimental evaluation over cooking and cleaning tasks in simulation domains, we demonstrate that the interplay between LLM, KG, and human input leads to substantial performance gains compared with just using the LLM output."
-project_page: https://sssshivvvv.github.io/adaptbot/
-#paper: https://smart-wheelchair-rrc.github.io/CrowdSurfer-webpage/CrowdSurfer.pdf
-code: https://github.com/sssshivvvv/adaptbot
-supplement: https://sssshivvvv.github.io/adaptbot/AdaptBot__SupplementaryMaterial_.pdf
-video: https://www.youtube.com/watch?v=d9qBa6zbkXc
-iframe: https://www.youtube.com/embed/d9qBa6zbkXc
-=======
   - name: TCS Research, Tata Consultancy Services, India
     link: https://www.tcs.com/
     sup: 2
@@ -54,7 +38,6 @@ code: https://github.com/sssshivvvv/adaptbot
 supplement: https://sssshivvvv.github.io/adaptbot/AdaptBot__SupplementaryMaterial_.pdf
 # video: https://www.youtube.com/watch?v=d9qBa6zbkXc
 iframe:   https://www.youtube.com/embed/d9qBa6zbkXc
->>>>>>> e946ef68ed8faa4518baf47f6b258a4b20387f79
 #demo: https://anyloc.github.io/#interactive_demo
 
 ---
