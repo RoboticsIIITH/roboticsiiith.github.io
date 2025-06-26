@@ -27,22 +27,8 @@ permalink: /gallery/
 <div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-<!-- {% assign even_odd = number_printed | modulo: 4 %} -->
-
-{% if even_odd > 2 %}
-
-</div> <!-- Close the row after every 4 images -->
-{% endif %}
-
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+</div> -->
 
 {% if even_odd == 2 %}
 </div>

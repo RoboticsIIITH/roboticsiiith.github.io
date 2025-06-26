@@ -1,3 +1,12 @@
+- title: "Control Barrier Function-based Predictive Control for Close Proximity operation of UAVs inside a Tunnel"
+  authors: Vedant Mundheda, Damodar Datta K and Harikumar Kandath
+  venue: 2025 International Conference on Unmanned Aircraft Systems (ICUAS)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11007781&tag=1
+    url: /publications/2025/Vedant_Control
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Imagine-2-Drive: Leveraging High-Fidelity World Models via Multi-Modal Diffusion Policies"
   authors:  Anant Garg, K Madhava Krishna
   venue: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
