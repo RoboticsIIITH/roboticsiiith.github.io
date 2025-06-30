@@ -1,3 +1,39 @@
+- title: "GPD:Guided Polynomial Diffusion for Motion Planning"
+  authors:  Ajit Srikanth, Parth Mahanjan, Kallol Saha, Vishal Mandadi, Pranjal Paul, Pawan Wadhwani, Brojeshwar Bhowmick, Arun Singh, Madhava Krishna
+  venue: IEEE International Conference on Automation Science and Engineering 2025
+  link: # https://arxiv.org/pdf/2501.18229
+    url: /publications/2025/Ajit_GPD
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Diffusion-FS: Multimodal Free-Space Prediction via Diffusion for Autonomous Driving"
+  authors: Keshav Gupta, Tejas S. Stanley, Pranjal Paul, Arun K. Singh, K. Madava Krishna
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems 2025 (IROS)
+  link: # https://diffusion-freespace.github.io/
+    url: /publications/2025/Keshav_Diffusion-FS
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Towards Global Localization Using Multi-Modal Object-Instance Re-Identification"
+  authors: Aneesh Chavan, Vaibhav Agrawal, Vineeth Bhat, Sarthak Chittawar, Siddharth Srivastava, Chetan Arora, K Madhava Krishna
+  venue: Advances in Robotics, 2025
+  link: # https://arxiv.org/pdf/2409.12002
+    url: /publications/2025/Aneesh_Towards
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "DG16M: A Large-Scale Dataset for Dual-Arm Grasping with Force-Optimized Grasps"
+  authors: Md Faizal Karim, Mohammed Saad Hashmi, Shreya Bollimuntha, Mahesh Reddy Tapeti, Gaurav Singh, Nagamanikandan Govindan, K Madhava Krishna
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems 2025 (IROS)
+  link: # https://arxiv.org/pdf/2503.08358
+    url: /publications/2025/Md_DG16M
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Control Barrier Function-based Predictive Control for Close Proximity operation of UAVs inside a Tunnel"
   authors: Vedant Mundheda, Damodar Datta K and Harikumar Kandath
   venue: 2025 International Conference on Unmanned Aircraft Systems (ICUAS)
