@@ -1,3 +1,21 @@
+- title: "SparseLoc: Sparse Open-Set Landmark-based Global Localization for Autonomous Navigation"
+  authors: Pranjal Paul, Vineeth Bhat, Tejas Salian, Mohammad Omama, Krishna Murthy Jatavallabhula, Naveen Arulselvan, Madhava Krishna
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems 2025 (IROS)
+  link: #
+    url: /publications/2025/Pranjal_SparseLoc
+    display: Project Page
+  id: mkrishna
+  featured: 1
+  
+- title: "Leveraging 2D Priors and SDF Guidance for Urban Scene Rendering"
+  authors: Siddharth Tourani, Jayaram Reddy, Akash Kumbar, Satyajit Tourani, Nishant Goyal, Dinesh Reddy Narapureddy, Muhammad Haris Khan, Madhava Krishna
+  venue: IEEE/CVF International Conference in Computer Vision 2025
+  link: #
+    url: /publications/2025/Akash_SDF
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "GPD:Guided Polynomial Diffusion for Motion Planning"
   authors:  Ajit Srikanth, Parth Mahanjan, Kallol Saha, Vishal Mandadi, Pranjal Paul, Pawan Wadhwani, Brojeshwar Bhowmick, Arun Singh, Madhava Krishna
   venue: IEEE International Conference on Automation Science and Engineering 2025
