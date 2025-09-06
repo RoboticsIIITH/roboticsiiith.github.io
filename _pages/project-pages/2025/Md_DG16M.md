@@ -24,8 +24,7 @@ affiliations:
     link: https://www.iiitdm.ac.in/
     sup: 2
 permalink: /publications/2025/Md_DG16M/
-abstract: "— Dual-arm robotic grasping is crucial for handling large objects that require stable and coordinated manipulation. While single-arm grasping has been extensively studied, datasets tailored for dual-arm settings remain scarce. We introduce a large-scale dataset of 16 million dual-arm
-grasps, evaluated under improved force-closure constraints. Additionally, we develop a benchmark dataset containing 300 objects with approximately 30,000 grasps, evaluated in a physics simulation environment, providing a better grasp quality assessment for dual-arm grasp synthesis methods. Finally, we demonstrate the effectiveness of our dataset by training a Dual-Arm Grasp Classifier network that outperforms the stateof-the-art methods by 15%, achieving higher grasp success rates and improved generalization across objects."
+abstract: "Dual-arm robotic grasping is crucial for handling large objects that require stable and coordinated manipulation. While single-arm grasping has been extensively studied, datasets tailored for dual-arm settings remain scarce. We introduce a large-scale dataset of 16 million dual-arm grasps, evaluated under improved force-closure constraints. Additionally, we develop a benchmark dataset containing 300 objects with approximately 30,000 grasps, evaluated in a physics simulation environment, providing a better grasp quality assessment for dual-arm grasp synthesis methods. Finally, we demonstrate the effectiveness of our dataset by training a Dual-Arm Grasp Classifier network that outperforms the stateof-the-art methods by 15%, achieving higher grasp success rates and improved generalization across objects."
 project_page: https://dg16m.github.io/DG-16M/
 paper: https://arxiv.org/pdf/2503.08358
 code: https://github.com/DG16M/DG16M-dataset
