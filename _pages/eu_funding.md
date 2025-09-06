@@ -8,6 +8,7 @@ permalink: /eufunding/
 
 # EU Funding
 
+
 <!-- <div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/eufunding/eaceaPicture1.png" class="img-responsive" width="95%" style="float: left" />
 </div> -->
@@ -65,6 +66,7 @@ hubs.
 	
 This partnership will help in the internationalization and modernization of Indian HEIs by connecting them with global robotics education and research efforts.
 
+_For overarching project information, please visit the [IRAS-HUB portal](https://iiitd.ac.in/iras-hub/)._
 
 
 ### Collaborators
