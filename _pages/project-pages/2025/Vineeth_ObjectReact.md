@@ -39,11 +39,13 @@ featured: 1
 ## Overview
 
 **ObjectReact: Learning Object-Relative Control for Visual Navigation**  
-Sourav Garg*, Dustin Craggs*, Vineeth Bhat, Lachlan Mares, Stefan Podgorski, Madhava Krishna, Feras Dayoub, Ian Reid.  
-*9th Conference on Robot Learning (CoRL 2025), Seoul, Korea.*  
-\* denotes equal contribution.
+Visual navigation using only a single camera and a topological map has recently become an appealing alternative to methods that require additional sensors and 3D maps. This is typically achieved through an image-relative approach to estimating control from a given pair of current observation and subgoal image. However, image-level representations of the world have limitations because images are strictly tied to the agent's pose and embodiment. In contrast, objects, being a property of the map, offer an embodiment- and trajectory-invariant world representation. In this work, we present a new paradigm of learning object-relative control that exhibits several desirable characteristics:
 
-Brief: ObjectReact trains object-relative control policies for visual navigation — enabling an agent to act relative to detected objects to improve robustness and task performance. See links below for paper, project page, videos, supplement and demo.
+a) New routes can be traversed without strictly requiring to imitate prior experience,
+b) The control prediction problem can be decoupled from solving the image matching problem, and
+c) High invariance can be achieved in cross-embodiment deployment for variations across both training-testing and mapping-execution settings.
+
+We propose a topometric map representation in the form of a relative 3D scene graph, which is used to obtain more informative object-level global path planning costs. We train a local controller, dubbed ObjectReact, conditioned directly on a high-level "WayObject Costmap" representation that eliminates the need for an explicit RGB input. We demonstrate the advantages of learning object-relative control over its image-relative counterpart across sensor height variations and multiple navigation tasks that challenge the underlying spatial understanding capability, e.g., navigating a map trajectory in the reverse direction. We further show that our sim-only policy is able to generalize well to real-world indoor environments.
 
 ---
 
@@ -54,17 +56,6 @@ Brief: ObjectReact trains object-relative control policies for visual navigation
 - **Code:** Will be published on the project page after the conference (end of September 2025).  
 - **Supplementary material:** [Download supplement (PDF)](https://drive.google.com/file/d/1lvXDS1dWhSWG-ik3isZlpcEY37GAXE2E/view?usp=drive_link)  
 - **Demo video:** [Watch demo video](https://drive.google.com/file/d/1vk-7FYhxweLcAXv6vlXRLf6Gv0KkIzot/view?usp=drive_link)
-
----
-
-## Overview Video (embedded)
-
-<!-- Embedded mp4 from project site. If your layout supports raw HTML it will render; otherwise this will be shown as a link. -->
-<video controls style="width:100%; max-width:900px;">
-  <source src="https://object-react.github.io/static/videos/objectreact_overview.mp4" type="video/mp4">
-  Your browser does not support the video tag. View the overview video here:
-  <a href="https://object-react.github.io/static/videos/objectreact_overview.mp4">Overview Video</a>
-</video>
 
 ---
 
