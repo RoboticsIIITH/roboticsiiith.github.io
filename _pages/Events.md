@@ -3,7 +3,7 @@ title: "RRC - Fifth Master Trainer Program"
 layout: textlay
 excerpt: "RRC -- Fifth Master Trainer Program"
 sitemap: false
-permalink: /Events/
+permalink: /Events/MTP-Allied-UAS/
 ---
 
 <style>
@@ -44,16 +44,23 @@ permalink: /Events/
 }
 
 /* Speaker Grid */
+.speaker-card {
+  text-decoration: none;
+  text-align: center;
+  width: 180px;
+}
 .speaker-card img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
-.speaker-card p {
+.speaker-card span {
+  display: block;
   font-weight: bold;
   color: #333;
+  font-size: 14px;
 }
 </style>
 
@@ -87,10 +94,10 @@ IIIT Hyderabad is identified as one of the Resource Centers (RC) for the MeitY a
 As a part of this project, IIIT Hyderabad is organizing the **Fifth Master Trainer Program (MTP)** for the Technology Specific Work Theme **"Allied UAS Technologies"** for five days from **27th - 31st October 2025**.
 
 The program includes **theory and hands-on sessions** on:
-- Computer Vision
-- Sensor-based UAV Navigation
-- Motion Planning and Control
-- UAV Sensor Integration (Camera, LIDAR, IMU, etc.)
+- **Computer Vision**  
+- **Sensor-based UAV Navigation**  
+- **Motion Planning and Control**  
+- **UAV Sensor Integration (Camera, LIDAR, IMU, etc.)**
 
 **Key Highlights:**
 - Expert-led sessions by IIIT-H faculty and researchers  
@@ -126,59 +133,59 @@ The program includes **theory and hands-on sessions** on:
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 30px 0;">
 
-  <a href="#" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="#" class="speaker-card">
     <img src="/images/MTP/Aakash_M.jpeg" alt="Aakash Maniar">
-    <p>Aakash Maniar</p>
+    <span>Aakash Maniar</span>
   </a>
 
-  <a href="https://www.iiit.ac.in/faculty/antony-thomas/" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="https://www.iiit.ac.in/faculty/antony-thomas/" class="speaker-card">
     <img src="/images/MTP/antony_thomas.jpg" alt="Antony Thomas">
-    <p>Antony Thomas</p>
+    <span>Antony Thomas</span>
   </a>
 
-  <a href="https://sites.google.com/view/harikumar-kandath/home/" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="https://sites.google.com/view/harikumar-kandath/home/" class="speaker-card">
     <img src="/images/MTP/harikumar-kandath.jpg" alt="Harikumar K">
-    <p>Harikumar K</p>
+    <span>Harikumar K</span>
   </a>
 
-  <a href="https://robotics.iiit.ac.in/faculty_mkrishna/" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="https://robotics.iiit.ac.in/faculty_mkrishna/" class="speaker-card">
     <img src="/images/MTP/MK.png" alt="Madhava Krishna K">
-    <p>Madhava Krishna K</p>
+    <span>Madhava Krishna K</span>
   </a>
 
-  <a href="#" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="#" class="speaker-card">
     <img src="/images/MTP/Munjaal.jpeg" alt="Munjaal">
-    <p>Munjaal</p>
+    <span>Munjaal</span>
   </a>
 
-  <a href="https://ravika.github.io/" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="https://ravika.github.io/" class="speaker-card">
     <img src="/images/MTP/Ravi Kiran.jpeg" alt="Ravi Kiran S">
-    <p>Ravi Kiran S</p>
+    <span>Ravi Kiran S</span>
   </a>
 
-  <a href="#" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="#" class="speaker-card">
     <img src="/images/MTP/Shikhar_Saxena.jpeg" alt="Shikhar Saxena">
-    <p>Shikhar Saxena</p>
+    <span>Shikhar Saxena</span>
   </a>
 
-  <a href="https://sites.google.com/view/spandanroy/" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="https://sites.google.com/view/spandanroy/" class="speaker-card">
     <img src="/images/MTP/spandan.jpeg" alt="Spandan Roy">
-    <p>Spandan Roy</p>
+    <span>Spandan Roy</span>
   </a>
 
-  <a href="#" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="#" class="speaker-card">
     <img src="/images/MTP/Sreekumar.jpeg" alt="Vishnu Sreekumar">
-    <p>Vishnu Sreekumar</p>
+    <span>Vishnu Sreekumar</span>
   </a>
 
-  <a href="https://sites.google.com/view/tejaspbodas/" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="https://sites.google.com/view/tejaspbodas/" class="speaker-card">
     <img src="/images/MTP/Tejas-Bodas.png" alt="Tejas Bodas">
-    <p>Tejas Bodas</p>
+    <span>Tejas Bodas</span>
   </a>
 
-  <a href="https://www.iiit.ac.in/faculty/vinod-p-k/" class="speaker-card" style="text-decoration: none; text-align: center; width: 180px;">
+  <a href="https://www.iiit.ac.in/faculty/vinod-p-k/" class="speaker-card">
     <img src="/images/MTP/Vinod-P-K.png" alt="Vinod PK">
-    <p>Vinod PK</p>
+    <span>Vinod PK</span>
   </a>
 
 </div>
