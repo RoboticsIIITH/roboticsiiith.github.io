@@ -33,7 +33,6 @@ abstract: |
 project_page: https://object-react.github.io/
 paper: https://drive.google.com/file/d/1pL5oK3mCGK3tjTtVqjDfsuI-KFALm6Bd/view?usp=drive_link
 #code: Will be updated on project page after conference (September end)
-video: https://drive.google.com/file/d/1iXpPsZMbpHFXySoq5tpBPh3JTZGOwdJh/view?usp=drive_link
 iframe: https://object-react.github.io/static/videos/objectreact_overview.mp4
 image: https://drive.google.com/file/d/1Ah-pO1oCAoHHhgumEGcqkmr3-Aw1MUjL/view?usp=drive_link
 supplement: https://drive.google.com/file/d/1lvXDS1dWhSWG-ik3isZlpcEY37GAXE2E/view?usp=drive_link
