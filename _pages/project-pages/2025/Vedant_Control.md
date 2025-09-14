@@ -24,12 +24,8 @@ lies in managing nonlinear aerodynamic forces and torques induced by the tunnel 
 minimizing distance to the walls to effectively perform close-proximity operations. Our approach demonstrates significant improvements, reducing the safe hovering distance from walls
 by 37% and decreasing UAV power consumption by approx-imately 15% when flying near ground and ceiling surfaces. The efficacy of the proposed method is rigorously validated through comprehensive simulations, which evaluate various close-proximity UAV trajectories under realistically modeled
 aerodynamic disturbances induced by the tunnel boundaries."
-#project_page: https://sssshivvvv.github.io/adaptbot/
 paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11007781&tag=1
-#code: https://github.com/sssshivvvv/adaptbot
-#supplement: https://sssshivvvv.github.io/adaptbot/AdaptBot__SupplementaryMaterial_.pdf
-# video: https://www.youtube.com/watch?v=d9qBa6zbkXc
-#iframe:   https://www.youtube.com/embed/d9qBa6zbkXc
-#demo: https://anyloc.github.io/#interactive_demo
+
+
 
 ---
