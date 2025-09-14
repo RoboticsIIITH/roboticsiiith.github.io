@@ -1,3 +1,12 @@
+- title: "ObjectReact: Learning Object-Relative Control for Visual Navigation"
+  authors: Sourav Garg*, Dustin Craggs*, Vineeth Bhat, Lachlan Mares, Stefan Podgorski, Madhava Krishna, Feras Dayoub, Ian Reid
+  venue: 9th Conference on Robot Learning (CoRL 2025), Seoul, Korea
+  link: #
+    url: /publications/2025/Vineeth_ObjectReact
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "SparseLoc: Sparse Open-Set Landmark-based Global Localization for Autonomous Navigation"
   authors: Pranjal Paul, Vineeth Bhat, Tejas Salian, Mohammad Omama, Krishna Murthy Jatavallabhula, Naveen Arulselvan, Madhava Krishna
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems 2025 (IROS)
