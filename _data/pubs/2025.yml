@@ -1,3 +1,12 @@
+- title: "Anticipate, Adapt, Act: A Hybrid Framework for Task Planning"
+  authors: Nabanita Dash, Ayush Kaura, Shivam Singh, Ramandeep Singh, Snehasis Banerjee,  Mohan Sridharan,  Madhava Krishna
+  venue: ECMR2025: 12th European Conference on Mobile Robots (ECMR 2025), Padova, Italy, September 2-5, 2025
+  link: #
+    url: /publications/2025/Nabanita_ECMR
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "ObjectReact: Learning Object-Relative Control for Visual Navigation"
   authors: Sourav Garg*, Dustin Craggs*, Vineeth Bhat, Lachlan Mares, Stefan Podgorski, Madhava Krishna, Feras Dayoub, Ian Reid
   venue: 9th Conference on Robot Learning (CoRL 2025), Seoul, Korea
