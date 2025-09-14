@@ -108,31 +108,19 @@ The program includes **theory and hands-on sessions** on:
 
 ### <a id="program-topics"></a>Program Topics
 
-### <a id="program-topics"></a>Program Topics
+### Program Topics
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; margin: 30px 0;">
+#### Computer Vision
+Image processing, object detection, and visual navigation for UAVs
 
-  <div class="card">
-    <div style="font-size:18px; font-weight:700; color:#1a237e; margin-bottom:8px;">Computer Vision</div>
-    <div style="font-size:14px; color:#444;">Image processing, object detection, and visual navigation for UAVs</div>
-  </div>
+#### Sensor-based Navigation
+Using cameras, LIDAR, IMU, and other sensors for UAV navigation
 
-  <div class="card">
-    <div style="font-size:18px; font-weight:700; color:#1a237e; margin-bottom:8px;">Sensor-based Navigation</div>
-    <div style="font-size:14px; color:#444;">Using cameras, LIDAR, IMU, and other sensors for UAV navigation</div>
-  </div>
+#### Motion Planning
+Path planning and obstacle avoidance algorithms for autonomous flight
 
-  <div class="card">
-    <div style="font-size:18px; font-weight:700; color:#1a237e; margin-bottom:8px;">Motion Planning</div>
-    <div style="font-size:14px; color:#444;">Path planning and obstacle avoidance algorithms for autonomous flight</div>
-  </div>
-
-  <div class="card">
-    <div style="font-size:18px; font-weight:700; color:#1a237e; margin-bottom:8px;">Control Systems</div>
-    <div style="font-size:14px; color:#444;">UAV flight control and stabilization techniques</div>
-  </div>
-
-</div>
+#### Control Systems
+UAV flight control and stabilization techniques
 
 
 ---
