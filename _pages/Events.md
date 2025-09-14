@@ -108,8 +108,6 @@ The program includes **theory and hands-on sessions** on:
 
 ### <a id="program-topics"></a>Program Topics
 
-### Program Topics
-
 #### Computer Vision
 Image processing, object detection, and visual navigation for UAVs
 
