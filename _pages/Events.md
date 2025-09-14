@@ -3,7 +3,7 @@ title: "RRC - Fifth Master Trainer Program"
 layout: textlay
 excerpt: "RRC -- Fifth Master Trainer Program"
 sitemap: false
-permalink: /Events/MTP-Allied-UAS/
+permalink: /Events/
 ---
 
 <style>
