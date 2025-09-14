@@ -26,7 +26,7 @@ affiliations:
   - name: School of Informatics, University of Edinburgh, UK
     link: https://informatics.ed.ac.uk/
     sup: 3
-permalink: /publications/2025/Nabanita_AnticipateAdaptAct/
+permalink: /publications/2025/Nabanita_ECMR/
 abstract: |
   Anticipating and adapting to potential failures is a key capability that robots require for effective human–robot collaboration in complex domains.
   Despite advances in AI planning systems and Large Language Models (LLMs), uncertainty in task outcomes remains a challenge.
