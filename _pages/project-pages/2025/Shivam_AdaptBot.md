@@ -1,8 +1,6 @@
 ---
 layout: project-page-new
 title: "AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement"
-authors:
-=======
 authors: 
   - name: Shivam Singh
     sup: 1
