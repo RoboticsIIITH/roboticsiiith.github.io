@@ -44,7 +44,6 @@ abstract: |
   SparseLoc pushes the boundary of memory-efficient, semantically aware, vision-language-driven localization.
 project_page: https://reachpranjal.com/sparseloc/
 paper: https://arxiv.org/abs/2503.23465
-#code: 
-video: https://www.youtube.com/watch?v=PmMC49SNj2k
+#code:
 iframe: https://www.youtube.com/embed/PmMC49SNj2k
 ---
