@@ -1,3 +1,12 @@
+- title: "DISCO: Diffusion-based Inter-Agent Swarm Collision-free Optimization for UAVs"
+  authors: Bitla Bhanu Teja, Simon Idoko, T. Shilpitha Chowdary, K. Madhava Krishna1, Arun Kumar Singh
+  venue: 2025 IEEE 19th International Conference on Control & Automation (ICCA) 
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11129710
+    url: /publications/2025/Bitla_DISCO
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper With Adaptive Control"
   authors: Rishabh Dev Yadav, Brycen Jones, Saksham Gupta, Amitabh Sharma, Jiefeng Sun, Jianguo Zhao and Spandan Roy
   venue: IEEE/ASME TRANSACTIONS ON MECHATRONICS 
