@@ -1,3 +1,4 @@
+
 - title: "DISCO: Diffusion-based Inter-Agent Swarm Collision-free Optimization for UAVs"
   authors: Bitla Bhanu Teja, Simon Idoko, T. Shilpitha Chowdary, K. Madhava Krishna1, Arun Kumar Singh
   venue: 2025 IEEE 19th International Conference on Control & Automation (ICCA) 
@@ -7,11 +8,29 @@
   id: mkrishna
   featured: 1
 
+- title: "Anticipate, Adapt, Act: A Hybrid Framework for Task Planning"
+  authors: Nabanita Dash, Ayush Kaura, Shivam Singh, Ramandeep Singh, Snehasis Banerjee,  Mohan Sridharan,  Madhava Krishna
+  venue: 12th European Conference on Mobile Robots (ECMR 2025), Padova, Italy, September 2-5, 2025
+  link: #
+    url: /publications/2025/Nabanita_ECMR
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "An Integrated Approach to Aerial Grasping:Combining a Bistable Gripper With Adaptive Control"
   authors: Rishabh Dev Yadav, Brycen Jones, Saksham Gupta, Amitabh Sharma, Jiefeng Sun, Jianguo Zhao and Spandan Roy
   venue: IEEE/ASME TRANSACTIONS ON MECHATRONICS 
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11098573
     url: /publications/2025/Rishabh_An
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "ObjectReact: Learning Object-Relative Control for Visual Navigation"
+  authors: Sourav Garg*, Dustin Craggs*, Vineeth Bhat, Lachlan Mares, Stefan Podgorski, Madhava Krishna, Feras Dayoub, Ian Reid
+  venue: 9th Conference on Robot Learning (CoRL 2025), Seoul, Korea
+  link: #
+    url: /publications/2025/Vineeth_ObjectReact
     display: Project Page
   id: mkrishna
   featured: 1
