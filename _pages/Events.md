@@ -68,7 +68,7 @@ permalink: /Events/
   <a href="#about-the-program" style="margin: 0 15px; text-decoration: none; color: #007bff;">About</a>
   <a href="#program-topics" style="margin: 0 15px; text-decoration: none; color: #007bff;">Topics</a>
   <a href="#speakers" style="margin: 0 15px; text-decoration: none; color: #007bff;">Speakers</a>
-  <a href="#registration" style="margin: 0 15px; text-decoration: none; color: #007bff;">Registration</a>
+  <a href="#registration" style="margin: 0 15px; text-decoration: none; color: #007bff;">Registration Fee</a>
   <a href="https://forms.gle/wZbMRNZpMa4r6Gzs6" class="nav-cta">Apply Now</a>
   <a href="https://robotics.iiit.ac.in/" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a>
 </nav>
@@ -186,7 +186,7 @@ UAV flight control and stabilization techniques
 
 ---
 
-### <a id="registration"></a>Registration
+### <a id="registration"></a>Registration Fee
 
 **Registration Fees** (to be paid at the venue on 27/10/2025):  
 - **Students**: Rs. 2,000  
