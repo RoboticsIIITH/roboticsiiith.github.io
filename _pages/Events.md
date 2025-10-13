@@ -146,7 +146,7 @@ UAV flight control and stabilization techniques
   </a>
   
   <a href="https://www.linkedin.com/in/bitla-bhanuteja/" class="speaker-card">
-    <img src="/images/MTP/bhanu.jpg" alt="Bitla BhanuTeja">
+    <img src="/images/MTP/bhanu.jpeg" alt="Bitla BhanuTeja">
     <span>Bitla BhanuTeja</span>
   </a>
   
