@@ -135,10 +135,6 @@ UAV flight control and stabilization techniques
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 30px 0;">
 
-  <a href="#" class="speaker-card">
-    <img src="/images/MTP/Aakash_M.jpeg" alt="Aakash Maniar">
-    <span>Aakash Maniar</span>
-  </a>
 
   <a href="https://www.iiit.ac.in/faculty/antony-thomas" class="speaker-card">
     <img src="/images/MTP/antony_thomas.jpg" alt="Antony Thomas">
@@ -160,39 +156,14 @@ UAV flight control and stabilization techniques
     <span>Madhava Krishna K</span>
   </a>
 
-  <a href="#" class="speaker-card">
-    <img src="/images/MTP/Munjaal.jpeg" alt="Munjaal">
-    <span>Munjaal</span>
-  </a>
-
   <a href="https://ravika.github.io/" class="speaker-card">
     <img src="/images/MTP/Ravi Kiran.jpeg" alt="Ravi Kiran S">
     <span>Ravi Kiran S</span>
   </a>
 
-  <a href="#" class="speaker-card">
-    <img src="/images/MTP/Shikhar_Saxena.jpeg" alt="Shikhar Saxena">
-    <span>Shikhar Saxena</span>
-  </a>
-
   <a href="https://sites.google.com/view/spandanroy/" class="speaker-card">
     <img src="/images/MTP/spandan.jpeg" alt="Spandan Roy">
     <span>Spandan Roy</span>
-  </a>
-
-  <a href="#" class="speaker-card">
-    <img src="/images/MTP/Sreekumar.jpeg" alt="Vishnu Sreekumar">
-    <span>Vishnu Sreekumar</span>
-  </a>
-
-  <a href="https://sites.google.com/view/tejaspbodas/" class="speaker-card">
-    <img src="/images/MTP/Tejas-Bodas.png" alt="Tejas Bodas">
-    <span>Tejas Bodas</span>
-  </a>
-
-  <a href="https://www.iiit.ac.in/faculty/vinod-p-k/" class="speaker-card">
-    <img src="/images/MTP/Vinod-P-K.png" alt="Vinod PK">
-    <span>Vinod PK</span>
   </a>
 
 </div>
