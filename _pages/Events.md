@@ -94,10 +94,18 @@ IIIT Hyderabad is identified as one of the Resource Centers (RC) for the MeitY a
 As a part of this project, IIIT Hyderabad is organizing the **Fifth Master Trainer Program (MTP)** for the Technology Specific Work Theme **"Allied UAS Technologies"** for five days from **27th - 31st October 2025**.
 
 The program includes **theory and hands-on sessions** on:
-- **Computer Vision**  
-- **Sensor-based UAV Navigation**  
-- **Motion Planning and Control**  
-- **UAV Sensor Integration (Camera, LIDAR, IMU, etc.)**
+- Introduction to UAV Localization, motion planning and control
+- Sensors,  state estimation and control 
+- Rigid body dynamics 
+- Motion planning
+- Image processing 
+- Computer Vision
+- Introduction to flight control hardware
+- Companion computers for UAV
+- MAVLINK protocol
+- Introduction to ROS
+- Hardware session for Computer Vision - use of camera and LIDAR
+- Flight experiments
 
 **Key Highlights:**
 - Expert-led sessions by IIIT-H faculty and researchers  
@@ -132,11 +140,16 @@ UAV flight control and stabilization techniques
     <span>Aakash Maniar</span>
   </a>
 
-  <a href="https://www.iiit.ac.in/faculty/antony-thomas/" class="speaker-card">
+  <a href="https://www.iiit.ac.in/faculty/antony-thomas" class="speaker-card">
     <img src="/images/MTP/antony_thomas.jpg" alt="Antony Thomas">
     <span>Antony Thomas</span>
   </a>
-
+  
+  <a href="https://www.linkedin.com/in/bitla-bhanuteja/" class="speaker-card">
+    <img src="/images/MTP/bhanu.jpg" alt="Bitla BhanuTeja">
+    <span>Bitla BhanuTeja</span>
+  </a>
+  
   <a href="https://sites.google.com/view/harikumar-kandath/home/" class="speaker-card">
     <img src="/images/MTP/harikumar-kandath.jpg" alt="Harikumar K">
     <span>Harikumar K</span>
