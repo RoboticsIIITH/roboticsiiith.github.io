@@ -219,7 +219,11 @@ UAV flight control and stabilization techniques
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 30px 0;">
 
-
+  <a href="" class="speaker-card">
+    <img src="/images/MTP/amal (1).jpg" alt="Amal Joseph">
+    <span>Amal Joseph</span>
+  </a>
+  
   <a href="https://www.iiit.ac.in/faculty/antony-thomas" class="speaker-card">
     <img src="/images/MTP/antony_thomas.jpg" alt="Antony Thomas">
     <span>Antony Thomas</span>
@@ -245,10 +249,12 @@ UAV flight control and stabilization techniques
     <span>Ravi Kiran S</span>
   </a>
 
-  <a href="https://sites.google.com/view/spandanroy/" class="speaker-card">
-    <img src="/images/MTP/spandan.jpeg" alt="Spandan Roy">
-    <span>Spandan Roy</span>
+  <a href="" class="speaker-card">
+    <img src="/images/MTP/Tathagata Ghosh.jpeg" alt="Tathagatha Ghosh">
+    <span>Tathagatha Ghosh</span>
   </a>
+
+  
 
 </div>
 
