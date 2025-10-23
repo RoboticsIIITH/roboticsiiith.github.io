@@ -163,7 +163,7 @@ UAV flight control and stabilization techniques
     <td>27/10/2025 (Mon)</td>
     <td>Introduction to UAV Localization<br>(10:00-11:30) Dr Harikumar Kandath</td>
     <td>11:30-11:45</td>
-    <td>Motion Planning<br>(11:45-1:15) Dr Antony Thomas</td>
+    <td>Rigid Body Dynamics - I<br>(11:45-1:15) Dr Antony Thomas</td>
     <td>1:15-2:00</td>
     <td>Sensors, State estimation and control -I<br>(2:00-3:30)</td>
     <td>3:30-3:45</td>
@@ -171,7 +171,7 @@ UAV flight control and stabilization techniques
   </tr>
   <tr>
     <td>28/10/2025 (Tue)</td>
-    <td>Rigid Body Dynamics - I<br>(10:00-11:30) Dr Antony Thomas</td>
+    <td>Rigid Body Dynamics - II<br>(10:00-11:30) Dr Antony Thomas</td>
     <td>11:30-11:45</td>
     <td>Image Processing -I<br>(11:45-1:15) Dr Ravi Kiran S</td>
     <td>1:15-2:00</td>
@@ -181,7 +181,7 @@ UAV flight control and stabilization techniques
   </tr>
   <tr>
     <td>29/10/2025 (Wed)</td>
-    <td>Rigid Body Dynamics - II<br>(10:00-11:30) Dr Antony Thomas</td>
+    <td>Motion Planning<br>(10:00-11:30) Dr Antony Thomas</td>
     <td>11:30-11:45</td>
     <td>Image Processing -II<br>(11:45-1:15) Dr Ravi Kiran S</td>
     <td>1:15-2:00</td>
