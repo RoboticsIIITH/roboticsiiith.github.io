@@ -1,11 +1,11 @@
 ---
 ---
-    
+
 @import "bootstrap";
 
 img { margin-bottom: 24px; 
-     margin-top: 10px; 
-    border-radius:1%;
+     margin-top: 17px; 
+    border-radius:2%;
 }
 
 
@@ -16,14 +16,14 @@ body {
 /* Desktop: More padding (collapsed menu takes space) */
 @media (max-width: 768px) {
 	body {
-		padding-top: 20px;
+		padding-top: 40px;
 	}
 }
 
 /* Mobile: Match actual navbar height */
 @media (min-width: 767px) {
 	body {
-		padding-top: 20px; /* Match .navbar min-height */
+		padding-top: 75px; /* Match .navbar min-height */
 	}
 }
 
@@ -43,7 +43,7 @@ figcaption {
 /* Top navigation bar */
 
 .navbar {
-	min-height: 20px;
+	min-height: 60px;
 }
 
 .navbar-brand {
@@ -54,7 +54,7 @@ figcaption {
 }
 
 .navbar-toggle {
-	margin-top: 7px; /* (60px - 34px)/2 = 13 */
+	margin-top: 13px; /* (60px - 34px)/2 = 13 */
 	padding: 6px 8px !important;
 }
 
@@ -62,7 +62,7 @@ figcaption {
 @media (min-width: 768px) {
 .navbar-nav > li > a {
 	/* (80px - line-height of 27px) / 2 = 26.5px */
-	padding-top: 20px;
+	padding-top: 26.5px;
 	padding-bottom: 26.5px;
 	line-height: 27px;
 }
@@ -183,12 +183,8 @@ firstp {
 	padding: 10px;
 	// justify-content: center;
   }
-  
+
   .col1 img {
 	max-width: 50%;
 	// justify-content: center;
 	}
-  
-  
-  
-
