@@ -1,194 +1,246 @@
----
----
-    
+
+/* ---------- Bootstrap import (keep if your build uses it) ---------- */
 @import "bootstrap";
 
-img { margin-bottom: 24px; 
-     margin-top: 17px; 
-    border-radius:2%;
-}
-
-
+/* ---------- Base resets / safety ---------- */
+* { box-sizing: border-box; }
+html, body { height: 100%; }
 body {
-	padding-bottom: 20px;
+  margin: 0;
+  padding: 0;
+  padding-top: 72px; /* space for fixed navbar */
+  padding-bottom: 20px;
+  background: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
-/* Desktop: More padding (collapsed menu takes space) */
-@media (max-width: 768px) {
-	body {
-		padding-top: 60px;
-	}
+/* ---------- Images ---------- */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 17px;
+  margin-bottom: 24px;
+  border-radius: 6px;
 }
 
-/* Mobile: Match actual navbar height */
-@media (min-width: 767px) {
-	body {
-		padding-top: 75px; /* Match .navbar min-height */
-	}
-}
-
-
-figcaption {
-    text-align: right;
-    margin-top: -20px;
-    margin-bottom: 20px;
-}
-
-.publication {
-	margin-right: auto;
-  margin-left: auto;
-	max-width: 1100px;
-}
-
-/* Top navigation bar */
-
+/* ---------- Navbar (fixed and consistent) ---------- */
 .navbar {
-	min-height: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  min-height: 60px;
+  height: 72px;
+  z-index: 1100;
+  background: #ffffff;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+  display: flex;
+  align-items: center;
+  padding: 0 18px;
 }
 
 .navbar-brand {
-	padding: 0 15px;
-	height: 60px;
-	line-height: 60px;
-	font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+  height: 72px;
+  line-height: 1;
+  font-size: 18px;
+  padding: 0 12px;
 }
 
-.navbar-toggle {
-	margin-top: 13px; /* (60px - 34px)/2 = 13 */
-	padding: 6px 8px !important;
-}
+.navbar-toggle { margin-top: 10px; padding: 6px 8px !important; }
 
-
-@media (min-width: 768px) {
+/* Navbar links: keep compact but readable on all screens */
 .navbar-nav > li > a {
-	/* (80px - line-height of 27px) / 2 = 26.5px */
-	padding-top: 26.5px;
-	padding-bottom: 26.5px;
-	line-height: 27px;
-}
+  display: inline-block;
+  padding: 14px 12px;
+  line-height: 20px;
+  font-size: 15px;
+  white-space: nowrap;
 }
 
+/* collapse behavior: reduce vertical padding on narrow screens */
+@media (max-width: 991px) {
+  .navbar { height: 64px; padding: 0 12px; }
+  body { padding-top: 64px; }
+  .navbar-brand { height: 64px; font-size: 16px; }
+  .navbar-nav > li > a { padding: 10px 10px; font-size: 14px; }
+}
+
+/* ---------- Page container ---------- */
+.container-publications {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 18px;
+}
+
+/* ---------- Publications header / byline ---------- */
 p.byline {
-	text-align: center;
-	font-size: 18px;
-	line-height: 36px;
-	margin-top: -24px;
-	margin-bottom: 48px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 6px 0 32px 0;
 }
 
-
-pubtit {
-	font-weight: bold;
+/* ---------- Year filter (flex + wrap + scroll fallback) ---------- */
+.pub-filter-wrap {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
 }
 
-firstp {
+/* left side: label + select or chips */
+.pub-filter-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
 }
 
-.container-fluid {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 1200px; /* or 950px */
+/* right side: search or sort controls if any */
+.pub-filter-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
-/* Home, News */
-#newsid p {
-	text-align: left;
+/* year select & buttons */
+.pub-filter-left label { font-size: 15px; margin: 0; }
+.pub-year-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding: 8px 10px;
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 6px;
+  font-size: 15px;
+  background: #fff url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path fill='%23666' d='M0 0l5 6 5-6z'/></svg>") no-repeat right 10px center;
+  min-width: 120px;
 }
 
-#homeidtmp h1 {
-	text-align: center;
+/* chips for years (optional) */
+.pub-year-chips { display:flex; gap:8px; flex-wrap:wrap; }
+.pub-year-chip {
+  padding:6px 10px;
+  border-radius:16px;
+  background: rgba(0,0,0,0.06);
+  cursor:pointer;
+  font-size:14px;
+  white-space:nowrap;
 }
 
-#newsid img {
-	margin-top: 6px;
-	margin-bottom: 6px;
+/* horizontal scroll fallback so chips never wrap off-screen */
+.pub-filter-scroll {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
 }
 
-/* Team & Publications */
-#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
-#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
-#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
-#gridid .row { margin-bottom: 24px; }
-
-
-/* Grid overrides */
-.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
-.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-	padding-left: 16px;
-	padding-right: 16px;
+/* ---------- Publication list grid (cards) ---------- */
+/* Use CSS Grid for flexible layout; falls back to single column on small screens */
+.pub-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
 }
 
-/* Grid overrides - for project-page */
-.col-sm-13 {
-	padding-left: 50px;
-	padding-right: 50px;
+/* wider screens get 3 columns */
+@media (min-width: 1100px) {
+  .pub-list { grid-template-columns: repeat(3, 1fr); gap: 22px; }
 }
 
-
-/* Grid overrides */
-.col-sm-4 {
-	padding-left: 26px;
-	padding-right: 26px;
+/* small screens single column */
+@media (max-width: 767px) {
+  .pub-list { grid-template-columns: 1fr; }
+  .publication-item { padding: 10px 8px; }
+  .pub-year-select { min-width: 100%; }
 }
 
-
-/* Carusel */
-
-.carousel {
-    border-radius: 3px 3px 3px 3px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
+/* publication card */
+.publication-item {
+  background: #fff;
+  padding: 14px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 120px;
 }
 
+/* top row: title + controls */
+.publication-item .title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  margin: 0;
+}
 
-/* Custom */
+/* metadata: authors, venue, year */
+.publication-item .meta {
+  font-size: 14px;
+  color: rgba(0,0,0,0.65);
+  margin-top: 6px;
+}
 
+/* action row (PDF, DOI, Bibtex) - keep compact and wrap if needed */
+.publication-item .actions {
+  margin-top: auto;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.publication-item .actions a {
+  text-decoration: none;
+  font-size: 13px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid rgba(0,0,0,0.06);
+  background: rgba(0,0,0,0.02);
+}
+
+/* figcaption */
+figcaption {
+  text-align: right;
+  margin-top: 6px;
+  font-size: 13px;
+  color: rgba(0,0,0,0.6);
+}
+
+/* ---------- Scroll area for very long lists (optional) ---------- */
 .pubscroll {
-	max-height: 500px; /* Change to your desired max height */
-	overflow-y: scroll;
-	overflow-x: scroll;
-	background-color: #fff;
-    background-color: rgba(255,255,255,0.5);
+  max-height: 520px;
+  overflow-y: auto;
+  background-color: rgba(255,255,255,0.9);
+  padding-right: 6px; /* avoid content touching scrollbar */
 }
 
-// .eu-funding-logo {
-//     display: flex;
-//     justify-content: center;
-//   }
-
-// .eu-funding-logo img {
-// max-width: 100%;
-// }
-
-
-// .iras-hub-logo {
-//     // display: flex;
-// 	flex: 1;
-//     justify-content: center;
-//   }
-
-// .iras-hub-logo img {
-// max-width: 30%;
-
-// }
-
-.eu-header-row {
-	display: flex;
+/* ---------- Big screens / projectors ---------- */
+/* Increase container width, spacing, and font for readability on big displays */
+@media (min-width: 1600px) {
+  .container-publications { max-width: 1600px; padding: 28px 40px; }
+  .publication-item { padding: 20px; border-radius: 10px; }
+  p, .publication-item .meta, .publication-item .title { font-size: 18px; }
+  .pub-year-select { font-size: 16px; min-width: 160px; }
 }
 
-.col1 {
-	flex: 1;
-	padding: 10px;
-	// justify-content: center;
-  }
-  
-  .col1 img {
-	max-width: 50%;
-	// justify-content: center;
-	}
-  
-  
-  
+/* ---------- Utility helpers ---------- */
+.text-muted { color: rgba(0,0,0,0.55); }
+.center { text-align: center; }
+
+/* ---------- Accessibility ---------- */
+.pub-year-select:focus, .publication-item .actions a:focus {
+  outline: 3px solid rgba(21,156,228,0.25);
+  outline-offset: 2px;
+}
 
