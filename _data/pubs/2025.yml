@@ -1,3 +1,20 @@
+- title: "Active Disturbance Rejection based approach for Fault Tolerant Control of a Quadcopter"
+  authors: Prachetas P, Dinesh Viswas, Harikumar Kandath, Pooja Agrawal
+  venue: 2025 International Conference on Emerging Technology in Autonomous Aerial Vehicles (ETAAV)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11213100
+    url: /publications/2025/Prachetas_Active
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Locally optimal solutions to constraint displacement problems via path-obstacle overlaps"
+  authors: Antony Thomas, Fulvio Mastrogiovanni, Marco Baglietto
+  venue: Robotics and Autonomous Systems Journal
+  link: # https://www.sciencedirect.com/science/article/pii/S0921889025003483
+    url: /publications/2025/Antony_Locally
+    display: Project Page
+  id: mkrishna
+  featured: 1
 
 - title: "DISCO: Diffusion-based Inter-Agent Swarm Collision-free Optimization for UAVs"
   authors: Bitla Bhanu Teja, Simon Idoko, T. Shilpitha Chowdary, K. Madhava Krishna1, Arun Kumar Singh
