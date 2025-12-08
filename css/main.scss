@@ -1,14 +1,49 @@
+<script>
+/* Measure the navbar height and set the CSS variable so offsets/anchors are accurate.
+   Works on load, resize and orientationchange. */
+(function() {
+  function updateNavbarHeight() {
+    const nav = document.querySelector('.navbar');
+    if (!nav) return;
+    const h = Math.ceil(nav.getBoundingClientRect().height);
+    document.documentElement.style.setProperty('--navbar-height', h + 'px');
+  }
+
+  // run early (DOM may be ready)
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', updateNavbarHeight);
+  } else {
+    updateNavbarHeight();
+  }
+
+  // update on events that can change layout
+  window.addEventListener('resize', updateNavbarHeight);
+  window.addEventListener('orientationchange', updateNavbarHeight);
+
+  // optional: if fonts load late and change layout, re-run after font load
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(updateNavbarHeight).catch(()=>{});
+  }
+})();
+</script>
+
+
 
 /* ---------- Bootstrap import (keep if your build uses it) ---------- */
 @import "bootstrap";
+
+/* ---------- Root variable (fallback) ---------- */
+:root {
+  /* fallback; JS will overwrite this with measured height on load/resize */
+  --navbar-height: 72px;
+}
 
 /* ---------- Base resets / safety ---------- */
 * { box-sizing: border-box; }
 html, body { height: 100%; }
 body {
   margin: 0;
-  padding: 0;
-  padding-top: 72px; /* space for fixed navbar */
+  padding: 0;               /* NO static top padding anymore */
   padding-bottom: 20px;
   background: #fff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
@@ -27,47 +62,62 @@ img {
   border-radius: 6px;
 }
 
-/* ---------- Navbar (fixed and consistent) ---------- */
+/* ---------- Navbar (sticky and adaptive) ---------- */
+/* Use sticky so the navbar occupies layout space on load (no hidden hero) */
 .navbar {
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   right: 0;
-  min-height: 60px;
-  height: 72px;
   z-index: 1100;
   background: #ffffff;
   border-bottom: 1px solid rgba(0,0,0,0.06);
   display: flex;
   align-items: center;
   padding: 0 18px;
+
+  /* allow flexible height driven by content; min-height avoids collapsing */
+  min-height: 60px;
+  /* NOTE: do NOT hard-set `height` here; letting content determine height avoids clipping */
 }
 
+/* Use the CSS variable for any layout needs (brand height etc.) */
 .navbar-brand {
   display: inline-flex;
   align-items: center;
-  height: 72px;
+  min-height: calc(var(--navbar-height));
   line-height: 1;
   font-size: 18px;
   padding: 0 12px;
 }
 
+/* toggle / hamburger adjustments */
 .navbar-toggle { margin-top: 10px; padding: 6px 8px !important; }
 
 /* Navbar links: keep compact but readable on all screens */
 .navbar-nav > li > a {
   display: inline-block;
-  padding: 14px 12px;
+  padding: 12px 10px; /* slightly tightened to reduce wrapping risk */
   line-height: 20px;
   font-size: 15px;
   white-space: nowrap;
 }
 
+/* Prevent nav items from wrapping into multiple rows (if layout permits) */
+.navbar-nav {
+  display: flex;
+  gap: 6px;
+  flex-wrap: nowrap; /* keeps it a single row — adjust if you want wrapping behavior */
+  align-items: center;
+}
+
 /* collapse behavior: reduce vertical padding on narrow screens */
+/* Also override the CSS var for smaller screens so scroll-margin and offsets use correct value */
 @media (max-width: 991px) {
-  .navbar { height: 64px; padding: 0 12px; }
-  body { padding-top: 64px; }
-  .navbar-brand { height: 64px; font-size: 16px; }
+  :root { --navbar-height: 64px; } /* fallback for smaller screens (JS will still measure) */
+
+  .navbar { padding: 0 12px; min-height: 64px; }
+  .navbar-brand { font-size: 16px; }
   .navbar-nav > li > a { padding: 10px 10px; font-size: 14px; }
 }
 
@@ -97,21 +147,8 @@ p.byline {
   margin-bottom: 18px;
   flex-wrap: wrap;
 }
-
-/* left side: label + select or chips */
-.pub-filter-left {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-/* right side: search or sort controls if any */
-.pub-filter-right {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
+.pub-filter-left { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.pub-filter-right { display: flex; align-items: center; gap: 8px; }
 
 /* year select & buttons */
 .pub-filter-left label { font-size: 15px; margin: 0; }
@@ -137,29 +174,15 @@ p.byline {
   font-size:14px;
   white-space:nowrap;
 }
-
-/* horizontal scroll fallback so chips never wrap off-screen */
-.pub-filter-scroll {
-  width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  white-space: nowrap;
-}
+.pub-filter-scroll { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; white-space: nowrap; }
 
 /* ---------- Publication list grid (cards) ---------- */
-/* Use CSS Grid for flexible layout; falls back to single column on small screens */
 .pub-list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 18px;
 }
-
-/* wider screens get 3 columns */
-@media (min-width: 1100px) {
-  .pub-list { grid-template-columns: repeat(3, 1fr); gap: 22px; }
-}
-
-/* small screens single column */
+@media (min-width: 1100px) { .pub-list { grid-template-columns: repeat(3, 1fr); gap: 22px; } }
 @media (max-width: 767px) {
   .pub-list { grid-template-columns: 1fr; }
   .publication-item { padding: 10px 8px; }
@@ -177,56 +200,21 @@ p.byline {
   gap: 8px;
   min-height: 120px;
 }
-
-/* top row: title + controls */
-.publication-item .title {
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 1.25;
-  margin: 0;
-}
-
-/* metadata: authors, venue, year */
-.publication-item .meta {
-  font-size: 14px;
-  color: rgba(0,0,0,0.65);
-  margin-top: 6px;
-}
-
-/* action row (PDF, DOI, Bibtex) - keep compact and wrap if needed */
-.publication-item .actions {
-  margin-top: auto;
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
+.publication-item .title { font-weight: 600; font-size: 16px; line-height: 1.25; margin: 0; }
+.publication-item .meta { font-size: 14px; color: rgba(0,0,0,0.65); margin-top: 6px; }
+.publication-item .actions { margin-top: auto; display: flex; gap: 8px; flex-wrap: wrap; }
 .publication-item .actions a {
-  text-decoration: none;
-  font-size: 13px;
-  padding: 6px 10px;
-  border-radius: 6px;
-  border: 1px solid rgba(0,0,0,0.06);
-  background: rgba(0,0,0,0.02);
+  text-decoration: none; font-size: 13px; padding: 6px 10px; border-radius: 6px;
+  border: 1px solid rgba(0,0,0,0.06); background: rgba(0,0,0,0.02);
 }
 
 /* figcaption */
-figcaption {
-  text-align: right;
-  margin-top: 6px;
-  font-size: 13px;
-  color: rgba(0,0,0,0.6);
-}
+figcaption { text-align: right; margin-top: 6px; font-size: 13px; color: rgba(0,0,0,0.6); }
 
 /* ---------- Scroll area for very long lists (optional) ---------- */
-.pubscroll {
-  max-height: 520px;
-  overflow-y: auto;
-  background-color: rgba(255,255,255,0.9);
-  padding-right: 6px; /* avoid content touching scrollbar */
-}
+.pubscroll { max-height: 520px; overflow-y: auto; background-color: rgba(255,255,255,0.9); padding-right: 6px; }
 
 /* ---------- Big screens / projectors ---------- */
-/* Increase container width, spacing, and font for readability on big displays */
 @media (min-width: 1600px) {
   .container-publications { max-width: 1600px; padding: 28px 40px; }
   .publication-item { padding: 20px; border-radius: 10px; }
@@ -244,3 +232,16 @@ figcaption {
   outline-offset: 2px;
 }
 
+/* ---------- Anchor & hero/slider offset helpers ---------- */
+/* Ensure anchor jumps land below the navbar (uses measured --navbar-height) */
+[id] {
+  scroll-margin-top: calc(var(--navbar-height) + 8px);
+}
+
+/* If your hero/slider uses a full-viewport layout, use this helper on that element
+   e.g. add class="hero hero-offset" to your slider wrapper */
+.hero-offset {
+  /* set the hero to full viewport minus navbar space (if you want a true full-screen hero) */
+  height: calc(100vh - var(--navbar-height));
+  overflow: hidden;
+}
