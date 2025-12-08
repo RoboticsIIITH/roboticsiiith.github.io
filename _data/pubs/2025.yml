@@ -16,15 +16,6 @@
   id: mkrishna
   featured: 1
 
-- title: "Locally optimal solutions to constraint displacement problems via path-obstacle overlaps"
-  authors: Antony Thomas, Fulvio Mastrogiovanni, Marco Baglietto
-  venue: Robotics and Autonomous Systems Journal
-  link: # https://www.sciencedirect.com/science/article/pii/S0921889025003483
-    url: /publications/2025/Antony_Locally
-    display: Project Page
-  id: mkrishna
-  featured: 1
-
 - title: "DISCO: Diffusion-based Inter-Agent Swarm Collision-free Optimization for UAVs"
   authors: Bitla Bhanu Teja, Simon Idoko, T. Shilpitha Chowdary, K. Madhava Krishna1, Arun Kumar Singh
   venue: 2025 IEEE 19th International Conference on Control & Automation (ICCA) 
