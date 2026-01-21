@@ -38,7 +38,7 @@ abstract: |
 
   Extensive experiments show that our approach outperforms state-of-the-art methods, including the SAM2 video propagator and local feature matching methods, by up to 30% on the AUPRC metric, on ScanNet++ and Replica datasets.
   We further demonstrate benefits of the proposed model on relevant downstream tasks, including 3D instance segmentation and object-relative navigation.
-project_page: https://segmast3r.github.io/
+#project_page: https://segmast3r.github.io/
 paper: https://arxiv.org/abs/2510.05051
 code: https://github.com/SegMASt3R/segmast3r
 #video:
