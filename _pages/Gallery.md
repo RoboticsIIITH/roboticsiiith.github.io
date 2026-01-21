@@ -5,199 +5,152 @@ excerpt: "RRC -- Gallery"
 permalink: /gallery/
 ---
 
-<!-- ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
+# Gallery
+
+<div style="max-width: 750px; margin: 20px auto;">
+  <select id="galleryDropdown"
+          style="width: 100%; padding: 12px; font-size: 16px; border-radius: 6px; border: 1px solid #ccc;">
+    <option value="">Select an event...</option>
+    <option value="#icra-2024">ICRA 2024</option>
+    <option value="#ieee-ras-2025">IEEE Robotics and Automation Society (RAS) President Visit</option>
+    <option value="#national-uav-2023">National Workshop on Systems and Intelligence for UAV</option>
+    <option value="#mtp2-2023">2nd Master Trainer Program (17th – 21st July 2023)</option>
+    <option value="#uav-workshop-2024">Second Workshop on Systems and Intelligence for UAV</option>
+    <option value="#devesh-jha">Talk by Dr Devesh Jha – Embracing contacts for Physical Intelligence</option>
+    <option value="#samarth">Talk by Dr Samarth Brahmbhatt</option>
+    <option value="#shreya">Talk by Dr Shreya Santra</option>
+  </select>
+</div>
+
+<script>
+  document.getElementById("galleryDropdown").addEventListener("change", function () {
+    if (this.value) window.location.hash = this.value;
+  });
+</script>
+
+<hr/>
+
+---
+
+## <a id="icra-2024"></a>ICRA 2024
+
 <div class="row">
-{% for i in (1..4) %}
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{i}}.jpeg" class="img-responsive" width="100%" style="float: left" />
-  </div>
-{% endfor %}
-</div> -->
-
-## IEEE Robotics and Automation Society (RAS) President Visit (2025)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pics_ieee_ras_president_visit %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-{% endfor %}
-</div> -->
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-{% if even_odd == 4 %}
-</div>
-{% endif %}
-
-
-<!-- ## IEEE Robotics and Automation Society (RAS) President Visit (2025)
-{% for i in (1..4) %}
-  <div class="col-sm-6 clearfix">
-    {% assign image_path = site.url | append: site.baseurl | append: "/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/" | append: i | append: ".jpeg" %}
-    <img src="{{ image_path }}" 
-         class="img-responsive" 
-         width="100%" 
-         style="float: left" 
-         alt="Gallery Image {{ i }}"
-         onerror="this.style.display='none';" />
-  </div>
-{% endfor %} -->
-
-<!-- ## Talk by Dr Shreya Santra
-<div class="row">
-{% for i in (1..3) %}
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Shreya_Santra/{i}.jpeg" class="img-responsive" width="100%" style="float: left" />
-  </div>
-{% endfor %}
-</div> -->
-
-<!-- ## Second Workshop on Systems and Intelligence for UAV (2024) -->
-<!-- <div class="row">
-{% for i in (1..4) %}
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpeg" class="img-responsive" width="100%" style="float: left" />
-  </div>
-{% endfor %}
-</div> -->
-
-<!-- <div class="row">
-{% for i in (1..4) %}
-  <div class="col-sm-6 clearfix">
-    <img src="/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/1.jpeg" class="img-responsive" width="100%" style="float: left" />
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/ICRA_2024/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="ICRA 2024 Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/ICRA_2024/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
   </div>
 {% endfor %}
 </div>
 
-## ICRA 2024
+---
+
+## <a id="ieee-ras-2025"></a>IEEE Robotics and Automation Society (RAS) President Visit
+
 <div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/ICRA_2024/1.jpg" class="img-responsive" width="100%" style="float: left" />
-  </div>
-
-</div> -->
-
-<!-- ## Talk by Dr Samarth Brahmbhatt
-<div class="row">
-{% for i in (1..2) %}
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Samarth_Brahmbhatt/{{i}}.jpg" class="img-responsive" width="100%" style="float: left" />
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="IEEE RAS Visit Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/IEEE_Robotics_and_Automation_Society_RAS_President_Visit/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
   </div>
 {% endfor %}
 </div>
 
-## 2nd Master Trainer Program (17th- 21st July 2023)
+---
+
+## <a id="national-uav-2023"></a>National Workshop on Systems and Intelligence for UAV
+
 <div class="row">
-{% for i in (1..2) %}
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/second_Master_Trainer_Program_17th_21st_July_2023/{{i}}.jpg" class="img-responsive" width="100%" style="float: left" />
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/National_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="National Workshop UAV Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/National_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
   </div>
 {% endfor %}
-</div> -->
+</div>
 
-<!-- ## National Workshop on Systems and Intelligence for UAV
+---
+
+## <a id="mtp2-2023"></a>2nd Master Trainer Program (17th – 21st July 2023)
+
 <div class="row">
-{% for i in (1..4) %}
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/National_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpeg" class="img-responsive" width="100%" style="float: left" />
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/second_Master_Trainer_Program_17th_21st_July_2023/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="MTP2 Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/second_Master_Trainer_Program_17th_21st_July_2023/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
+  </div>
+{% endfor %}
+</div>
+
+---
+
+## <a id="uav-workshop-2024"></a>Second Workshop on Systems and Intelligence for UAV
+
+<div class="row">
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="Second Workshop UAV Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/Second_Workshop_on_Systems_and_Intelligence_for_UAV/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
+  </div>
+{% endfor %}
+</div>
+
+---
+
+## <a id="devesh-jha"></a>Talk by Dr Devesh Jha – Embracing contacts for Physical Intelligence
+
+<div class="row">
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Devesh_Jha_Embracing_contacts_for_Physical_Intelligence/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="Devesh Jha Talk Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Devesh_Jha_Embracing_contacts_for_Physical_Intelligence/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
+  </div>
+{% endfor %}
+</div>
+
+---
+
+## <a id="samarth"></a>Talk by Dr Samarth Brahmbhatt
+
+<div class="row">
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Samarth_Brahmbhatt/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="Samarth Talk Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Samarth_Brahmbhatt/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
+  </div>
+{% endfor %}
+</div>
+
+---
+
+## <a id="shreya"></a>Talk by Dr Shreya Santra
+
+<div class="row">
+{% for i in (1..60) %}
+  <div class="col-sm-3 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Shreya_Santra/{{i}}.jpeg"
+         class="img-responsive" width="95%" style="float:left;"
+         alt="Shreya Talk Image {{i}}"
+         onerror="this.onerror=null; this.src='{{ site.url }}{{ site.baseurl }}/Gallery/Talk_by_Dr_Shreya_Santra/{{i}}.jpg'; this.onerror=function(){this.style.display='none';};" />
   </div>
 {% endfor %}
 </div>
 
 <style>
-.row {
-    margin-bottom: 30px;
-}
-.img-responsive {
-    margin-bottom: 15px;
-}
-</style> -->
-
-
-
-<!-- # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
-
-
-## Leiden
-
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
-
-#### Gallery
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure> -->
-
+.row { margin-bottom: 30px; }
+.img-responsive { margin-bottom: 15px; }
+</style>
