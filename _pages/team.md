@@ -131,14 +131,37 @@ We are looking for new PhD students, Postdocs, and Master students to join the t
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="https://github.com/{{member.github}}.png" class="img-responsive" width="25%" style="float: left;"/>
+
+  {% assign gh_avatar = "https://github.com/" | append: member.github | append: ".png" %}
+
+  {%- comment -%}
+    Avatar rules:
+    - If github == bhanuteja -> use local image /images/stdpic/bbhanu.jpeg
+    - Else -> use github avatar
+    - If image fails -> default avatar
+  {%- endcomment -%}
+
+  {% if member.github == "bhanuteja" %}
+    {% assign avatar_src = "/images/stdpic/bbhanu.jpeg" %}
+  {% else %}
+    {% assign avatar_src = gh_avatar %}
+  {% endif %}
+
+  <img
+    src="{{ avatar_src }}"
+    class="img-responsive"
+    width="25%"
+    style="float: left;"
+    onerror="this.onerror=null; this.src='/images/default-avatar.png';"
+  />
+
   <h4> {{ member.name }} </h4>
   <i>{{ member.email }} </i>
   <ul style="overflow: hidden">
-  <li> Joined: {{ member.year }} </li>
-  <li> Supervisor: {{ member.supervisor }} </li>
-  <li> Areas: {{ member.areas }} </li>
-  <li><a href="{{ member.web }}"> Personal Page </a> </li>
+    <li> Joined: {{ member.year }} </li>
+    <li> Supervisor: {{ member.supervisor }} </li>
+    <li> Areas: {{ member.areas }} </li>
+    <li><a href="{{ member.web }}"> Personal Page </a> </li>
   </ul>
 </div>
 
@@ -155,6 +178,7 @@ We are looking for new PhD students, Postdocs, and Master students to join the t
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 
 <!-- -->
 
