@@ -85,9 +85,7 @@ As models like [SAM](https://ai.meta.com/sam2/) are capable of producing semanti
   <img src="https://segmast3r.github.io/static/images/segmast3r-poster.png"
        alt="SegMASt3R: Geometry Grounded Segment Matching Poster"
        style="width: 100%; max-width: 1000px; height: auto; border: 1px solid #ddd; border-radius: 8px;" />
-  <figcaption style="margin-top: 10px; font-size: 15px; color: #444;">
-    SegMASt3R: Geometry Grounded Segment Matching
-  </figcaption>
+  <center>Instance maps for vision-language guided navigation</center>
 </figure>
 
 
