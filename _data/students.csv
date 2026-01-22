@@ -2,7 +2,7 @@ name,email,year,degree,supervisor,supervisorid,areas,github,web,photo
 Aakash Aanegola,aakash.aanegola (at) students.iiit.ac.in,2019,btech,K Madhava Krishna,mkrishna,Motion Forecasting - Object Detection - Self Driving Vehicles,Aa-Aanegola,
 Abhayram A Nair,abhayram.a (at) students.iiit.ac.in,2019,btech,Spandan Roy,sroy,Control systems-Anthropomorphic hand,Abhayram-A-Nair,
 Abhigyan Gargav,abhigyan.gargav (at) students.iiit.ac.in,2019,btech,Spandan Roy,sroy,Fault tolerant control of drones,Abhigyan-dev,
-Aditya Mulgundkar,aditya.mulgundkar (at) research.iiit.ac.in,2020,ms,Harikumar Kandath,hkandath,"Soft, Aerial and Underactuated Robotics",AdityaMulgundkar,https://mulgundkar.com/
+Aditya Mulgundkar,aditya.mulgundkar (at) research.iiit.ac.in,2020,ms,Harikumar Kandath,hkandath,"Soft,Aerial and Underactuated Robotics",AdityaMulgundkar,https://mulgundkar.com/
 Agaram Rohith,rohith.agaram (at) research.iiit.ac.in,2021,ms,K Madhava Krishna,mkrishna,3D computer Vision,rohithagaram,
 Ahana Datta,ahana.datta (at) research.iiit.ac.in,2019,dd,K Madhava Krishna,mkrishna,Object Navigation-Room Rearrangement,adata111,
 Amarthya Sasi Kiran Dharmala,amarthya.sasi (at) research.iiit.ac.in,2017,dd,K Madhava Krishna,mkrishna,Object Goal Navigation-Room Rearrangement-Dynaminc Obstacle Avoidance for Autonomous Vehicles-Self Driving Car,amarthyasasi,
@@ -25,7 +25,7 @@ Jhanvi Shingala,jhanvi.shingala (at) research.iiit.ac.in,2020,ms,Harikumar Kanda
 Kaustab Pal,kaustab21 (at) gmail.com,2020,ms,K Madhava Krishna,mkrishna,Model Predictive Controls for Autonomous Vehicles,kaustabpal,https://kaustabpal.github.io
 Laksh Nanwani,laksh.nanwani (at) research.iiit.ac.in,2022,phd,K Madhava Krishna,mkrishna,Autonomous Wheelchair - Vision Language Navigation,laksh-nanwani,
 M Aditya Sharma,aditya.sharm (at) research.iiit.ac.in,2021,ms,K Madhava Krishna,mkrishna,Motion Planning-Control,ADI201998,
-M. Nomaan Qureshi,mohammad.nomaan (at) research.iiit.ac.in,2018,dd,K Madhava Krishna,mkrishna,"Visual Servoing, Reinforcement Learning",qureshinomaan,https://qureshinomaan.github.io
+M. Nomaan Qureshi,mohammad.nomaan (at) research.iiit.ac.in,2018,dd,K Madhava Krishna,mkrishna,"Visual Servoing,Reinforcement Learning",qureshinomaan,https://qureshinomaan.github.io
 Mohd Omama,mohd.omama (at) research.iiit.ac.in,2020,ms,Madhava Krishna,mkrishna,ASLAM - Differentiablity - LiDAR - Perception,mohdomama,https://mohdomama.github.io
 name,email,year,degree,supervisor,supervisorid,areas,github,web
 Pavani Babburi,pavani.babburi (at) students.iiit.ac.in,2019,btech,K Madhava Krishna,mkrishna,Indoor Layout Estimation,pavani-17,
@@ -40,7 +40,7 @@ Shirish Chandra Srivastava,shirish.chandra (at) research.iiit.ac.in,2018,dd,Naga
 Sudarshan S Harithas,sudarshan.s (at) research.iiit.ac.in,2021,ms,K Madhava Krishna,mkrishna,Collaborative SLAM-Visual Inertial Navigation-Uncertainty aware Motion Planning,sudarshan-s-harithas,https://sudarshan-s-harithas.github.io/
 Suraj Bonagiri,bonagiri.v (at) research.iiit.ac.in,2019,phd,Spandan Roy,sroy,Novel UAV Mechanisms-Control Systems,suraj2596,https://www.linkedin.com/in/bvsgsuraj/
 Swati Dantu,swati.dantu (at) research.iiit.ac.in,2020,ms,Spandan Roy,sroy,Non Linear Dynamics and Control-Time delay and adaptive control,swatidantu,
-Tushar Choudhary,tushar.choudhary (at) research.iiit.ac.in,2019,dd,K Madhava Krishna,mkrishna,"Neural rendering, canonicalization",tusharc31,
+Tushar Choudhary,tushar.choudhary (at) research.iiit.ac.in,2019,dd,K Madhava Krishna,mkrishna,"Neural rendering,canonicalization",tusharc31,
 Vedansh Mittal,vedansh.mittal (at) students.iiit.ac.in,2019,btech,K Madhava Krishna,mkrishna,visual servoing-object grasping,VedanshM,
 Vedant Mundheda,vedant.mundheda (at) research.iiit.ac.in,2018,dd,Harikumar Kandath,hkandath,UAV-Model Predictive Controllers,mundheda,
 Vikrant Dewangan,vikrant.dewangan (at) research.iiit.ac.in,2018,dd,K Madhava Krishna,mkrishna,Trajectory Forecasting-Swarm Robotics,Vikr-182,https://vikr-182.github.io/
@@ -50,7 +50,7 @@ Saksham Gupta,saksham.g@research.iiit.ac.in,2022,ms,Spandan Roy,sroy,Dynamics an
 Amitabh Sharma,amitabh.sharma@research.iiit.ac.in,2022,ms,Spandan Roy,sroy,Non-Linear Control applied to robotic systems,ami6643432,https://www.linkedin.com/in/amitabh-sharma-976141126/
 Sanket Kalwar,sanket.k@research.iiit.ac.in,2023,ms,K Madhava Krishna,mkrishna,Scene Understanding (Autonomous Driving) – Robotic Perception,sanketkalwar,https://sanketkalwar.github.io/
 Priyansh Sinha,priyansh.sinha@research.iiit.ac.in,2023,ms,Nagamanikandan Govindan,ngovindan,Mobile Manipulation,101Priyansh,https://101priyansh.github.io/
-Akash Kumbar,akash.kumbar@research.iiit.ac.in,2024,ms,K Madhava Krishna,mkrishna,3D Vision – Neural Scene Representations,AkashKumbar,https://akash-kumbar.github.io/
+Akash Kumbar,akash-kumbar@research.iiit.ac.in,2024,ms,K Madhava Krishna,mkrishna,3D Vision – Neural Scene Representations,AkashKumbar,https://akash-kumbar.github.io/
 Rohit Jayanti,rohit.j (at) research.iiit.ac.in,2023,ms,K Madhava Krishna,mkrishna,3D Scene Understanding - Visual Localization,rjeye,https://github.com/rjeye
 Soham Patil,soham.patil (at) research.iiit.ac.in,2024,ms,Spandan Roy,sroy,Dexterous Manipulation,soham2560,https://github.com/soham2560
 Sarthak Mishra,sarthak.mishra@research.iiit.ac.in,2024,ms,Spandan Roy,sroy,Language Guided Aerial Manipulation,Sarthak42,https://github.com/Sarthak42
@@ -59,8 +59,52 @@ Shivansh Pratap Singh,shivansh.singh@research.iiit.ac.in,2025,ms,Spandan Roy,sro
 Shivam Singh,shivam.si@research.iiit.ac.in,2023,ms,K Madhava Krishna,mkrishna,Task Planning,sssshivvvv,https://github.com/sssshivvvv
 Nabanita Dash,nabanita.dash@research.iiit.ac.in,2025,ms,K Madhava Krishna,mkrishna,Task Planning and Autonomous Driving,dnabanita7,https://dnabanita7.github.io
 Tarun R,tarun.r@research.iiit.ac.in,2025,ms,K Madhava Krishna,mkrishna,Autonomous Wheelchair - Scene Aware Autonomous Navigation and System building,rtarun1,https://github.com/rtarun1
-#Soumo Roy,soumoroy09@gmail.com,2025,RA,K Madhava Krishna,mkrishna,Autonomous Wheelchair - Scene Aware Autonomous Navigation and System building,s0um0r0y,https://s0um0r0y.github.io
+Soumo Roy,soumoroy09@gmail.com,2026,ms,K Madhava Krishna,mkrishna,Autonomous Wheelchair - Scene Aware Autonomous Navigation and System building,s0um0r0y,https://s0um0r0y.github.io
 Astik Srivastava,astik.srivastava@research.iiit.ac.in,2025,ms,K Madhava Krishna,mkrishna,UAV Motion Planning,Astik-2002,https://astik-2002.github.io/astik.github.io/
+Vignesh Vembar,vigneshvembar.m@students.iiit.ac.in,2025,btech,K Madhava Krishna,mkrishna,Dual Arm Grasping and Manipulation,wig-nesh,https://wig-nesh.github.io/
+Lakshya Jindal,lakshya.jindal@research.iiit.ac.in,2025,dd,Antony Thomas,athomas,Infeasibility in motion planning,lakshya0310,
+Krish Pandya,krish.pandya (at) students.iiit.ac.in,2025,btech,K Madhava Krishna,mkrishna,Monocular SLAM - Geometric Reconstruction,mostlykiguess,https://mostlykiguess.github.io/
+Prakhar Gupta,prakhar.gup@research.iiit.ac.in,2025,dd,Harikumar Kandath,hkandath,Swarm drones path detection and tracking,prakhargupta.,
+Jal Parikh,jal.parikh@students.iiit.ac.in,2025,btech,K Madhava Krishna,mkrishna,Autonomous Driving,Xponent123,
+Aditya Vadali,aditya.vadali@research.iiit.ac.in,2025,dd,K Madhava Krishna,mkrishna,CoderKai9001,
+Jainil Bavishi,jainil.bavishi@students.iiit.ac.in,2025,btech,K Madhava Krishna,mkrishna,VLA Autonomous Driving,jainilbavishi24,
+Vaibhav Wadhwani,vaibhav.wadhwani@students.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,UAV-Reinforcement Learning-Navigation and Control,VW100,
+Krishna goel,krishna.goel@research.iiit.ac.in,2025,dd,Harikumar Kandath,hkandath,Reinforcement Learning,krishna2882,
+Aditya Peketi,peketivenkata.v@research.iiit.ac.in,2025,dd,Antony Thomas,athomas,Navigation Among Movable Obstacles,adityapeketii,
+Indira C,indira.reddy@students.iiit.ac.in,2025,btech,Spandhan Roy,sroy,Tactile Sensing,Indira-06,
+Vidvathama R,vidvathama.babu@research.iiit.ac.in,2025,dd,Spandan Roy,sroy,Dexterous arm Manipulation and Applications,VidvathamaIIITH,
+Sarvesh Takbhate,sarvesh.takbhate@students.iiit.ac.in,2025,btech,K Madhava Krishna,mkrishna,UAV motion planning,sarvesh2005takbhate,
+Aarav Singla,aarav.singla@research.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,RL for Object Avoidance,aaravsingla,https://github.com/aaravsingla
+Snehil Sanjog,snehil.sanjog@students.iiit.ac.in,2026,btech,Harikumar Kandath,hkandath,Flappy Bird UAV,Sylvester4582,https://github.com/Sylvester4582
+Aadith Warrier,aadith.warrier (at) research.iiit.ac.in,2025,ms,K Madhava Krishna,mkrishna,Scene Understanding,aadith-warrier,https://github.com/aadith-warrier/
+Gnana Prakash Punnavajhala,punnavajhala (at) research.iiit.ac.in,2021,dd,K Madhava Krishna,mkrishna,Visual Place Recognition,GnanaPrakashSG2004,https://github.com/GnanaPrakashSG2004/
+Anubhav Tripathi,anubhav.tripathi@research.iiit.ac.in,2023,ms,Hari kumar Kandath,hkandath,Imitation learning,Anubhav06022001,https://splendid-tiramisu-56ef8e.netlify.app/
+Vineeth Bhat,vineeth.bhat (at) students.iiit.ac.in,2021,btech,K Madhava Krishna,mkrishna,Visual Navigation - Localization - Visual Place Recognition,flightvin,https://flightvin.github.io/
+Ritama Sanyal,ritama.sanyal@research.iiit.ac.in,2025,dd,Spandan Roy,sroy,Heterogeneous Drone Manipulation using VLM,LittleJoeHarp,
+Nitin Rama Sai Grandhi,grandhi.sai@research.iiit.ac.in,2025,dd,K Madhava Krishna,mkrishna,Cross Embodiment Learning,ntini773,
+Viswas Dinesh,viswas.dinesh@research.iiit.ac.in,2025,ms,Spandan Roy,sroy,
+Vansh Garg,vansh.garg@research.iiit.ac.in,2021,dd,K Madhava Krishna,mkrishna,End to End Visual Navigation using Geometric Foundation Models,
+Keerthi Seela,keerthi.seela@students.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,Reinforcement learning,Keerthi-2012,
+Aditya Sehgal,aditya.sehgal@research.iiit.ac.in,2020,dd,Nagamanikandan G,ngovindan,Aerial Manipulation and Robot Learning,sehgaladitya26,https://github.com/sehgaladitya26
+Piyush Kumar Tiwari,piyush.tiwari@research.iiit.ac.in,2025,ms,Harikumar Kandath,hkandath,Reinforcement Learning - Decision Making Under Uncertainity - Skill Discovery,piyushkumar-tiwari,
+Vansh Agarwal,vansh.agarwal@students.iiit.ac.in,2025,btech,K Madhava Krishna,mkrishna,UAV motion planning,vanshagarwal02,https://github.com/vanshagarwal02
+Pragnya T,pragnya.tatiparthi@students.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,Sound Localization,me-in-git,
+Saarthak Sabharwal,saarthak.sabharwal@students.iiit.ac.in,2025,btech,Antony Thomas,athomas,Sound Localization,saarthak5,https://github.com/saarthak5
+Dhimant Bhuva,dhimant.bhuva@students.iiit.ac.in,2025,btech,K Madhava Krishna,mkrishna,UAV motion planning,Dhimant-1001,https://github.com/Dhimant-1001
+Nilavra Ghosh,nilavra.ghosh@students.iiit.ac.in,2025,btech,Spandan Roy,sroy,Heterogeneous Drone Manipulation using VLM,nilavra17ghosh,https://github.com/nilavra17ghosh
+sanjana sheela,sanjana.sheela@students.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,Sound Source Localization,
+Pavan Karke,pavan.karke@research.iiit.ac.in,2024,dd,K Madhava Krishna,mkrishna,3D Reconstruction and Grasping,codepk37,https://codepk37.github.io/
+Manas Inamdar,manas.inamdar@students.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,UAV motion using RL and MPC,Manas-Inamdar,
+Ayush Kaura,ayush.kaura@research.iiit.ac.in,2024,ms,K Madhava Krishna,mkrishna,Dual Arm Grasping and Manipulation,Ayush-Kaura,www.linkedin.com/in/ayush-kaura
+Md Faizal Karim,md.faizal@research.iiit.ac.in,2021,dd,K Madhava Krishna,mkrishna,Dual Arm Grasping and Manipulation,FaizalKarim280280,https://researchweb.iiit.ac.in/~md.faizal/
+yash mehan,yash.m@research.iiit.ac.in,2020,dd,k madhava Krishna,mkrishna,3D scene understanding and topological SLAM,yash4242,
+Aanchal Amit Mundhada,aanchal.mundhada@research.iiit.ac.in,2025,dd,Harikumar Kandath,hkandath,Flapping wing UAV,aanchal18m,https://github.com/aanchal18m
+Dataarnoor Singh Oberoi,dataarnoor.oberoi@students.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,RL algorithms and models,dataarnoor,github.com/dataarnoor
+Dhruv Bansal,dhruv.bansal@students.iiit.ac.in,2025,btech,Harikumar Kandath,hkandath,RL on LLMs,dhruv18bansal,github.com/dhruv18bansal
+kotha Phanindra Manoj Kumar,phanindra.kotha@students.iiit.ac.in,2025,btech,Antony Thomas,athomas,Sound localization,
+Harsh Bansal,harsh.bansal (at) students.iiit.ac.in,2021,btech,Harikumar Kandath,hkandath,UAV-Reinforcement Learning-Navigation and Control,HarsH-BansaL16,
+Sathwik B,boyanapalli.sathwik@research.iiit.ac.in,2025,dd,Antony Thomas,athomas,Task and Motion Planning through Learning based methods,
+Aesha Mehta,aesha.mehta@research.iiit.ac.in,2025,ms,K Madhava Krishna,mkrishna,Aeshaa-Mehta,www.linkedin.com/in/aesha--mehta
 
 
 
