@@ -104,13 +104,14 @@ We propose a novel pipeline for dual-arm manipulation that combines the advantag
 DA-VIL can be applied in industrial automation for handling large or complex assemblies, service robotics requiring human-like interactions, and assistive technologies where precise and adaptable dual-arm manipulation is essential.
 <div style="max-width: 900px; margin: 25px auto; text-align:center;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-    <iframe
-      src="https://www.youtube.com/embed/u2eh4RUo_ts?rel=0"
-      title="YouTube video"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
+
+    <iframe width="560" height="315"
+src="https://www.youtube.com/embed/u2eh4RUo_ts"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
   </div>
 <center><img src="{{ site.url }}{{ site.baseurl }}images/research/davil.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>Dual-arm manipulation based on policy learning and gradient-based optimization</center>
