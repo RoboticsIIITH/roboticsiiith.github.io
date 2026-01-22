@@ -92,9 +92,9 @@ Our research team is investigating imitation learning policies in 3D environment
     allowfullscreen>
   </iframe>
 
-  <div style="margin-top: 10px; font-size: 14px; font-weight: 600;">
+  <center>
     Pick and Place an object on a marker using 3D Diffusion Policy
-  </div>
+  </center>
 </div>
 
 
