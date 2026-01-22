@@ -75,6 +75,33 @@ Trajectory Optimizer: In Trajectory optimization, we optimize a trajectory that
 
 ---
 
+
+## AI Enhanced Grasping and Manipulation <a name="grasp-manip"></a>
+
+#### *Policy Learning in the 3D Space*
+
+Our research team is investigating imitation learning policies in 3D environments, with a focus on diffusion-based approaches such as 3D-Diffusion-Policies. We have established the DP3 framework and are extending it to perform diverse forms of autonomous manipulation in fully three-dimensional spaces. Through systematic experimentation, we aim to analyze how policy representations emerge and operate in 3D, evaluate their generalization and robustness across manipulation tasks, and assess whether 3D policy representations provide a more effective and scalable interface for perception-to-action learning compared to conventional 2D or low-dimensional abstractions. This study seeks to clarify the representational advantages and limitations of 3D policy learning and to inform the design of future imitation learning systems for robotic manipulation.
+
+<div style="display:flex; justify-content:center; margin: 25px 0;">
+  <div style="width: 100%; max-width: 360px; aspect-ratio: 9 / 16;">
+    <iframe
+      src="https://www.youtube.com/embed/UpgTAEp5iKM"
+      title="YouTube Shorts video"
+      style="width: 100%; height: 100%; border: 0;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <center> Pick and Place an object on a marker using 3D Diffusion Policy </center>
+</div>
+
+
+
+---
+
+
+
+
 ## Robotic Vision and Learning <a name="robotic-vision"></a>
 
 #### *Segment Matching powered by Geometric Foundation Models*
