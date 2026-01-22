@@ -102,17 +102,16 @@ Our research team is investigating imitation learning policies in 3D environment
 
 We propose a novel pipeline for dual-arm manipulation that combines the advantages of policy learning based on environment feedback and gradient-based optimization to learn controller gains required for the control outputs. This allows the robotic system to dynamically modulate its impedance in response to task demands, ensuring stability and dexterity in dual-arm operations. We evaluate our pipeline on a trajectory-tracking task involving a variety of large, complex objects with different masses and geometries. The performance is then compared to three other established methods for controlling dual-arm robots, demonstrating superior results.
 DA-VIL can be applied in industrial automation for handling large or complex assemblies, service robotics requiring human-like interactions, and assistive technologies where precise and adaptable dual-arm manipulation is essential.
-<div style="max-width: 900px; margin: 25px auto; text-align:center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/u2eh4RUo_ts"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
-
-  </div>
+<div class="video-container">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/u2eh4RUo_ts" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 <center><img src="{{ site.url }}{{ site.baseurl }}images/research/davil.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>Dual-arm manipulation based on policy learning and gradient-based optimization</center>
 </div>
