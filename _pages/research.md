@@ -238,6 +238,23 @@ By integrating robust navigation with cutting-edge planning, this work advances 
 
 #### *Autonomous Indoor Wheel Chair for Social Applications*
 The Vision-Language Robotic Navigation project (VNLP) aims to develop and deploy an autonomous interactive robotic wheelchair in hospital spaces, university campuses, and even residential spaces. The project involves building a robotic wheelchair equipped with sensors like depth cameras, LiDARs and a microphone to effectively interact with the dynamic environment and follow complex commands given by the operators. The project is demonstration dependent as much as it is research dependent. Current research addresses the problem of Referring Image Segmentation, that uses language commands to attend to correct entities in images. Peripheral projects include following a specified person in a crowd, finding a person/scene using scene recognition, etc., and localizing efficiently in long corridors.
+
+<div style="text-align: center;">
+  <iframe 
+    width="315" 
+    height="560" 
+    src="https://www.youtube.com/embed/a7lOlOx4emk" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+  <center>
+   Deployment Video on GMR Innovation Complex
+  </center>
+</div>
+
 <div class="video">
 <div class="video__youtube" data-youtube>
 <img src="https://i.ytimg.com/vi/25nhXckY9Vo/maxresdefault.jpg" class="video__placeholder" />
