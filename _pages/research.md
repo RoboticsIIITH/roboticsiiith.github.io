@@ -12,7 +12,8 @@ RRC is dedicated towards buidling next generation robots, that can assist humans
 ## Research Areas at RRC
 
 - [Autonomous Driving](#autonomous-driving)
-- [Robotic Vision](#robotic-vision)
+- [AI Enhanced Grasping and Manipulation](#grasp-manip)
+- [Robotic Vision and Learning](#robotic-vision)
 - [Aerial Robots and Control](#aerial-robots-and-control)
 - [Robot and mechanism design](#robot-and-mechanism-design)
 - [Mobile manipulation](#mobile-manipulation)
