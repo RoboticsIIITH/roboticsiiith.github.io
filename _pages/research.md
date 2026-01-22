@@ -248,7 +248,6 @@ The Vision-Language Robotic Navigation project (VNLP) aims to develop and deploy
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-</div>
 
   <center>
    Deployment Video on GMR Innovation Complex
