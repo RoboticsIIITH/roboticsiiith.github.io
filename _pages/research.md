@@ -102,7 +102,7 @@ Our research team is investigating imitation learning policies in 3D environment
 
 We propose a novel pipeline for dual-arm manipulation that combines the advantages of policy learning based on environment feedback and gradient-based optimization to learn controller gains required for the control outputs. This allows the robotic system to dynamically modulate its impedance in response to task demands, ensuring stability and dexterity in dual-arm operations. We evaluate our pipeline on a trajectory-tracking task involving a variety of large, complex objects with different masses and geometries. The performance is then compared to three other established methods for controlling dual-arm robots, demonstrating superior results.
 DA-VIL can be applied in industrial automation for handling large or complex assemblies, service robotics requiring human-like interactions, and assistive technologies where precise and adaptable dual-arm manipulation is essential.
-<div class="video-container">
+<div style="text-align: center;">
   <iframe 
     width="560" 
     height="315" 
@@ -124,17 +124,16 @@ Dual-arm robotic grasping is essential for manipulating large objects, yet dedic
 
 This dataset helps robots learn better ways to grasp large objects using two arms. It improves training for AI models, making robot grasps stronger and more reliable. Robots can use this for tasks like packing, assembling, and helping people. With better data, they can handle different objects more easily and work more efficiently.
 
-<div style="max-width: 900px; margin: 25px auto; text-align:center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-    <iframe
-      src="https://www.youtube.com/embed/zk7PSMaUQ58?rel=0"
-      title="YouTube video"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
-
+<div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/zk7PSMaUQ58" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 <center><img src="{{ site.url }}{{ site.baseurl }}images/research/dual-arm-grasping-dataset.png" class="img-responsive" width="100%" style="float: center"></center>
 <center>Force closure based dual-arm grasping dataset</center>
 </div>
@@ -271,15 +270,16 @@ Object detection is challenging under adverse weather conditions (such as fog or
 #### *Impedance Control on Aerial Manipulator*
 Stable aerial manipulation during dynamic tasks such as object catching, perching, or contact with rigid surfaces necessarily requires compliant behavior, which is often achieved via impedance control. Successful manipulation depends on how effectively the impedance control can tackle the unavoidable coupling forces between the aerial vehicle and the manipulator. However, the existing impedance controllers for aerial manipulator either ignore these coupling forces (in partitioned system compliance methods) or require their precise knowledge (in complete system compliance methods). Unfortunately, such forces are very difficult to model, if at all possible. To solve this long-standing control challenge, we introduce an impedance controller for aerial manipulator which does not rely on a priori knowledge of the system dynamics and of the coupling forces. The impedance control design can address unknown coupling forces, along with system parametric uncertainties, via suitably designed adaptive laws. The closed-loop system stability is proved analytically and experimental results with a payload-catching scenario demonstrate significant improvements in overall stability and tracking over the state-of-the-art impedance controllers using either partitioned or complete system compliance. This has major applications in aerial manipulation in challenging environments and environmental interaction for AAM.
 
-<div style="text-align:center; margin: 25px 0;">
-  <iframe width="800" height="450"
-    src="https://www.youtube.com/embed/llMsQMoCa1E?rel=0"
-    title="YouTube video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+<div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/llMsQMoCa1E" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
-
   <center>
     Pick and Place an object on a marker using 3D Diffusion Policy
   </center>
@@ -304,16 +304,15 @@ In this paper, we combine generative models with a safety-filter (SF) to generat
 Swarm-Gen can be used in scenarios requiring coordinated multi-robot systems, such as search and rescue missions, environmental monitoring, and industrial automation, where generating diverse and safe trajectories is crucial.
 
 
-<div style="max-width: 900px; margin: 25px auto; text-align:center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-    <iframe
-      src="https://www.youtube.com/embed/7-It7MNERNM?rel=0"
-      title="YouTube video"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
+  <div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/7-It7MNERNM" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 <center> Swarm-Gen: Generative models with a differentiable safety filter </center>
 </div>
 
@@ -325,16 +324,15 @@ This paper presents the analysis and results of a data-driven approach for fault
 The proposed fault detection and isolation method for hexacopter UAVs has several potential applications. It can enhance UAV reliability in critical missions such as search and rescue, disaster response, and military surveillance by ensuring continued flight despite motor failures. The approach can also be applied in commercial drone delivery services to prevent crashes and package losses. Additionally, it can be used in industrial inspections of power lines, pipelines, and remote infrastructure where UAV stability is crucial. The data-driven, model-free nature of the system makes it adaptable to different UAV configurations, improving safety in autonomous aerial operations.
 
 
-<div style="max-width: 900px; margin: 25px auto; text-align:center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-    <iframe
-      src="https://www.youtube.com/embed/xODChwodfyw?rel=0"
-      title="YouTube video"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
+  <div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/xODChwodfyw" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 <center> Sensor based Active Fault Tolerant Controller for Hexacopter </center>
 </div>
 
@@ -360,16 +358,16 @@ This paper presents a simple method for stabilizing the quadrotor dynamics under
 Unmanned Aerial Vehicle (UAV) based remote sensing sys-tem incorporated with computer vision has demonstrated potential for assisting building construction and in disaster management like damage assessment during earthquakes. The vulnerability of a building to earthquake can be assessed through inspection that takes into account the expected damage progression of the associated component and the component’s contribution to structural system performance. Most of these inspections are done manually, leading to high utilization of manpower, time, and cost. This paper proposes a methodology to automate these inspections through UAV-based image data collection and a software library for post-processing that helps in estimating the seismic structural parameters. The key parameters considered here are the distances between adjacent buildings, building plan-shape, building plan area, objects on the rooftop and rooftop layout. The accuracy of the proposed methodology in estimating the above mentioned parameters is verifed through field measurements taken using a distance measuring sensor and also from the data obtained through Google Earth. Despite the technological advancements in the con-struction and surveying sector, the inspection of salient featureslike windows in an under-construction or existing building ispredominantly a manual process. Moreover, the number ofwindows present in a building is directly related to the magnitudeof deformation it suffers under earthquakes. In this research, amethod to accurately detect and count the number of windowsof a building by deploying an Unmanned Aerial Vehicle (UAV)based remote sensing system is proposed. The proposed two-stagemethod automates the identification and counting of windows bydeveloping computer vision pipelines that utilize data from UAV’sonboard camera and other sensors. Quantitative and Qualitativeresults show the effectiveness of our proposed approach inaccurately detecting and counting the windows compared to the existing method. This has major applications in damage detection and structural component recognition, monitoring the ongoing construction process, surveying the area, classification of completed rooftops, and 3D reconstruction.
 
 
-<div style="max-width: 900px; margin: 25px auto; text-align:center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-    <iframe
-      src="https://www.youtube.com/embed/TuwcaY2psYk?rel=0"
-      title="YouTube video"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
+
+   <div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/TuwcaY2psYk" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 <center> Drone-based Infrastructure Assessment </center>
 </div>
 
@@ -381,16 +379,15 @@ Flapping-wing robots (FWR) have domain-specific applications, where the lack of 
 extended-range configuration with a tandem propeller for higher flight velocity for longer range and endurance. To verify the results, we compare the flight test data of both power train configurations using the same FWR platform.
 
 
-<div style="max-width: 900px; margin: 25px auto; text-align:center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-    <iframe
-      src="https://www.youtube.com/embed/TuwcaY2psYk?rel=0"
-      title="YouTube video"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
+<div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/HMlsYIQbrmk" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 <center> Flapping Wing UAV </center>
 </div>
 
@@ -398,18 +395,19 @@ extended-range configuration with a tandem propeller for higher flight velocity 
 
 #### *Non-Linear Control of Quadrotors*
 Quadrotors find a vast potential use in delivery and disaster relief operations. Control becomes critical in such scenarios, especially when quadrotors have to manoeuvre through constrained spaces or deliver payloads at precise locations in the presence of external disturbances and parametric uncertainties stemming from uncertain payloads. Therefore, the controller has to guarantee a predefined tracking accuracy not to violate the state constraints . On the other hand, conventional fixed-valued state constraints are not suitable in many scenarios such as (i) initial offset being well beyond the expected accuracy, (ii) system dynamics experiencing significant transients due to the dropping of the payload. However, to the best of the authors’ knowledge, state-of-the-art controllers do not provide any solution for an underactuated system like a quadrotor when the system needs to honour time-varying constraints under uncertainties. This work proposes a controller for quadrotors which is robust against external disturbances and parametric variations and guarantees a time-varying predefined position, velocity, attitude, and attitude-rate accuracy. The closed-loop system stability is established analytically, and the effectiveness of the proposed controller is validated experimentally compared to the state-of-the-art under a precision payload delivery scenario.
-<div style="max-width: 900px; margin: 25px auto; text-align:center;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
-    <iframe
-      src="https://www.youtube.com/embed/HMlsYIQbrmk?rel=0"
-      title="YouTube video"
-      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe>
-  </div>
+
+
+  <!--div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/HMlsYIQbrmk" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 <center> Robust Payload Carrying Operation for Quadrotor under Time-varying State Constraints and Uncertainty</center>
-</div>
+<!--/div-->
 
 #### *Fixed State Constraint Controller*
 In recent times, quadrotors have become immensely applicable in scenarios such as relief operations, infrastructure maintenance, search-and-rescue missions etc. A key control design challenge arises in these applications when the quadrotor has to manoeuvre through constrained spaces such as narrow windows, pipelines in the presence of external disturbances and parametric uncertainties: such conditions necessitate the controller to guarantee predefined tracking accuracy so as to not violate the constraints and simultaneously tackle uncertainties. However, state-of-the-art controllers dealing with constrained system motion are not applicable either for an underactuated system like quadrotor or for an uncertain system dynamics. This work proposes a robust controller that enables the quadrotor to follow a trajectory with predefined tracking accuracy in constrained space as well as to tackle uncertainties stemming from imprecise system modelling and external disturbances. The closed-loop system stability is analysed via the Barrier Lyapunov approach and the effectiveness of the proposed controller is validated via simulation with state of the art.
