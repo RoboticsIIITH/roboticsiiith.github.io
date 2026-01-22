@@ -75,7 +75,22 @@ Trajectory Optimizer: In Trajectory optimization, we optimize a trajectory that
 
 ---
 
-## Robotic Vision <a name="robotic-vision"></a>
+## Robotic Vision and Learning <a name="robotic-vision"></a>
+
+#### *Segment Matching powered by Geometric Foundation Models*
+
+As models like [SAM](https://ai.meta.com/sam2/) are capable of producing semantically meaningful image segments, it is possible to directly harness these image segments as the core visual entity for representing the physical world so that robots can directly react to it when given natural language instructions. State-of-the-art models like SAM2 or DINOv2 work great for tracking small changes, but they completely break down when you have extreme viewpoint shifts—like seeing a chair from the front versus the back. SegMASt3R fills in a major research gap by enabling high precision data association for image segments leveraging geometry-informed foundation model priors, and a differentiable Sinkhorn-based matcher augmented with a learnable dustbin. We show across the board performance gains and benchmark against SOTA 2D foundation models and local feature matchers. We motivate this capability further by empowering downstream tasks styled on object-relative navigation and 3D instance mapping. Check out our awesome results and demo-code [here](https://segmast3r.github.io/)!
+
+<figure style="text-align:center; margin: 25px 0;">
+  <img src="https://segmast3r.github.io/static/images/segmast3r-poster.png"
+       alt="SegMASt3R: Geometry Grounded Segment Matching Poster"
+       style="width: 100%; max-width: 1000px; height: auto; border: 1px solid #ddd; border-radius: 8px;" />
+  <figcaption style="margin-top: 10px; font-size: 15px; color: #444;">
+    SegMASt3R: Geometry Grounded Segment Matching
+  </figcaption>
+</figure>
+
+
 
 #### *Open-Set 3D Semantic Instance Maps for Vision Language Navigation -- O3D-SIM*
 Humans excel at forming mental maps of their surroundings, equipping them to understand object relationships and navigate based on language queries. Our previous work SI Maps (Nanwani L, Agarwal A, Jain K, et al. Instance-level semantic maps for vision language navigation. In: 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE; 2023 Aug.) showed that having instance-level information and the semantic understanding of an environment helps significantly improve performance for language-guided tasks. We extend this instance-level approach to 3D while increasing the pipeline's robustness and improving quantitative and qualitative results. It can be applied to robots for a human-like interaction in home/office environments. The approach can also be combined with physics-based simulation engines for creating simulations of real world scenarios. We have made strides in that area under the project **O3D-SIM**.
