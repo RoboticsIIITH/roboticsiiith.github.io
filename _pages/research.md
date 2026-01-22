@@ -397,18 +397,6 @@ extended-range configuration with a tandem propeller for higher flight velocity 
 Quadrotors find a vast potential use in delivery and disaster relief operations. Control becomes critical in such scenarios, especially when quadrotors have to manoeuvre through constrained spaces or deliver payloads at precise locations in the presence of external disturbances and parametric uncertainties stemming from uncertain payloads. Therefore, the controller has to guarantee a predefined tracking accuracy not to violate the state constraints . On the other hand, conventional fixed-valued state constraints are not suitable in many scenarios such as (i) initial offset being well beyond the expected accuracy, (ii) system dynamics experiencing significant transients due to the dropping of the payload. However, to the best of the authors’ knowledge, state-of-the-art controllers do not provide any solution for an underactuated system like a quadrotor when the system needs to honour time-varying constraints under uncertainties. This work proposes a controller for quadrotors which is robust against external disturbances and parametric variations and guarantees a time-varying predefined position, velocity, attitude, and attitude-rate accuracy. The closed-loop system stability is established analytically, and the effectiveness of the proposed controller is validated experimentally compared to the state-of-the-art under a precision payload delivery scenario.
 
 
-  <!--div style="text-align: center;">
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/HMlsYIQbrmk" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-<center> Robust Payload Carrying Operation for Quadrotor under Time-varying State Constraints and Uncertainty</center>
-<!--/div-->
-
 #### *Fixed State Constraint Controller*
 In recent times, quadrotors have become immensely applicable in scenarios such as relief operations, infrastructure maintenance, search-and-rescue missions etc. A key control design challenge arises in these applications when the quadrotor has to manoeuvre through constrained spaces such as narrow windows, pipelines in the presence of external disturbances and parametric uncertainties: such conditions necessitate the controller to guarantee predefined tracking accuracy so as to not violate the constraints and simultaneously tackle uncertainties. However, state-of-the-art controllers dealing with constrained system motion are not applicable either for an underactuated system like quadrotor or for an uncertain system dynamics. This work proposes a robust controller that enables the quadrotor to follow a trajectory with predefined tracking accuracy in constrained space as well as to tackle uncertainties stemming from imprecise system modelling and external disturbances. The closed-loop system stability is analysed via the Barrier Lyapunov approach and the effectiveness of the proposed controller is validated via simulation with state of the art.
 <div class="video">
