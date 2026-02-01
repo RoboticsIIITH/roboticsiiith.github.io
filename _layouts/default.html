@@ -15,22 +15,19 @@
 
     {% include footer.html %}
 
-    <!-- UASAT: text navigates, caret opens dropdown -->
-    <script>
+<script>
 document.addEventListener('click', function (e) {
-  const link = e.target.closest('.uasat-dropdown > a');
-  if (!link) return;
+  const uasatLink = e.target.closest('.uasat-link');
+  if (!uasatLink) return;
 
-  // If caret was clicked → let Bootstrap handle dropdown
-  if (e.target.closest('.caret')) {
-    return; // IMPORTANT: no preventDefault here
+  // Close any open dropdowns before navigation
+  const parent = uasatLink.closest('.dropdown');
+  if (parent && parent.classList.contains('open')) {
+    parent.classList.remove('open');
   }
-
-  // Otherwise → navigate to UASAT page
-  e.preventDefault();
-  window.location.href = link.getAttribute('href');
 });
 </script>
+
 
 
   </body>
