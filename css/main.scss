@@ -26,22 +26,6 @@
   }
 })();
 </script>
-<script>
-document.addEventListener('click', function (e) {
-  const link = e.target.closest('.uasat-dropdown > a');
-  if (!link) return;
-
-  // If the caret (or something inside it) was clicked → dropdown only
-  if (e.target.closest('.caret')) {
-    e.preventDefault();
-    return;
-  }
-
-  // Otherwise → allow normal navigation
-  e.preventDefault();
-  window.location.href = link.getAttribute('href');
-});
-</script>
 
 
 
