@@ -15,19 +15,6 @@
 
     {% include footer.html %}
 
-<script>
-document.addEventListener('click', function (e) {
-  const uasatLink = e.target.closest('.uasat-link');
-  if (!uasatLink) return;
-
-  // Close any open dropdowns before navigation
-  const parent = uasatLink.closest('.dropdown');
-  if (parent && parent.classList.contains('open')) {
-    parent.classList.remove('open');
-  }
-});
-</script>
-
 
 
   </body>
