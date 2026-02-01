@@ -34,21 +34,21 @@
 
     <!-- UASAT: text navigates, caret opens dropdown -->
     <script>
-    document.addEventListener('click', function (e) {
-      const link = e.target.closest('.uasat-dropdown > a');
-      if (!link) return;
+document.addEventListener('click', function (e) {
+  const link = e.target.closest('.uasat-dropdown > a');
+  if (!link) return;
 
-      // Click on caret → dropdown only
-      if (e.target.closest('.caret')) {
-        e.preventDefault();
-        return;
-      }
+  // If caret was clicked → let Bootstrap handle dropdown
+  if (e.target.closest('.caret')) {
+    return; // IMPORTANT: no preventDefault here
+  }
 
-      // Click on text → navigate
-      e.preventDefault();
-      window.location.href = link.getAttribute('href');
-    });
-    </script>
+  // Otherwise → navigate to UASAT page
+  e.preventDefault();
+  window.location.href = link.getAttribute('href');
+});
+</script>
+
 
   </body>
 
