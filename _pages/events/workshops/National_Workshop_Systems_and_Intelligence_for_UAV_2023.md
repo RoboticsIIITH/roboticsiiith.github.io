@@ -3,7 +3,7 @@ title: "RRC - National Workshop on Systems and Intelligence for UAV (Nov 2023)"
 layout: textlay
 excerpt: "RRC -- National Workshop on Systems and Intelligence for UAV (3-4 Nov 2023)"
 sitemap: false
-permalink: /National_Workshop_Systems_and_Intelligence_for_UAV_2023/
+permalink: events/workshops/National_Workshop_Systems_and_Intelligence_for_UAV_2023/
 ---
 
 <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc;">
