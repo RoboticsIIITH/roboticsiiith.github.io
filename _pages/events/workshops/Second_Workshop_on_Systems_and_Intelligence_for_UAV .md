@@ -3,7 +3,7 @@ title: "RRC - Second_Workshop_on_Systems_and_Intelligence_for_UAV"
 layout: textlay
 excerpt: "RRC -- Second_Workshop_on_Systems_and_Intelligence_for_UAV"
 sitemap: false
-permalink: /Second_Workshop_on_Systems_and_Intelligence_for_UAV/
+permalink: events/workshops/Second_Workshop_on_Systems_and_Intelligence_for_UAV/
 ---
 
 <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc;">
