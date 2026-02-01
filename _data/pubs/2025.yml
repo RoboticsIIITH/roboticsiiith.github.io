@@ -49,7 +49,16 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11098573
     url: /publications/2025/Rishabh_An
     display: Project Page
-  id: mkrishna
+  id: sroy
+  featured: 1
+
+- title: "Modular Adaptive Aerial Manipulation Under Unknown Dynamic Coupling Forces"
+  authors: Rishabh Dev Yadav, Swati Dantu, Wei Pan, Sihao Sun, Spandan Roy, Simone Baldi
+  venue:  IEEE/ASME TRANSACTIONS ON MECHATRONICS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10701509
+    url: /publications/2024/Rishabh_Modular
+    display: Project Page
+  id: sroy
   featured: 1
 
 - title: "ObjectReact: Learning Object-Relative Control for Visual Navigation"
