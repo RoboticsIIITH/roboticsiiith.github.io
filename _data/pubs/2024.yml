@@ -13,7 +13,7 @@
   link: # https://link.springer.com/article/10.1007/s11760-024-03380-1
     url: /publications/2024/Debesh_Optimized-RainDNet
     display: Project Page
-  id: mkrishna
+  id: sroy
   featured: 1
 
 - title: "Equilibrium Point Selection and Two Stage Optimal Control of Quadrotor Under Actuator Failure"
@@ -22,7 +22,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10843913
     url: /publications/2024/Vidya_Equilibrium
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning"
@@ -31,7 +31,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711835
     url: /publications/2024/Harsh_RaCIL
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "Attention Meets UAVs:A Comprehensive Evaluation of DDoS Detection in Low-Cost UAVs"
@@ -40,7 +40,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711508 
     url: /publications/2024/Ashish_Attention
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "CrackUDA: Incremental Unsupervised Domain Adaptation for Improved Crack Segmentation in Civil Structures"
@@ -49,7 +49,7 @@
   link: # https://link.springer.com/chapter/10.1007/978-3-031-78113-1_6
     url: /publications/2024/Kushagra_CrackUDA
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "Deep RL based Obstacle Avoidance for UAVs with Time Varying sensor Bias"
@@ -58,7 +58,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10785031
     url: /publications/2024/Aditya_Deep-RL
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "Adaptive Tracking and Anti-Swing Control of Quadrotors Carrying Suspended Payload Under State-Dependent Uncertainty"
@@ -67,7 +67,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10769989
     url: /publications/2024/Swati_Adaptive
     display: Project Page
-  id: mkrishna
+  id: sroy
   featured: 1
 
 - title: "Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics"
@@ -76,7 +76,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711418
     url: /publications/2024/Saksham_Adaptive
     display: Project Page
-  id: mkrishna
+  id: sroy
   featured: 1
 
 - title: "A Hierarchical Manipulation Planning Framework Combining Striking,Pushing, and Pick & Place Motion Primitives"
@@ -85,16 +85,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711645
     url: /publications/2024/Prakrut_A-Hierarchical
     display: Project Page
-  id: mkrishna
-  featured: 1
-
-- title: "Modular Adaptive Aerial Manipulation Under Unknown Dynamic Coupling Forces"
-  authors: Rishabh Dev Yadav, Swati Dantu, Wei Pan, Sihao Sun, Spandan Roy, Simone Baldi
-  venue:  IEEE/ASME TRANSACTIONS ON MECHATRONICS
-  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10701509
-    url: /publications/2024/Rishabh_Modular
-    display: Project Page
-  id: mkrishna
+  id: ngovindan
   featured: 1
 
 - title: "Open-Set 3D Semantic Instance Maps for Vision Language Navigation — O3D-SIM"
@@ -112,7 +103,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10681644
     url: /publications/2024/Haasith_Identification
     display: Project Page
-  id: mkrishna
+  id: ngovindan
   featured: 1
 
 - title: "Revisit Anything: Visual Place Recognition via Image Segment Retrieval"
@@ -139,7 +130,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10633033
     url: /publications/2024/Snehit_Design
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding"
@@ -193,7 +184,7 @@
   link: # https://arxiv.org/pdf/2404.04643
     url: /publications/2024/Gaurav_Constrained
     display: Project Page
-  id: mkrishna
+  id: ngovindan
   featured: 1
 
 - title: "A dynamic area approximation-based stochastic multi-UAV target search with noisy measurements"
@@ -202,7 +193,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10557107
     url: /publications/2024/P_A-dynamic-area
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "An Efficient Approach With Dynamic Multiswarm of UAVs for Forest Firefighting"
@@ -211,7 +202,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10416753
     url: /publications/2024/Josy_An-Efficient-Approach
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "Metacognitive Decision-Making Framework for Multi-UAV Target Search Without Communication"
@@ -220,7 +211,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10430105
     url: /publications/2024/J_Metacognitive
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "Distributed Adaptive Synchronization in Euler-Lagrange Networks With Uncertain Interconnections"
@@ -229,7 +220,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10122561
     url: /publications/2024/Tian_Distributed
     display: Project Page
-  id: mkrishna
+  id: sroy
   featured: 1
 
 - title: "Adaptive Synchronization of Uncertain Underactuated Euler-Lagrange Agents"
@@ -238,7 +229,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379117
     url: /publications/2024/Tian_Adaptive-Synchronization
     display: Project Page
-  id: mkrishna
+  id: sroy
   featured: 1
 
 - title: "Introducing Switched Adaptive Control for Self-Reconfigurable Mobile Cleaning Robots"
@@ -247,7 +238,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10082944&tag=1
     url: /publications/2024/Madan_Introducing-Switched
     display: Project Page
-  id: mkrishna
+  id: sroy
   featured: 1
 
 - title: "Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty"
@@ -256,7 +247,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10553074
     url: /publications/2024/Bhaskar_Sim-to-Real
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "MPC-based obstacle aware multi-UAV formation control under imperfect communication"
@@ -265,7 +256,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10553141
     url: /publications/2024/Vikrant_MPC-based
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "Leveraging Latent Temporal Features for Robust Fault Detection and Isolation in Hexacopter UAVs"
@@ -274,7 +265,7 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552933
     url: /publications/2024/Shivaan_Leveraging
     display: Project Page
-  id: mkrishna
+  id: hkandath
   featured: 1
 
 - title: "Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving"
