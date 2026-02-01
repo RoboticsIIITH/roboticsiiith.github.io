@@ -112,14 +112,14 @@ The five-day program includes **theory and hands-on practical sessions** coverin
 <div style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
 
 <a href="#" style="text-decoration:none; text-align:center; width:160px;">
-  <img src="/images/events/Bhanu-Teja.jpeg"
+  <img src="/images/events/bbhanu.jpeg"
        alt="Bhanu Teja"
        style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
   <br><b>Bhanu Teja</b>
 </a>
 
 <a href="#" style="text-decoration:none; text-align:center; width:160px;">
-  <img src="/images/events/Girish-Varma.jpeg"
+  <img src="/images/events/Girish.webp"
        alt="Dr Girish Varma"
        style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
   <br><b>Dr Girish Varma</b>
