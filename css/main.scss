@@ -26,19 +26,24 @@
   }
 })();
 </script>
-
 <script>
 document.addEventListener('click', function (e) {
   const link = e.target.closest('.uasat-dropdown > a');
   if (!link) return;
 
-  // If click is on caret, let Bootstrap open dropdown
-  if (e.target.classList.contains('caret')) return;
+  // If the caret (or something inside it) was clicked → dropdown only
+  if (e.target.closest('.caret')) {
+    e.preventDefault();
+    return;
+  }
 
-  // Otherwise, follow the link
+  // Otherwise → allow normal navigation
+  e.preventDefault();
   window.location.href = link.getAttribute('href');
 });
 </script>
+
+
 
 
 /* ---------- Bootstrap import (keep if your build uses it) ---------- */
