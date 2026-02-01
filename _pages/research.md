@@ -190,7 +190,7 @@ As models like [SAM](https://ai.meta.com/sam2/) are capable of producing semanti
   <img src="https://segmast3r.github.io/static/images/segmast3r-poster.png"
        alt="SegMASt3R: Geometry Grounded Segment Matching Poster"
        style="width: 100%; max-width: 1000px; height: auto; border: 1px solid #ddd; border-radius: 8px;" />
-  <center>Instance maps for vision-language guided navigation</center>
+  <center>SegMASt3R: Geometry Grounded Segment Matching</center>
 </figure>
 
 
@@ -203,7 +203,7 @@ Humans excel at forming mental maps of their surroundings, equipping them to und
 <!-- <img src="https://drive.google.com/file/d/1eqnWPeJBYoEaVoYM4dndpFj4oksVFp6u/view" class="video__placeholder" /> -->
 <iframe src="https://drive.google.com/file/d/1fAjS6WG3Q-y-mYdfYQfrPReE8fe3Lhhb/preview" width="820" height="450" allowfullscreen></iframe>
 </div>
-<center>SegMASt3R: Geometry Grounded Segment Matching</center>
+<center>Instance maps for vision-language guided navigation</center>
 </div>
 
 
