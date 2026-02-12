@@ -1,3 +1,39 @@
+- title: "Towards Adaptive Autopilots for Fixed-wing Unmanned Aerial Vehicles"
+  authors: S. Baldi, S. Roy and K. Yang
+  venue: IEEE Conference on Decision and Control (CDC 2020), Jeju Island, South Korea
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Aerial Transportation of Unknown Payloads: Adaptive Path Tracking for Quadrotors"
+  authors: V. Shankaranarayanan, S. Roy and S. Baldi
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "The Problem of Reliable Design of Vector-Field Path Following in the Presence of Uncertain Course Dynamics"
+  authors: X. Wang, S. Roy, S. Fari and S. Baldi
+  venue: IFAC World Congress 2020, Berlin, Germany
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Robust Adaptation in Dynamically Switching Load Frequency Control"
+  authors: T. Tao, S. Roy, S. Yuan and S. Baldi
+  venue: IFAC World Congress 2020, Berlin, Germany
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "AutoLay: Benchmarking amodal layout estimation for autonomous driving"
   authors: Kaustubh Mani, N. Sai Shankar, Krishna Murthy Jatavallabhula and K. Madhava Krishna
   
