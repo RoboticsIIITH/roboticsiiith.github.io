@@ -74,7 +74,7 @@ permalink: /Events/
 **Focus: Computer Vision and Foundational Models for UAVs**
 
 <div style="text-align: center; width: 100%; margin: 20px auto;">
-  <img src="/images/MTP/Master-Trainer-Program-(MTP).png"
+  <img src="/images/MTP/MTP-26.jpeg"
        alt="Master Trainer Program (MTP)"
        style="width: 100%; max-width: 1000px; height: auto; max-height: 450px; object-fit: contain; border-radius: 8px;">
 </div>
