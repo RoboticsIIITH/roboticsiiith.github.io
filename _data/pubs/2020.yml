@@ -1,3 +1,57 @@
+- title: "Towards Structure-Independent Stabilization for Uncertain Underactuated Euler-Lagrange Systems"
+  authors: S. Roy and S. Baldi
+  venue: Automatica
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "On Adaptive Sliding Mode Control without A Priori Bounded Uncertainty"
+  authors: S. Roy, S. Baldi and L. M. Fridman
+  venue: Automatica
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "On Vanishing Gains in Robust Adaptation of Switched Systems: A New Leakage-Based Result for a Class of Euler-Lagrange Dynamics"
+  authors: S. Roy, E. B. Kosmatopoulos and S. Baldi
+  venue: Systems and Control Letters
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Introducing Switched Adaptive Control for Quadrotors for Vertical Operations"
+  authors: V. Shankaranarayanan and S. Roy
+  venue: Optimal Control Applications and Methods
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "The Issue of Transients in Leakage-Based Model Reference Adaptive Control of Switched Linear Systems"
+  authors: T. Tao, S. Roy and S. Baldi
+  venue: Nonlinear Analysis: Hybrid Systems
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Addressing Unmodelled Path-Following Dynamics via Adaptive Vector Field: A UAV Test Case"
+  authors: S. Fari, X. Wang, S. Roy and S. Baldi
+  venue: IEEE Transactions on Aerospace and Electronic Systems
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "Towards Adaptive Autopilots for Fixed-wing Unmanned Aerial Vehicles"
   authors: S. Baldi, S. Roy and K. Yang
   venue: IEEE Conference on Decision and Control (CDC 2020), Jeju Island, South Korea
