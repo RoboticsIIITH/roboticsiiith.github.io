@@ -1,3 +1,12 @@
+- title: "An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper With Adaptive Control"
+  authors: R. D. Yadav, B. Jones, S. Gupta, A. Sharma, J. Sun, J. Zhao and S. Roy
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
 - title: "SegMASt3R: Geometry Grounded Segment Matching"
   authors: Rohit Jayanti, Swayam Agrawal, Vansh Garg, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, K Madhava Krishna
   venue: Advances in Neural Information Processing Systems 38 (NeurIPS 2025), San Diego, 2nd-7th December, 2025
