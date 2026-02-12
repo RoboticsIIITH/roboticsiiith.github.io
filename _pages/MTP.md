@@ -32,7 +32,7 @@ permalink: /MTP/
 </div>
 
 
-- **Dates**: 03/03/2025 to 07/03/2025  
+- **Dates**: 24/02/2026 to 28/02/2026  
 - **Venue**: IIIT Hyderabad, Gachibowli, Hyderabad  
 - **[Register Now](https://forms.gle/M7RkcQGFCSLEKkwJ6)**  
 
