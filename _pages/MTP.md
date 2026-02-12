@@ -27,7 +27,7 @@ permalink: /MTP/
 </div> -->
 
 <div style="text-align: center; width: 100%; margin: 0 auto;">
-  <img src="/images/MTP/MTP 26.jpeg" alt="Master Trainer Program (MTP)" 
+  <img src="/images/MTP/MTP-26.jpeg" alt="Master Trainer Program (MTP)" 
        style="width: 100%; max-width: 1200px; height: auto; max-height: 500px; object-fit: contain;">
 </div>
 
