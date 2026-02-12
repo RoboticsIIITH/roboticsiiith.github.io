@@ -5,7 +5,7 @@
     url: #
     display: Project Page
   id: sroy
-  featured: 0
+  featured: 1
 
 - title: "Adaptive Synchronization of Uncertain Underactuated Euler-Lagrange Agents"
   authors: T. Tao, S. Roy, B. De Schutter and S. Baldi
@@ -14,7 +14,7 @@
     url: #
     display: Project Page
   id: sroy
-  featured: 0
+  featured: 1
 
 - title: "Distributed Adaptive Synchronization in Euler-Lagrange Networks with Uncertain Interconnections"
   authors: T. Tao, S. Roy, B. De Schutter and S. Baldi
