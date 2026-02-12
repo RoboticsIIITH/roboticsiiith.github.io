@@ -1,3 +1,39 @@
+- title: "Adaptive Single-Stage Control for Uncertain Nonholonomic Euler-Lagrange Systems"
+  authors: T. Tao, S. Roy and S. Baldi
+  venue: IEEE Conference on Decision and Control (CDC 2022), Cancun, Mexico
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "Introducing Scissor Mechanism based Novel Reconfigurable Quadrotor: Design, Modelling and Control"
+  authors: B. V. S. G. Suraj, V. Shankaranarayanan, R. D. Yadav and S. Roy
+  venue: IEEE International Conference on Robotics and Biomimetics (ROBIO 2022), China
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Artificial Time Delay Control for Quadrotors under State-dependent Unknown Dynamics"
+  authors: S. Dantu, R. D. Yadav, S. Roy, J. Lee and S. Baldi
+  venue: IEEE International Conference on Robotics and Biomimetics (ROBIO 2022), China
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "Robust Manoeuvring of Quadrotor under Full State Constraints"
+  authors: S. Ganguly, V. Shankaranarayanan, B. V. S. G. Suraj, R. D. Yadav and S. Roy
+  venue: Advances in Control and Optimization of Dynamical Systems (ACODS 2022), India
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
 - title: "An Adaptive Control Framework for Underactuated Switched Euler-Lagrange Systems"
   authors: S. Roy, S. Baldi and P. Ioannou
   venue: IEEE Transactions on Automatic Control
