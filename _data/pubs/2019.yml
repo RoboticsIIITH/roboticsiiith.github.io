@@ -1,3 +1,21 @@
+- title: "The Role of Uncertainty in Adaptive Control of Switched Euler-Lagrange Systems"
+  authors: S. Roy and S. Baldi
+  venue: IEEE Conference on Decision and Control (CDC 2019), Nice, France
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Observer-based Robust Control for Dynamic Positioning of Large-scale Heavy Lift Vessels"
+  authors: J. Ye, S. Roy, M. Godjevac and S. Baldi
+  venue: IFAC Symposium on Large Scale Complex Systems (LSS 2019), Delft, The Netherlands
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "Learning Adaptive Driving Behavior Using Recurrent Deterministic Policy Gradients"
   authors: Kaustubh Mani, Meha Kaushik, Nirvan Singhania and K. Madhava Krishna
 
