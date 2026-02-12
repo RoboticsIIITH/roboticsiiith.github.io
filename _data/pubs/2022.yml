@@ -1,3 +1,48 @@
+- title: "An Adaptive Control Framework for Underactuated Switched Euler-Lagrange Systems"
+  authors: S. Roy, S. Baldi and P. Ioannou
+  venue: IEEE Transactions on Automatic Control
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "An Underactuated Control System Design for Adaptive Autopilot of Fixed-Wing Drones"
+  authors: S. Baldi, S. Roy, K. Yang and D. Liu
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Vector Field Guidance Without a Priori Knowledge of Course Dynamics and Wind"
+  authors: X. Wang, S. Roy, S. Fari and S. Baldi
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "Robust Adaptive Control of Steer-by-Wire Systems under Unknown State-Dependent Uncertainties"
+  authors: H. Shukla, S. Roy and S. Gupta
+  venue: International Journal of Adaptive Control and Signal Processing
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "Robustifying Payload Carrying Operations for Quadrotors under Time-Varying State Constraints and Uncertainty"
+  authors: V. Shankaranarayanan, R. D. Yadav, R. K. Swyampakula, S. Ganguly and S. Roy
+  venue: IEEE Robotics and Automation Letters
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
 - title: "Multi-Modal Model Predictive Control Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving"
   authors: Vivek K. Adajania, Aditya Sharma, Anish Gupta, Houman Masnavi, K. Madhava Krishna and Arun K. Singh
   venue:  RAL & ICRA, 2022
