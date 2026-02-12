@@ -1,3 +1,39 @@
+- title: "Adaptive Control for a Payload Carrying Spacecraft with State Constraints"
+  authors: V. Shankaranarayanan, A. Banerjee, S. Satpute, S. Roy and G. Nikolakopoulos
+  venue: Control Engineering Practice
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "An Annular Event-Triggered Artificial Time-Delayed Control Based Guidance Approach"
+  authors: A. Banerjee, R. Sarkar, J. Mukherjee and S. Roy
+  venue: International Journal of Control
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Anti-swing Control for Clasping Operations in Quadrotors with Cable-suspended Payload"
+  authors: S. Dantu, R. D. Yadav, A. Rachakonda, S. Roy and S. Baldi
+  venue: IEEE Conference on Decision and Control (CDC 2023), Singapore
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Control of Euler-Lagrange Systems under Time-varying State Constraints without a Priori Bounded Uncertainty"
+  authors: V. Shankaranarayanan, S. Satpute, S. Roy and G. Nikolakopoulos
+  venue: 22nd IFAC World Congress, Yokohama, Japan
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "Disentangling Planning and Control for Non-prehensile Tabletop Manipulation"
   authors:  Vishal Reddy Mandadi, Kallol Saha, Dipanwita Guhathakurta, M. Nomaan Qureshi, Aditya Agarwal, Bipasha Sen, Dipanjan Das, Brojeshwar Bhowmick, Arun Singh, and Madhava Krishna
   venue: CASE 2023
