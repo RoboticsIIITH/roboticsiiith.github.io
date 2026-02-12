@@ -1,3 +1,75 @@
+- title: "Overcoming the Underestimation and Overestimation Problems in Adaptive Sliding Mode Control"
+  authors: S. Roy, S. Basu Roy, J. Lee and S. Baldi
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "On Reduced-Complexity Robust Adaptive Control of Switched Euler-Lagrange Systems"
+  authors: S. Roy and S. Baldi
+  venue: Nonlinear Analysis: Hybrid Systems
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Analysis and Design of a Wide-Area Damping Controller for Inter-Area Oscillation With Artificially Induced Time Delay"
+  authors: S. Roy, A. Patel and I. N. Kar
+  venue: IEEE Transactions on Smart Grid
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "A Simultaneous Adaptation Law for a Class of Nonlinearly-Parametrized Switched Systems"
+  authors: S. Roy and S. Baldi
+  venue: IEEE Control Systems Letters
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "A New Continuous-Time Stability Perspective of Time-Delay Control: Introducing a State-Dependent Upper Bound Structure"
+  authors: S. Roy, J. Lee and S. Baldi
+  venue: IEEE Control Systems Letters
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive-Robust Control of a Class of Euler-Lagrange Systems with Parametric Variations Using Artificially Delayed Input and Position Feedback"
+  authors: S. Roy, I. N. Kar, J. Lee, N. Tsagarakis and D. G. Caldwell
+  venue: IEEE Transactions on Control Systems Technology
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Discrete-Time Higher Order Sliding Mode"
+  authors: N. K. Sharma, S. Roy, S. Janardhanan and I. N. Kar
+  venue: IEEE Transactions on Circuits and Systems II: Express Briefs
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "A Double-Layered Artificial Delay-Based Approach for Maneuvering Control of Planar Snake Robots"
+  authors: J. Mukherjee, S. Roy, I. N. Kar and S. Mukherjee
+  venue: ASME Journal of Dynamic Systems, Measurement, and Control
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "The Role of Uncertainty in Adaptive Control of Switched Euler-Lagrange Systems"
   authors: S. Roy and S. Baldi
   venue: IEEE Conference on Decision and Control (CDC 2019), Nice, France
