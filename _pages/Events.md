@@ -43,6 +43,12 @@ permalink: /Events/
   color: #333;
   font-size: 14px;
 }
+.nav-payment {
+  background-color: #2e7d32;
+}
+.nav-payment:hover {
+  background-color: #1b5e20;
+}
 
 /* Schedule Table */
 .schedule-table {
@@ -66,6 +72,7 @@ permalink: /Events/
   <a href="#schedule" style="margin: 0 15px; text-decoration: none; color: #007bff;">Schedule</a>
   <a href="#speakers" style="margin: 0 15px; text-decoration: none; color: #007bff;">Speakers</a>
   <a href="https://forms.gle/synbJ4AvGEogHQa39" class="nav-cta">Apply Now</a>
+  <a href="https://payments.iiit.ac.in/mtp2026/registration.php" class="nav-cta nav-payment">Registration Pay</a>
   <a href="https://robotics.iiit.ac.in/" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a>
 </nav>
 
