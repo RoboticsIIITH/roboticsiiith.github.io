@@ -1,3 +1,48 @@
+- title: "Artificial-Delay Adaptive Control for Under-actuated Euler-Lagrange Robotics"
+  authors: S. Roy, S. Baldi, P. Li and V. Shankaranarayanan
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "An Output Feedback Based Robust Saturated Controller Design for Pavement Sweeping Self-Reconfigurable Robot"
+  authors: M. M. Rayguru, R. E. Mohan, R. Parween, L. Yi, A. N. Le and S. Roy
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Wide-Area Damping Control Resilience towards Cyber-Attacks: A Dynamic Loop Approach"
+  authors: A. Patel, S. Roy and S. Baldi
+  venue: IEEE Transactions on Smart Grid
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "A Switching Control Perspective on the Offshore Construction Scenario of Heavy-Lift Vessels"
+  authors: J. Ye, S. Roy, M. Godjevac and S. Baldi
+  venue: IEEE Transactions on Control Systems Technology
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "A New Adaptive-Robust Design for Time Delay Control under State-Dependent Stability Condition"
+  authors: S. Roy, J. Lee and S. Baldi
+  venue: IEEE Transactions on Control Systems Technology
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "Efficient Manoeuvring of Quadrotor under Constrained Space and Predefined Accuracy"
   authors: S. Ganguly, V. Shankaranarayanan, B. V. S. G. Suraj, R. D. Yadav and S. Roy
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Czech Republic
