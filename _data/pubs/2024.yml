@@ -1,3 +1,48 @@
+- title: "Adaptive Tracking and Anti-Swing Control of Quadrotors Carrying Suspended Payload under State-Dependent Uncertainty"
+  authors: S. Dantu, R. D. Yadav, A. Rachakonda, S. Roy and S. Baldi
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 0
+
+- title: "Adaptive Synchronization of Uncertain Underactuated Euler-Lagrange Agents"
+  authors: T. Tao, S. Roy, B. De Schutter and S. Baldi
+  venue: IEEE Transactions on Automatic Control
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 0
+
+- title: "Distributed Adaptive Synchronization in Euler-Lagrange Networks with Uncertain Interconnections"
+  authors: T. Tao, S. Roy, B. De Schutter and S. Baldi
+  venue: IEEE Transactions on Automatic Control
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Introducing Switched Adaptive Control for Self-Reconfigurable Mobile Cleaning Robots"
+  authors: M. M. Rayguru, S. Roy, L. Yi, R. E. Mohan and S. Baldi
+  venue: IEEE Transactions on Automation Science and Engineering
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Control of Quadrotor under Actuator Loss and Unknown State-dependent Dynamics"
+  authors: S. Gupta, A. Sharma, A. Mulgundkar, R. D. Yadav and S. Roy
+  venue: International Conference on Automation Science and Engineering (CASE 2024), Bari, Italy
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "An annular event-triggered artificial time-delayed control-based guidance approach"
   authors:  Arunava Banerjee, Rajasree Sarkar, Joyjit Mukherjee, Spandan Roy
   venue: Taylor & Francis (2024) Journal
