@@ -54,7 +54,7 @@
 
 - title: "Adaptive Discrete-Time Higher Order Sliding Mode"
   authors: N. K. Sharma, S. Roy, S. Janardhanan and I. N. Kar
-  venue: IEEE Transactions on Circuits and Systems II: Express Briefs
+  venue: IEEE Transactions on Circuits and Systems II, Express Briefs
   link:
     url: #
     display: Project Page
@@ -113,7 +113,7 @@
     url: /publications/2019/Jyotish_PIVO-Probabilistic-Inverse-Velocity
     display: Project Page
 
-- title: "Probabilistic obstacle avoidance and object following: An overlap of Gaussians approach"
+- title: "Probabilistic obstacle avoidance and object following; An overlap of Gaussians approach"
   authors: Dhaivat Bhatt*, Akash Garg*, Bharath Gopalakrishnan, K. Madhava Krishna
 
   venue: 28th IEEE International Conference on Robot and Human Interactive Communication (RoMAN), 2019
@@ -164,7 +164,7 @@
     url: /publications/2019/Srikanth_INFER-INtermediate-Representations
     display: Project Page
 
-- title: "Talk to the Vehicle: Language Conditioned Autonomous Navigation of Self Driving Cars"
+- title: "Talk to the Vehicle; Language Conditioned Autonomous Navigation of Self Driving Cars"
   authors: Sriram N. N., Tirth Maniar, Jayaganesh Kalyanasundaram, Vineet Gandhi, 
            Brojeshwar Bhowmick and K. Madhava Krishna
 
@@ -181,7 +181,7 @@
     url: /publications/2019/Pandya_Instance-Invariant-Visual
     display: Project Page
 
-- title: "Motion Planning Framework for Autonomous Vehicles: A Time Scaled Collision Cone 
+- title: "Motion Planning Framework for Autonomous Vehicles; A Time Scaled Collision Cone 
           Interleaved Model Predictive Control Approach"
   authors: Raghu Ram Theerthala, A. V. S. Sai Bhargav Kumar, Mithun Babu, Phaniteja S. and K Madhava Krishna
 
