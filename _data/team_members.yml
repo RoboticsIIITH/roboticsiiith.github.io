@@ -45,6 +45,18 @@
   education2: <a href="https://sites.google.com/view/antony-thomas"> Personal Webpage </a>
   education3: Email - antony.thomas (at) iiit.ac.in
 
+- name: Sourav Garg
+  photo: sourav-garg.jpg
+  info: Professor, started 2026
+  #email: sgarg (at) iiit.ac.in
+  url: /faculty_sgarg
+  id: sgarg
+  #number_educ:
+  #education1: 
+  #education2: 
+  #education3: 
+  #education4: 
+
 # name: Nagamanikandan Govindan
 # photo: mani.jpeg
 # info: Assistant Professor, started 2020
