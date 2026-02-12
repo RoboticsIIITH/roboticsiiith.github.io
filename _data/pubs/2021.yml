@@ -1,3 +1,48 @@
+- title: "Efficient Manoeuvring of Quadrotor under Constrained Space and Predefined Accuracy"
+  authors: S. Ganguly, V. Shankaranarayanan, B. V. S. G. Suraj, R. D. Yadav and S. Roy
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Czech Republic
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Modeling and Control of PANTHERA Self-Reconfigurable Pavement Sweeping Robot under Actuator Constraints"
+  authors: M. M. Rayguru, M. R. Elara, A. A. Hayat, B. Ramalingam and S. Roy
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Czech Republic
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Synchronization of Uncertain Complex Networks under State-dependent a priori Interconnections"
+  authors: T. Tao, S. Roy and S. Baldi
+  venue: IEEE Conference on Decision and Control (CDC 2021), Texas, USA
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Sliding Mode Control for Autonomous Vehicle Platoon under Unknown Friction Forces"
+  authors: R. D. Yadav, V. Shankaranarayanan and S. Roy
+  venue: IEEE International Conference on Advanced Robotics (ICAR 2021), Ljubljana, Slovenia
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Adaptive Artificial Time Delay Control for Bipedal Walking with Robustification to State-dependent Constraint Forces"
+  authors: A. Bhaskar, S. Dantu, S. Roy, J. Lee and S. Baldi
+  venue: IEEE International Conference on Advanced Robotics (ICAR 2021), Ljubljana, Slovenia
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "Monocular Multi-Layer Layout Estimation for Warehouse Racks"
   authors: Meher Shashwat Nigam, Avinash Prabhu, Anurag Sahu, Tanvi Karandikar, Puru Gupta,N. Sai Shankar,Ravi Kiran Sarvadevabhatla and K. Madhava Krishna
   
