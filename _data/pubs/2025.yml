@@ -1,3 +1,12 @@
+- title: "Three Dimensional Waypoint Navigation for Fixed-wing Micro Aerial Vehicles using Integrated Guidance and Control Framework"
+  authors: Harikumar Kandath, Jinraj V Pushpangathan, M Seetharama Bhat
+  venue: 2025 International Conference on Emerging Technology in Autonomous Aerial Vehicles (ETAAV)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11213103
+    url: /publications/2025/Harikumar_Three
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Active Disturbance Rejection based approach for Fault Tolerant Control of a Quadcopter"
   authors: Prachetas P, Dinesh Viswas, Harikumar Kandath, Pooja Agrawal
   venue: 2025 International Conference on Emerging Technology in Autonomous Aerial Vehicles (ETAAV)
