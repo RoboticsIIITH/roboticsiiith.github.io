@@ -446,6 +446,25 @@ Our research focus is on Multi-Robotic systems, Mobile Robotics, Robot Vision, R
 
 <p> &nbsp; </p>
 
+<style>
+:root { --nav-height: 64px; }
+nav { position: sticky; top: 0; z-index: 1000; }
+.slider, .hero { margin-top: var(--nav-height); }
+[id] { scroll-margin-top: calc(var(--nav-height) + 8px); }
+</style>
+
+<script>
+(function(){
+  function update() {
+    const nav = document.querySelector('nav');
+    if (!nav) return;
+    const h = Math.ceil(nav.getBoundingClientRect().height);
+    document.documentElement.style.setProperty('--nav-height', h + 'px');
+  }
+  window.addEventListener('load', update);
+  window.addEventListener('resize', update);
+})();
+</script>
 
 <!-- ## Patents -->
 <!-- <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)

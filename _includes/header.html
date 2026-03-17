@@ -1,72 +1,3 @@
-<!-- <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">RRC @ IIIT Hyderabad</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/funding">Funding</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/eufunding">EU_Funding</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/uasat">UASAT</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/events">Events</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/pictures">(Pics)</a></li>
-		
-	  </ul>
-	</div>
-  </div>
-</div> -->
-
-
-<!-- <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-	<div class="container-fluid">
-	  <div class="navbar-header">
-		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		  <span class="sr-only">Toggle navigation</span>
-		  <span class="icon-bar"></span>
-		  <span class="icon-bar"></span>
-		  <span class="icon-bar"></span>
-		</button>
-  
-		<a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">RRC @ IIIT Hyderabad</a>
-	  </div>
-  
-	  <div class="collapse navbar-collapse" id="navbar-collapse-1">
-		<ul class="nav navbar-nav navbar-right">
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		  
-		  <li class="dropdown">
-			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-			  Research <span class="caret"></span>
-			</a>
-			<ul class="dropdown-menu">
-			  <li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-			  <li><a href="{{ site.url }}{{ site.baseurl }}/project_demos">Research Demos</a></li>
-			</ul>
-		  </li>
-		  
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/funding">Funding</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/eufunding">EU_Funding</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/uasat">UASAT</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/events">Events</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/pictures">Gallery</a></li>
-		</ul>
-	  </div>
-	</div>
-</div>
-   -->
 
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -97,27 +28,72 @@
 		  </li>
 		  <li><a href="{{ site.url }}{{ site.baseurl }}/funding">Funding</a></li>
 		  <li><a href="{{ site.url }}{{ site.baseurl }}/eufunding">EU_Funding</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/uasat">UASAT</a></li>
-		  <!-- Events Dropdown -->
-		  <li class="dropdown">
-			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-			  Past_Events <span class="caret"></span>
-			</a>
-			<ul class="dropdown-menu">
-			  <li><a href="{{ site.url }}{{ site.baseurl }}/events/workshops/Second_Workshop_on_Systems_and_Intelligence_for_UAV">Workshops</a></li>
-			  <li class="dropdown-submenu">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Master Trainer Program</a>
-				<ul class="dropdown-menu">
-				  <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/1">1st MTP</a></li>
-				  <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/2">2nd MTP</a></li>
-				  <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/3">3rd MTP</a></li>
-				  <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/4">4th MTP</a></li>
-				</ul>
-			  </li>
-			</ul>
-		  </li>
+		  <!--li><a href="{{ site.url }}{{ site.baseurl }}/uasat">UASAT</a></li-->
+<!-- UASAT Main Dropdown -->
+<!-- UASAT page link -->
+<li>
+  <a href="{{ site.url }}{{ site.baseurl }}/uasat">
+    UASAT
+  </a>
+</li>
+
+<!-- UASAT dropdown -->
+<li class="dropdown">
+  <a href="#"
+     class="dropdown-toggle"
+     data-toggle="dropdown"
+     role="button"
+     aria-haspopup="true"
+     aria-expanded="false">
+    <span class="caret"></span>
+  </a>
+
+  <ul class="dropdown-menu">
+
+    <li class="dropdown-submenu">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        Past Events
+      </a>
+
+      <ul class="dropdown-menu">
+
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            Master Trainer Program
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/1">1st MTP</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/2">2nd MTP</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/3">3rd MTP</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/4">4th MTP</a></li>
+			<li><a href="{{ site.url }}{{ site.baseurl }}/events/mtp/5">5th MTP</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            Workshops
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="{{ site.url }}{{ site.baseurl }}/events/workshops/National_Workshop_Systems_and_Intelligence_for_UAV_2023">National Workshop on Systems and Intelligence for UAV</a>
+            </li>
+            <li>
+              <a href="{{ site.url }}{{ site.baseurl }}/events/workshops/Second_Workshop_on_Systems_and_Intelligence_for_UAV">Second Workshop on Systems and Intelligence for UAV</a>
+            </li>
+          </ul>
+        </li>
+
+      </ul>
+    </li>
+
+  </ul>
+</li>
+
+
+
 		  <li><a href="{{ site.url }}{{ site.baseurl }}/Events">Events</a></li>
-		  <li><a href="{{ site.url }}{{ site.baseurl }}/gallery">(Gallery)</a></li>
+		  <li><a href="{{ site.url }}{{ site.baseurl }}/gallery">Gallery</a></li>
 		</ul>
 	  </div>
 	</div>
@@ -136,6 +112,8 @@
   .dropdown-submenu:hover > .dropdown-menu {
 	  display: block;
   }
+
+
   .dropdown-submenu > a:after {
 	  display: block;
 	  content: " ";
@@ -188,6 +166,14 @@
 .navbar .container-fluid {
   padding-left: 0;
   padding-right: 0;
+}
+/* Visually group UASAT + caret */
+.navbar-nav > li + li.dropdown > a {
+  padding-left: 0;
+}
+
+.navbar-nav > li > a + .caret {
+  margin-left: -8px;
 }
 
 /* === Dropdowns === */

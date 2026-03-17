@@ -1,3 +1,93 @@
+- title: "Towards Structure-Independent Stabilization for Uncertain Underactuated Euler-Lagrange Systems"
+  authors: S. Roy and S. Baldi
+  venue: Automatica
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "On Adaptive Sliding Mode Control without A Priori Bounded Uncertainty"
+  authors: S. Roy, S. Baldi and L. M. Fridman
+  venue: Automatica
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "On Vanishing Gains in Robust Adaptation of Switched Systems: A New Leakage-Based Result for a Class of Euler-Lagrange Dynamics"
+  authors: S. Roy, E. B. Kosmatopoulos and S. Baldi
+  venue: Systems and Control Letters
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Introducing Switched Adaptive Control for Quadrotors for Vertical Operations"
+  authors: V. Shankaranarayanan and S. Roy
+  venue: Optimal Control Applications and Methods
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "The Issue of Transients in Leakage-Based Model Reference Adaptive Control of Switched Linear Systems"
+  authors: T. Tao, S. Roy and S. Baldi
+  venue: Nonlinear Analysis; Hybrid Systems
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Addressing Unmodelled Path-Following Dynamics via Adaptive Vector Field: A UAV Test Case"
+  authors: S. Fari, X. Wang, S. Roy and S. Baldi
+  venue: IEEE Transactions on Aerospace and Electronic Systems
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Towards Adaptive Autopilots for Fixed-wing Unmanned Aerial Vehicles"
+  authors: S. Baldi, S. Roy and K. Yang
+  venue: IEEE Conference on Decision and Control (CDC 2020), Jeju Island, South Korea
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Aerial Transportation of Unknown Payloads; Adaptive Path Tracking for Quadrotors"
+  authors: V. Shankaranarayanan, S. Roy and S. Baldi
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), Las Vegas, USA
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "The Problem of Reliable Design of Vector-Field Path Following in the Presence of Uncertain Course Dynamics"
+  authors: X. Wang, S. Roy, S. Fari and S. Baldi
+  venue: IFAC World Congress 2020, Berlin, Germany
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Robust Adaptation in Dynamically Switching Load Frequency Control"
+  authors: T. Tao, S. Roy, S. Yuan and S. Baldi
+  venue: IFAC World Congress 2020, Berlin, Germany
+  link:
+    url: #
+    display: Project Page
+  id: sroy
+  featured: 1
+
 - title: "AutoLay: Benchmarking amodal layout estimation for autonomous driving"
   authors: Kaustubh Mani, N. Sai Shankar, Krishna Murthy Jatavallabhula and K. Madhava Krishna
   
@@ -14,7 +104,7 @@
     url: /publications/2020/Simone_Towards-adaptive-autopilots
     display: Project Page
 
-- title: "Reconstruct, Rasterize and Backprop: Dense shape and pose estimation from a single image"
+- title: "Reconstruct, Rasterize and Backprop; Dense shape and pose estimation from a single image"
   authors: Aniket Pokale*, Aditya Aggarwal, Krishna Murthy Jatavallabhula and K. Madhava Krishna
   
   venue:  Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020
@@ -22,7 +112,7 @@
     url: /publications/2020/Aniket_Reconstruct
     display: Project Page
 
-- title: "Cosine meets Softmax: A tough-to-beat baseline for visual grounding"
+- title: "Cosine meets Softmax; A tough-to-beat baseline for visual grounding"
   authors: Nivedita Rufus, Unni Krishnan R Nair, K. Madhava Krishna, and Vineet Gandhi
 
   venue:  European Conference on Computer Vision (ECCV) Workshops (2), 2020
@@ -38,7 +128,7 @@
     url: /publications/2020/Avijit_Dynamic-Target
     display: Project Page
 
-- title: "DeepMPCVS: Deep Model Predictive Control for Visual Servoing"
+- title: "DeepMPCVS; Deep Model Predictive Control for Visual Servoing"
   authors: Pushkal Katara, YVS Harish, Harit Pandya, Abhinav Gupta, AadilMehdi Sanchawala, Gourav Kumar, 
            Brojeshwar Bhowmick and K. Madhava Krishna
 
@@ -55,7 +145,7 @@
     url: /publications/2020/Mylavarapu_Understanding-Dynamic-Scenes
     display: Project Page
 
-- title: "Aerial Transportation of Unknown Payloads: Adaptive Path Tracking for Quadrotors"
+- title: "Aerial Transportation of Unknown Payloads; Adaptive Path Tracking for Quadrotors"
   authors: Viswa N. Sankaranarayanan, Spandan Roy, Simone Baldi
 
   venue: IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
@@ -112,7 +202,7 @@
     url: /publications/2020/Suryavanshi_Omnidirectional
     display: Project Page
 
-- title: "DFVS: Deep Flow Guided Scene Agnostic Image Based Visual Servoing"
+- title: "DFVS; Deep Flow Guided Scene Agnostic Image Based Visual Servoing"
   authors: Y V S Harish, Harit Pandya, Ayush Gaud, Shreya Terupally, Sai Shankar and K. Madhava Krishna
 
   venue: IEEE International Conference on Robotics and Automation (ICRA), 2020
@@ -146,7 +236,7 @@
     url: /publications/2020/Sankaranarayanan_Introducing-Switched
     display: Project Page
 
-- title: "MonoLayout: Amodal scene layout from a single image"
+- title: "MonoLayout; Amodal scene layout from a single image"
   authors: Kaustubh Mani, Swapnil Daga, Shubhika Garg, N. Sai Shankar, J. Krishna Murthy and K. Madhava Krishna
 
   venue: Winter Conference on Applications of Computer Vision, 2020

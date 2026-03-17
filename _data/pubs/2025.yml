@@ -1,8 +1,27 @@
+
 - title: "Three Dimensional Waypoint Navigation for Fixed-wing Micro Aerial Vehicles using Integrated Guidance and Control Framework"
   authors: Harikumar Kandath, Jinraj V Pushpangathan, M Seetharama Bhat
   venue: 2025 International Conference on Emerging Technology in Autonomous Aerial Vehicles (ETAAV)
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11213103
     url: /publications/2025/Harikumar_Three
+    display: Project Page
+  id: hkandath
+  featured: 1
+
+- title: "An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper With Adaptive Control"
+  authors: R. D. Yadav, B. Jones, S. Gupta, A. Sharma, J. Sun, J. Zhao and S. Roy
+  venue: IEEE/ASME Transactions on Mechatronics
+  link:
+    url: #
+    display: Paper
+  id: sroy
+  featured: 1
+
+- title: "SegMASt3R: Geometry Grounded Segment Matching"
+  authors: Rohit Jayanti, Swayam Agrawal, Vansh Garg, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, K Madhava Krishna
+  venue: Advances in Neural Information Processing Systems 38 (NeurIPS 2025), San Diego, 2nd-7th December, 2025
+  link: #https://segmast3r.github.io/
+    url: /publications/2025/Rohit_SegMASt3R
     display: Project Page
   id: mkrishna
   featured: 1
@@ -12,15 +31,6 @@
   venue: 2025 International Conference on Emerging Technology in Autonomous Aerial Vehicles (ETAAV)
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11213100
     url: /publications/2025/Prachetas_Active
-    display: Project Page
-  id: mkrishna
-  featured: 1
-
-- title: "Locally optimal solutions to constraint displacement problems via path-obstacle overlaps"
-  authors: Antony Thomas, Fulvio Mastrogiovanni, Marco Baglietto
-  venue: Robotics and Autonomous Systems Journal
-  link: # https://www.sciencedirect.com/science/article/pii/S0921889025003483
-    url: /publications/2025/Antony_Locally
     display: Project Page
   id: mkrishna
   featured: 1
@@ -58,7 +68,16 @@
   link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11098573
     url: /publications/2025/Rishabh_An
     display: Project Page
-  id: mkrishna
+  id: sroy
+  featured: 1
+
+- title: "Modular Adaptive Aerial Manipulation Under Unknown Dynamic Coupling Forces"
+  authors: Rishabh Dev Yadav, Swati Dantu, Wei Pan, Sihao Sun, Spandan Roy, Simone Baldi
+  venue:  IEEE/ASME TRANSACTIONS ON MECHATRONICS
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10701509
+    url: /publications/2024/Rishabh_Modular
+    display: Project Page
+  id: sroy
   featured: 1
 
 - title: "ObjectReact: Learning Object-Relative Control for Visual Navigation"

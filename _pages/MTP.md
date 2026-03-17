@@ -27,12 +27,12 @@ permalink: /MTP/
 </div> -->
 
 <div style="text-align: center; width: 100%; margin: 0 auto;">
-  <img src="/images/MTP/Master-Trainer-Program-(MTP).png" alt="Master Trainer Program (MTP)" 
+  <img src="/images/MTP/MTP-26.jpeg" alt="Master Trainer Program (MTP)" 
        style="width: 100%; max-width: 1200px; height: auto; max-height: 500px; object-fit: contain;">
 </div>
 
 
-- **Dates**: 03/03/2025 to 07/03/2025  
+- **Dates**: 24/02/2026 to 28/02/2026  
 - **Venue**: IIIT Hyderabad, Gachibowli, Hyderabad  
 - **[Register Now](https://forms.gle/M7RkcQGFCSLEKkwJ6)**  
 
