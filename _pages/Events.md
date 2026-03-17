@@ -3,7 +3,7 @@ title: "Workshop on Systems and Intelligence for UAVs"
 layout: textlay
 excerpt: "Planning and Control of UAV Systems (Classical & Learning-Based Approaches)"
 sitemap: false
-permalink: /Events/UAV-Planning-Control-Workshop/
+permalink: /Events/
 ---
 
 <style>
@@ -68,11 +68,6 @@ permalink: /Events/UAV-Planning-Control-Workshop/
 # Workshop on Systems and Intelligence for UAVs  
 **Focus: Planning and Control of UAV Systems (Classical & Learning-Based Approaches)**
 
-<div style="text-align: center; width: 100%; margin: 20px auto;">
-  <img src="/images/events/uav-workshop-banner.jpg"
-       alt="UAV Workshop"
-       style="width: 100%; max-width: 1000px; height: auto; max-height: 450px; object-fit: contain; border-radius: 8px;">
-</div>
 
 - **Dates**: 25th & 26th March 2026  
 - **Venue**: KRB Auditorium, IIIT Hyderabad Campus  
