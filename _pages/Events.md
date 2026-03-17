@@ -1,13 +1,12 @@
 ---
-title: "RRC - Sixth Master Trainer Program"
+title: "Workshop on Systems and Intelligence for UAVs"
 layout: textlay
-excerpt: "RRC -- Sixth Master Trainer Program"
+excerpt: "Planning and Control of UAV Systems (Classical & Learning-Based Approaches)"
 sitemap: false
-permalink: /Events/
+permalink: /Events/UAV-Planning-Control-Workshop/
 ---
 
 <style>
-/* Navbar CTA */
 .nav-cta {
   background-color: #ff6d00;
   color: white !important;
@@ -24,7 +23,6 @@ permalink: /Events/
   text-decoration: none;
 }
 
-/* Speaker Cards */
 .speaker-card {
   text-decoration: none;
   text-align: center;
@@ -43,14 +41,6 @@ permalink: /Events/
   color: #333;
   font-size: 14px;
 }
-.nav-payment {
-  background-color: #2e7d32;
-}
-.nav-payment:hover {
-  background-color: #1b5e20;
-}
-
-/* Schedule Table */
 .schedule-table {
   width: 100%;
   border-collapse: collapse;
@@ -67,60 +57,55 @@ permalink: /Events/
 </style>
 
 <nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc;">
-  <a href="#about-the-program" style="margin: 0 15px; text-decoration: none; color: #007bff;">About</a>
-  <a href="#program-topics" style="margin: 0 15px; text-decoration: none; color: #007bff;">Topics</a>
+  <a href="#about" style="margin: 0 15px; text-decoration: none; color: #007bff;">About</a>
+  <a href="#topics" style="margin: 0 15px; text-decoration: none; color: #007bff;">Topics</a>
   <a href="#schedule" style="margin: 0 15px; text-decoration: none; color: #007bff;">Schedule</a>
   <a href="#speakers" style="margin: 0 15px; text-decoration: none; color: #007bff;">Speakers</a>
-  <a href="https://forms.gle/synbJ4AvGEogHQa39" class="nav-cta">Apply Now</a>
-  <a href="https://payments.iiit.ac.in/mtp2026/registration.php" class="nav-cta nav-payment">Registration Pay</a>
+  <a href="https://forms.gle/yjgTGm6dqdzPCoPw6" class="nav-cta">Apply Now</a>
   <a href="https://robotics.iiit.ac.in/" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a>
 </nav>
 
-# Sixth Master Trainer Program  
-**Technology Specific Work Theme: Allied UAS Technologies**  
-**Focus: Computer Vision and Foundational Models for UAVs**
+# Workshop on Systems and Intelligence for UAVs  
+**Focus: Planning and Control of UAV Systems (Classical & Learning-Based Approaches)**
 
 <div style="text-align: center; width: 100%; margin: 20px auto;">
-  <img src="/images/MTP/MTP-26.jpeg"
-       alt="Master Trainer Program (MTP)"
+  <img src="/images/events/uav-workshop-banner.jpg"
+       alt="UAV Workshop"
        style="width: 100%; max-width: 1000px; height: auto; max-height: 450px; object-fit: contain; border-radius: 8px;">
 </div>
 
-- **Dates**: 24th – 28th February 2026  
-- **Venue**: 5th Floor, Meeting Room 513, Himalaya Block, IIITH Campus  
-- **[Apply Now](https://forms.gle/synbJ4AvGEogHQa39)**  
+- **Dates**: 25th & 26th March 2026  
+- **Venue**: KRB Auditorium, IIIT Hyderabad Campus  
+- **Mode**: Hybrid  
+- **Registration Fees**:  
+  - Students: ₹1000  
+  - Non-Students: ₹2000  
+  - Online Participants: Free  
+
+- **[Apply Now](https://forms.gle/yjgTGm6dqdzPCoPw6)**  
 
 ---
 
-### <a id="about-the-program"></a>About the Program
+### <a id="about"></a>About the Workshop
 
-IIIT Hyderabad is identified as one of the Resource Centers (RC) for the MeitY approved project entitled  
-*"Capacity building for human resource development in Unmanned Aircraft System (Drone and related Technology)"*.
+This workshop is organized under the **MeitY-funded consortium project**:
 
-As part of this initiative, the **Robotics Research Center (RRC), IIIT Hyderabad** is organizing the  
-**Sixth Master Trainer Program (MTP)** from **24th to 28th February 2026**.
+*"Capacity Building for Human Resource Development in UAS (Drone-related Technologies)"*
 
-The five-day program includes **theory and hands-on practical sessions** on:
+The two-day workshop focuses on **modern planning and control techniques for UAV systems**, covering both **classical methods and learning-based approaches**.
 
-- Vision foundational models  
-- CNNs, Generative Models, Diffusion Models  
-- Transformers, LLMs, Vision–Language–Action models  
-- Model compression and deployment  
-- ROS and OpenCV  
-- MAVLink and vision integration with UAVs  
+Participants will gain exposure to **state-of-the-art research and practical insights** in UAV intelligence, autonomy, and safety-critical deployment.
 
 ---
 
-### <a id="program-topics"></a>Program Topics
+### <a id="topics"></a>Workshop Topics
 
-#### Computer Vision & Foundation Models
-CNNs, segmentation, diffusion models, and large vision models
-
-#### Generative & Transformer Models
-VAEs, GANs, diffusion, transformers, LLMs, and VLA models
-
-#### Deployment & Systems
-Model compression, deployment, ROS, MAVLink, UAV integration
+- Geofencing control of multi-agent systems in safety-critical missions  
+- AI-based perception and planning  
+- Discrete and sampling-based motion planning  
+- Adaptive control in aerial manipulation  
+- Visual topological navigation  
+- Reinforcement learning-based planning  
 
 ---
 
@@ -132,60 +117,54 @@ Model compression, deployment, ROS, MAVLink, UAV integration
 </tr>
 
 <tr>
-<td>24/02/2026 (Tue)</td>
-<td>Intro to CNNs & Vision Tasks<br><b>Dr Girish Varma</b></td>
-<td>Foundation Models: SAM & Segmentation<br><b>Dr Girish Varma</b></td>
-<td>Lab: CNNs & Vision Tasks<br><b>Dr Girish Varma</b></td>
-<td>Flight Control Hardware<br><b>Bhanu Teja</b></td>
+<td>25/03/2026 (Day 1)</td>
+<td>Geofencing Control in Multi-Agent Systems<br><b>Dr. Spandan Roy</b></td>
+<td>AI-Based Perception and Planning<br><b>Dr. Sourav Garg</b></td>
+<td>Discrete Motion Planning<br><b>Dr. Antony Thomas</b></td>
+<td>Sampling-Based Planning Methods<br><b>Dr. Antony Thomas</b></td>
 </tr>
 
 <tr>
-<td>25/02/2026 (Wed)</td>
-<td>Generative Models & Diffusion<br><b>Dr Girish Varma</b></td>
-<td>Transformers & VLA Models<br><b>Dr Girish Varma</b></td>
-<td>Lab: Detection & Segmentation<br><b>Dr Girish Varma</b></td>
-<td>Flight Control Hardware<br><b>Bhanu Teja</b></td>
-</tr>
-
-<tr>
-<td>26/02/2026 (Thu)</td>
-<td>Lab: Generative Models<br><b>Dr Girish Varma</b></td>
-<td>Lab: Transformers & LLMs<br><b>Dr Girish Varma</b></td>
-<td>Model Compression & Deployment<br><b>Dr Girish Varma</b></td>
-<td>Lab: Deployment<br><b>Dr Girish Varma</b></td>
-</tr>
-
-<tr>
-<td>27/02/2026 (Fri)</td>
-<td>Hardware for Vision<br><b>Bhanu Teja</b></td>
-<td>Companion Computers for UAVs<br><b>Bhanu Teja</b></td>
-<td>MAVLink Communication<br><b>Bhanu Teja</b></td>
-<td>Introduction to ROS<br><b>Bhanu Teja</b></td>
-</tr>
-
-<tr>
-<td>28/02/2026 (Sat)</td>
-<td>Computer Vision Tutorial<br><b>Bhanu Teja</b></td>
-<td>Advanced Computer Vision<br><b>Bhanu Teja</b></td>
-<td>Flight Experiments<br><b>Bhanu Teja</b></td>
-<td>Flight Experiments<br><b>Bhanu Teja</b></td>
+<td>26/03/2026 (Day 2)</td>
+<td>Adaptive Control in Aerial Manipulation<br><b>Prof. K. Madhava Krishna</b></td>
+<td>Visual Topological Navigation<br><b>Dr. Harikumar Kandath</b></td>
+<td>Reinforcement Learning for Planning<br><b>Dr. Anoop Jain</b></td>
+<td>Open Discussion / Q&A + Closing Session</td>
 </tr>
 </table>
-
----
 
 ### <a id="speakers"></a>Speakers
 
 <div style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
 
 <a href="#" class="speaker-card">
-  <img src="/images/events/bbhanu.jpeg" alt="Bhanu Teja">
-  <span>Bhanu Teja</span>
+  <img src="/images/events/Anoop-Jain.jpg" alt="Dr Anoop Jain">
+  <span>Dr. Anoop Jain (IIT Jodhpur)</span>
 </a>
 
 <a href="#" class="speaker-card">
-  <img src="/images/events/Girish.webp" alt="Dr Girish Varma">
-  <span>Dr Girish Varma</span>
+  <img src="/images/team/Madhava Krishna.jpeg" alt="Prof Madhava Krishna">
+  <span>Prof. K. Madhava Krishna</span>
+</a>
+
+<a href="#" class="speaker-card">
+  <img src="/images/team/spandan.jpeg" alt="Dr Spandan Roy">
+  <span>Dr. Spandan Roy</span>
+</a>
+
+<a href="#" class="speaker-card">
+  <img src="/images/MTP/antony_thomas.jpg" alt="Dr Antony Thomas">
+  <span>Dr. Antony Thomas</span>
+</a>
+
+<a href="#" class="speaker-card">
+  <img src="/images/team/sourav-garg.jpg" alt="Dr Sourav Garg">
+  <span>Dr. Sourav Garg</span>
+</a>
+
+<a href="#" class="speaker-card">
+  <img src="/images/team/harikumar-kandath.jpg" alt="Dr Harikumar Kandath">
+  <span>Dr. Harikumar Kandath</span>
 </a>
 
 </div>
