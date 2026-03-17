@@ -7,15 +7,11 @@ permalink: /
 ---
 
 The Robotics Research Center (RRC) is a part of the International Institute of Information Technology [(IIIT) Hyderabad](https://www.iiit.ac.in/), India. The lab aims to work on research problems and innovative projects that extend the state of the art in robotics. 
+
 <div style="background: linear-gradient(90deg, #c62828, #ef5350); color: white; padding: 12px; text-align: center; font-weight: bold; font-size: 16px;">
    We are hiring! Research Assistant – Robotics at RRC, IIIT Hyderabad  
   <a href="#ra-position" style="color: #fff; text-decoration: underline; margin-left: 10px;">Apply Now</a>
-</div>
-
-
-<marquee style="background-color:#fff3e0; color:#e65100; padding:8px; font-weight:bold;">
-  Applications Open: Research Assistant – Robotics | Dual-Manipulator Systems | Simulation, Planning & Control | Apply Now!
-</marquee>
+</div>  
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -68,7 +64,14 @@ The Robotics Research Center (RRC) is a part of the International Institute of I
 </div>
 
  The lab is well equipped with ground and aerial robotics platforms, advanced sensors, motion camera systems and 3D printers.The center has been publishing in top international conferences like ICRA, IROS, IJCAI and AAMAS. To this end, we strive to advance the frontiers of robotics research in the areas of dynamics and control, robotic vision, navigation, UAV design and control, Multi Robotic Systems, AI and learning. 
----
+
+
+
+
+<marquee style="background-color:#fff3e0; color:#e65100; padding:8px; font-weight:bold;">
+  Applications Open: Research Assistant – Robotics | Dual-Manipulator Systems | Simulation, Planning & Control | Apply Now!
+</marquee>
+
 
 ### <a id="ra-position"></a> We Are Hiring – Research Assistant (Robotics)
 
