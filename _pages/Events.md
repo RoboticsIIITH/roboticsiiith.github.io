@@ -133,17 +133,17 @@ Participants will gain exposure to **state-of-the-art research and practical ins
 <div style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
 
 <a href="#" class="speaker-card">
-  <img src="/images/events/Anoop-Jain.jpg" alt="Dr Anoop Jain">
+  <img src="/images/MTP/Anoop-Jain.jpg" alt="Dr Anoop Jain">
   <span>Dr. Anoop Jain (IIT Jodhpur)</span>
 </a>
 
 <a href="#" class="speaker-card">
-  <img src="/images/team/Madhava Krishna.jpeg" alt="Prof Madhava Krishna">
+  <img src="/images/MTP/Madhava Krishna.jpeg" alt="Prof Madhava Krishna">
   <span>Prof. K. Madhava Krishna</span>
 </a>
 
 <a href="#" class="speaker-card">
-  <img src="/images/team/spandan.jpeg" alt="Dr Spandan Roy">
+  <img src="/images/MTP/spandan.jpeg" alt="Dr Spandan Roy">
   <span>Dr. Spandan Roy</span>
 </a>
 
@@ -153,12 +153,12 @@ Participants will gain exposure to **state-of-the-art research and practical ins
 </a>
 
 <a href="#" class="speaker-card">
-  <img src="/images/team/sourav-garg.jpg" alt="Dr Sourav Garg">
+  <img src="/images/MTP/sourav-garg.jpg" alt="Dr Sourav Garg">
   <span>Dr. Sourav Garg</span>
 </a>
 
 <a href="#" class="speaker-card">
-  <img src="/images/team/harikumar-kandath.jpg" alt="Dr Harikumar Kandath">
+  <img src="/images/MTP/harikumar-kandath.jpg" alt="Dr Harikumar Kandath">
   <span>Dr. Harikumar Kandath</span>
 </a>
 
