@@ -7,6 +7,16 @@ permalink: /
 ---
 
 The Robotics Research Center (RRC) is a part of the International Institute of Information Technology [(IIIT) Hyderabad](https://www.iiit.ac.in/), India. The lab aims to work on research problems and innovative projects that extend the state of the art in robotics. 
+<div style="background: linear-gradient(90deg, #c62828, #ef5350); color: white; padding: 12px; text-align: center; font-weight: bold; font-size: 16px;">
+   We are hiring! Research Assistant – Robotics at RRC, IIIT Hyderabad  
+  <a href="#ra-position" style="color: #fff; text-decoration: underline; margin-left: 10px;">Apply Now</a>
+</div>
+
+
+<marquee style="background-color:#fff3e0; color:#e65100; padding:8px; font-weight:bold;">
+  Applications Open: Research Assistant – Robotics | Dual-Manipulator Systems | Simulation, Planning & Control | Apply Now!
+</marquee>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -58,7 +68,58 @@ The Robotics Research Center (RRC) is a part of the International Institute of I
 </div>
 
  The lab is well equipped with ground and aerial robotics platforms, advanced sensors, motion camera systems and 3D printers.The center has been publishing in top international conferences like ICRA, IROS, IJCAI and AAMAS. To this end, we strive to advance the frontiers of robotics research in the areas of dynamics and control, robotic vision, navigation, UAV design and control, Multi Robotic Systems, AI and learning. 
+---
 
+### <a id="ra-position"></a> We Are Hiring – Research Assistant (Robotics)
+
+<div style="border-left: 5px solid #ff6d00; padding: 15px; background-color: #fff8f2;">
+
+The **Robotics Research Center (RRC), IIIT Hyderabad** is inviting applications for a  
+**Research Assistant position in Robotics** focused on:
+
+- Dual-manipulator grasp generation  
+- Motion planning & control algorithm development  
+- Simulation-to-real transfer and experimental validation  
+
+---
+
+### Roles & Responsibilities
+- Work with simulation tools (Gazebo / Isaac Sim / Mujoco, ROS/ROS2)  
+- Develop and validate planning & control algorithms  
+- Design experimental robotic systems (sensors, actuators, control)  
+- Collaborate on system integration and real-world testing  
+- Contribute to publications and research dissemination  
+
+---
+
+### Required Qualifications
+- B.Tech in Mechanical / Electrical / Electronics / CSE or related fields  
+- Strong background in Robotics, Kinematics, Dynamics, Mechatronics  
+- Programming: Python, C++  
+- Experience with ROS/ROS2 and simulation environments  
+- Experience in perception and planning algorithms  
+
+---
+
+### Position Details
+- **Start:** Flexible (May/June 2026 preferred)  
+- **Duration:** 1 Year (On-campus)  
+
+---
+
+### How to Apply
+Send a **single PDF** containing:
+1. Cover Letter  
+2. CV  
+3. Academic Transcripts  
+
+Email to:  
+- keshabpatra19@research.iiit.ac.in  
+- mkrishna@iiit.ac.in  
+
+---
+
+</div>
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <!-- <figure class="fourth">
