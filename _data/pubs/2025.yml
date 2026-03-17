@@ -1,3 +1,13 @@
+
+- title: "Three Dimensional Waypoint Navigation for Fixed-wing Micro Aerial Vehicles using Integrated Guidance and Control Framework"
+  authors: Harikumar Kandath, Jinraj V Pushpangathan, M Seetharama Bhat
+  venue: 2025 International Conference on Emerging Technology in Autonomous Aerial Vehicles (ETAAV)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11213103
+    url: /publications/2025/Harikumar_Three
+    display: Project Page
+  id: hkandath
+  featured: 1
+
 - title: "An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper With Adaptive Control"
   authors: R. D. Yadav, B. Jones, S. Gupta, A. Sharma, J. Sun, J. Zhao and S. Roy
   venue: IEEE/ASME Transactions on Mechatronics
