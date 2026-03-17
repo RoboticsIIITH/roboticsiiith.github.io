@@ -47,15 +47,15 @@
 
 - name: Sourav Garg
   photo: sourav-garg.jpg
-  info: Professor, started 2026
-  #email: sgarg (at) iiit.ac.in
-  url: /faculty_sgarg
-  id: sgarg
-  #number_educ:
-  #education1: 
-  #education2: 
-  #education3: 
-  #education4: 
+  nfo: Assistant Professor, started 2026
+  email: sourav.garg (at) iiit.ac.in
+  url: /faculty_sourav.garg
+  id: sourav.garg
+  Number_educ: 3
+  education1: Ph.D. at Australian Centre for Robotic Vision, Australia
+  education2: Research Fellow at AIML, The University of Adelaide, Austraila
+  education3: <a href="https://oravus.github.io/"> Personal Webpage </a>
+  education4: Email - sourav.garg (at) iiit.ac.in
 
 # name: Nagamanikandan Govindan
 # photo: mani.jpeg
