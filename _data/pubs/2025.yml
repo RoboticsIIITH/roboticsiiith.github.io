@@ -1,3 +1,11 @@
+- title: "Imitation Learning-based Control of Brachiation Motion with Anthropomorphic Hands"
+  authors: Anubhav Tripathi, Nagamanikandan Govindan, Harikumar Kandath
+  venue: 2025 25th International Conference on Control, Automation and Systems (ICCAS)
+  link: # https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11301396
+    url: /publications/2025/Anubhav_Imitation
+    display: Project Page
+  id: hkandath
+  featured: 1
 
 - title: "Three Dimensional Waypoint Navigation for Fixed-wing Micro Aerial Vehicles using Integrated Guidance and Control Framework"
   authors: Harikumar Kandath, Jinraj V Pushpangathan, M Seetharama Bhat
