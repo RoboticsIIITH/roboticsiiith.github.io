@@ -3,16 +3,14 @@ layout: project-page-new
 title: "DAG-Diff: Diffusion Models for Directed Acyclic Graph Generation"
 
 authors:
-  - name: Naman Kumar
+  - name: Md Faizal Karim
     sup: 1
-  - name: Antareep Singha
+  - name: Vignesh Vembar
     sup: 1
-  - name: Laksh Nanwani
+  - name: Keshab Patra
     sup: 1
-  - name: Dhruv Potdar
-    sup: 1
-  - name: Tarun R
-    sup: 1
+  - name: Gaurav Singh
+    sup: 2
   - name: K Madhava Krishna
     sup: 1
 
@@ -20,6 +18,9 @@ affiliations:
   - name: Robotics Research Center, IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
+  - name: Brown University
+    link: https://cs.brown.edu
+    sup: 2
 
 permalink: /publications/2026/Faizal_Dagdiff/
 
@@ -29,6 +30,6 @@ project_page: https://dag-diff.github.io/dagdiff/
 paper: https://dag-diff.github.io/dagdiff/static/images/dagdiff_paper_final.pdf
 code: https://github.com/DAG-Diff/dual-arm-grasp-diffusion
 video: https://dag-diff.github.io/dagdiff/#video
-iframe: https://dag-diff.github.io/dagdiff/static/videos/website-teaser.webm
+iframe: https://dag-diff.github.io/dagdiff/static/images/pipeline.svg
 
 ---
