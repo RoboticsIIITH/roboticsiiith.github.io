@@ -68,7 +68,7 @@ The Robotics Research Center (RRC) is a part of the International Institute of I
 
 
 
-<marquee style="background-color:#fff3e0; color:#e65100; padding:8px; font-weight:bold;">
+<!--marquee style="background-color:#fff3e0; color:#e65100; padding:8px; font-weight:bold;">
   Applications Open: Research Assistant – Robotics | Dual-Manipulator Systems | Simulation, Planning & Control | Apply Now!
 </marquee>
 
@@ -122,7 +122,7 @@ Email to:
 
 ---
 
-</div>
+</div-->
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <!-- <figure class="fourth">
