@@ -22,6 +22,16 @@ affiliations:
   - name: Robotics Research Center, IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
+  - name: Nanyang Technological University, Singapore
+    link: https://www.ntu.edu.sg
+    sup: 2
+  - name: University of Tartu, Estonia
+    link: https://ut.ee/et
+    sup: 3
+  - name: Inria, Universit´e de Lorraine, France
+    link: https://www.inria.fr/en/inria-centre-universite-lorraine
+    sup: 4
+     
 
 permalink: /publications/2026/Laksh_CrowdFM/
 
