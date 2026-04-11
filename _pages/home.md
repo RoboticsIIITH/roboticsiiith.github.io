@@ -8,10 +8,10 @@ permalink: /
 
 The Robotics Research Center (RRC) is a part of the International Institute of Information Technology [(IIIT) Hyderabad](https://www.iiit.ac.in/), India. The lab aims to work on research problems and innovative projects that extend the state of the art in robotics. 
 
-<div style="background: linear-gradient(90deg, #c62828, #ef5350); color: white; padding: 12px; text-align: center; font-weight: bold; font-size: 16px;">
+<!--div style="background: linear-gradient(90deg, #c62828, #ef5350); color: white; padding: 12px; text-align: center; font-weight: bold; font-size: 16px;">
    We are hiring! Research Assistant – Robotics at RRC, IIIT Hyderabad  
   <a href="#ra-position" style="color: #fff; text-decoration: underline; margin-left: 10px;">Apply Now</a>
-</div>  
+</div-->  
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
