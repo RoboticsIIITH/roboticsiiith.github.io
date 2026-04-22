@@ -199,11 +199,21 @@ As models like [SAM](https://ai.meta.com/sam2/) are capable of producing semanti
 Humans excel at forming mental maps of their surroundings, equipping them to understand object relationships and navigate based on language queries. Our previous work SI Maps (Nanwani L, Agarwal A, Jain K, et al. Instance-level semantic maps for vision language navigation. In: 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE; 2023 Aug.) showed that having instance-level information and the semantic understanding of an environment helps significantly improve performance for language-guided tasks. We extend this instance-level approach to 3D while increasing the pipeline's robustness and improving quantitative and qualitative results. It can be applied to robots for a human-like interaction in home/office environments. The approach can also be combined with physics-based simulation engines for creating simulations of real world scenarios. We have made strides in that area under the project **O3D-SIM**.
 
 <div class="video">
-<div class="video__youtube" data-youtube>
-<!-- <img src="https://drive.google.com/file/d/1eqnWPeJBYoEaVoYM4dndpFj4oksVFp6u/view" class="video__placeholder" /> -->
-<iframe src="https://drive.google.com/file/d/1fAjS6WG3Q-y-mYdfYQfrPReE8fe3Lhhb/preview" width="820" height="450" allowfullscreen></iframe>
-</div>
-<center>Instance maps for vision-language guided navigation</center>
+  <div class="video__youtube">
+    <iframe 
+      width="820" 
+      height="450" 
+      src="https://www.youtube.com/embed/PfLf9pqqaIs" 
+      title="Instance maps for vision-language guided navigation"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <p style="text-align:center;">
+    Instance maps for vision-language guided navigation
+  </p>
 </div>
 
 
