@@ -6,7 +6,7 @@ authors:
   - name: Astik Srivastava
     sup: 1
   - name: Thomas J Chackenkulam
-    sup: 1
+    sup: 2
   - name: Bitla BhanuTeja
     sup: 1
   - name: Antony Thomas
@@ -18,6 +18,10 @@ affiliations:
   - name: Robotics Research Center, IIIT Hyderabad, India
     link: https://robotics.iiit.ac.in
     sup: 1
+ - name: IIT, BHU, India
+    link: https://iitbhu.ac.in
+    sup: 2
+
 
 permalink: /publications/2026/Astik_Spot/
 
