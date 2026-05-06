@@ -19,7 +19,7 @@ affiliations:
     link: https://robotics.iiit.ac.in
     sup: 1
     
- - name: IIT, BHU, India
+  - name: IIT, BHU, India
     link: https://iitbhu.ac.in
     sup: 2
 
