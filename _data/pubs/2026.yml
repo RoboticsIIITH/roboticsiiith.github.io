@@ -1,3 +1,21 @@
+- title: "SPOT-Spatio-Temporal Obstacle-free Trajectory Planning for UAVs in an Unknown Dynamic Environments"
+  authors:  Astik Srivastava, Thomas J Chackenkulam, Bitla BhanuTeja, Antony Thomas, K. Madhava Krishna
+  venue: ICRA 2026
+  link: 
+    url: /publications/2026/Astik_Spot
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+  - title: "MASt3R-Nav: WayPixel Navigation in Relative 3D Maps"
+  authors: Vansh Garg, Rohit Jayanti, Krish Pandya, Sarthak Chittawar, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, K. Madhava Krishna
+  venue: ICRA 2026
+  link: # https://smart-wheelchair-rrc.github.io/crowdfm-webpage/
+    url: /publications/2026/Vansh_Mast3rNav
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "CrowdFM: Learned Optimal Selection of Conditional Flow Matching Trajectories for Crowd Navigation"
   authors:  Antareep Singha, Laksh Nanwani, Mathai Mathew P., Samkit Jain, Phani Teja Singamaneni, Arun Kumar Singh,  K. Madhava Krishna
   venue: ICRA 2026
