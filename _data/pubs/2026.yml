@@ -7,10 +7,10 @@
   id: mkrishna
   featured: 1
 
-  - title: "MASt3R-Nav: WayPixel Navigation in Relative 3D Maps"
+- title: "MASt3R-Nav: WayPixel Navigation in Relative 3D Maps"
   authors: Vansh Garg, Rohit Jayanti, Krish Pandya, Sarthak Chittawar, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, K. Madhava Krishna
   venue: ICRA 2026
-  link: # https://smart-wheelchair-rrc.github.io/crowdfm-webpage/
+  link:
     url: /publications/2026/Vansh_Mast3rNav
     display: Project Page
   id: mkrishna
