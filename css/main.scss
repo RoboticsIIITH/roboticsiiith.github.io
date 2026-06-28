@@ -1,34 +1,6 @@
-<script>
-/* Measure the navbar height and set the CSS variable so offsets/anchors are accurate.
-   Works on load, resize and orientationchange. */
-(function() {
-  function updateNavbarHeight() {
-    const nav = document.querySelector('.navbar');
-    if (!nav) return;
-    const h = Math.ceil(nav.getBoundingClientRect().height);
-    document.documentElement.style.setProperty('--navbar-height', h + 'px');
-  }
-
-  // run early (DOM may be ready)
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', updateNavbarHeight);
-  } else {
-    updateNavbarHeight();
-  }
-
-  // update on events that can change layout
-  window.addEventListener('resize', updateNavbarHeight);
-  window.addEventListener('orientationchange', updateNavbarHeight);
-
-  // optional: if fonts load late and change layout, re-run after font load
-  if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(updateNavbarHeight).catch(()=>{});
-  }
-})();
-</script>
-
-
-
+---
+# Front matter (even empty) is REQUIRED so Jekyll compiles this SCSS into css/main.css.
+---
 
 /* ---------- Bootstrap import (keep if your build uses it) ---------- */
 @import "bootstrap";

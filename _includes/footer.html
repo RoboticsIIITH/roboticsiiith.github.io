@@ -42,3 +42,29 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/youtube.js"></script>
+
+<script>
+/* Measure the navbar height and expose it as the --navbar-height CSS variable so
+   anchor offsets stay accurate. Runs on load, resize and orientationchange. */
+(function() {
+  function updateNavbarHeight() {
+    const navbar = document.querySelector('.navbar');
+    if (!navbar) return;
+    const navbarHeight = Math.ceil(navbar.getBoundingClientRect().height);
+    document.documentElement.style.setProperty('--navbar-height', navbarHeight + 'px');
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', updateNavbarHeight);
+  } else {
+    updateNavbarHeight();
+  }
+
+  window.addEventListener('resize', updateNavbarHeight);
+  window.addEventListener('orientationchange', updateNavbarHeight);
+
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(updateNavbarHeight).catch(()=>{});
+  }
+})();
+</script>
