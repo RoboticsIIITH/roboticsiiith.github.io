@@ -1,3 +1,12 @@
+- title: "Spinning Quadrotor: Hover Thrust Augmentation with Passive Lifting Surfaces"
+  authors: Aniketh Parkala, Harikumar Kandath
+  venue: ICUAS 2026
+  link:
+    url: /publications/2026/Aniketh_Spinning_Quadrotor
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "SPOT-Spatio-Temporal Obstacle-free Trajectory Planning for UAVs in an Unknown Dynamic Environments"
   authors:  Astik Srivastava, Thomas J Chackenkulam, Bitla BhanuTeja, Antony Thomas, K. Madhava Krishna
   venue: ICRA 2026
