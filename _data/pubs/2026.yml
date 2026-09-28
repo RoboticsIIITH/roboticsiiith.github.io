@@ -1,3 +1,102 @@
+- title: "AERMANI-VLM: Structured Prompting & Reasoning for Aerial Manipulation with VLMs"
+  authors: Sarthak Mishra, Rishabh Dev Yadav, Avirup Das, Saksham Gupta, Wei Pan, Spandan Roy
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Sarthak_AermaniVLM
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "AeroGrab: Unified Aerial Grasping in Cluttered Environments"
+  authors: Shivansh Pratap Singh, Naveen Nair, Samaksh Ujjawal, Sarthak Mishra, Soham Patil, Rishabh Dev Yadav, Spandan Roy
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Shivansh_AeroGrab
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "AeroPlace-Flow: Language-Grounded Placement for Aerial Manipulators via Object Flow"
+  authors: Sarthak Mishra, Rishabh Dev Yadav, Naveen Nair, Wei Pan, Spandan Roy
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Sarthak_AeroPlaceFlow
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "Beyond Frontiers: Scene-Anomaly Guided Autonomous Exploration"
+  authors: Akash Kumbar, Abhinav Raundhal, K. Madhava Krishna
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Akash_BeyondFrontiers
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "GlassFormer: Real-time Glass Segmentation using Radar-Depth Fusion"
+  authors: Suhani Grover, Astik Srivastava, Viswas Dinesh, Avinash Sharma, K. Madhava Krishna
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Suhani_GlassFormer
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Learn Structure, Adapt on the Fly: Multi-Scale Residual Learning for Aerial Manipulators"
+  authors: Samaksh Ujjawal, Naveen Nair, Shivansh Pratap Singh, Rishabh Dev Yadav, Wei Pan, Spandan Roy
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Samaksh_ResidualLearning
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "NoContactNoWorries: Estimating Contact for In-Hand Manipulation"
+  authors: Soham Patil, Avirup Das, Sourabh Bhosale, Spandan Roy
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Soham_NoContactNoWorries
+    display: Project Page
+  id: sroy
+  featured: 1
+
+- title: "PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops"
+  authors: Sarthak Chittawar, Vansh Garg, Aditya Chandramouli Vadali, Krish Pandya, Rohit Jayanti, Sourav Garg, K. Madhava Krishna
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Sarthak_PixelLoop
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Robust Fleet Sizing for Multi-UAV Inspection Missions"
+  authors: Vishal Ramesh, Antony Thomas
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Vishal_FleetSizing
+    display: Project Page
+  id: athomas
+  featured: 1
+
+- title: "SILICA: Repurposing Diffusion Priors for Joint Glass & Depth Estimation"
+  authors: Tarun R, Anuj Verma, Laksh Nanwani, Sourav Garg, K. Madhava Krishna
+  venue: IROS 2026
+  link:
+    url: /publications/2026/Tarun_SILICA
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
+- title: "Dynamic Object Segmentation & Ego Motion using Radar Image Fusion"
+  authors: Astik Srivastava, Suhani Grover, Avinash Sharma, K. Madhava Krishna
+  venue: IROS 2026 Workshop
+  link:
+    url: /publications/2026/Astik_RadarDot
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Spinning Quadrotor: Hover Thrust Augmentation with Passive Lifting Surfaces"
   authors: Aniketh Parkala, Harikumar Kandath
   venue: ICUAS 2026
@@ -10,7 +109,7 @@
 - title: "SPOT-Spatio-Temporal Obstacle-free Trajectory Planning for UAVs in an Unknown Dynamic Environments"
   authors:  Astik Srivastava, Thomas J Chackenkulam, Bitla BhanuTeja, Antony Thomas, K. Madhava Krishna
   venue: ICRA 2026
-  link: 
+  link:
     url: /publications/2026/Astik_Spot
     display: Project Page
   id: mkrishna
