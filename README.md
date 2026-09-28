@@ -11,8 +11,8 @@ Copyright Allan Lab. Code released under the MIT License.
  -->
 
 ### Getting started:
-- Install [Jekyll](https://jekyllrb.com/docs/).
 - Clone this repository and `cd`.
+- Install [Jekyll](https://jekyllrb.com/docs/). If you are on nix, `direnv allow` should get you started instead.
 - Run `bundle install` to install all the required 'gems'.
 - Run `bundle exec jekyll serve --livereload` to build the site and run it on a local server.
 
