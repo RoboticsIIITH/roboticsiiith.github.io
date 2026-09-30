@@ -33,6 +33,6 @@ a design mechanism for efficient and robust multirotor flight."
 
 paper: https://arxiv.org/abs/2608.23163
 
-video: https://youtu.be/q07RIcLkxVw
+video: /project_demo_videos/Spinning_Quadrotor.mp4
 
 ---
