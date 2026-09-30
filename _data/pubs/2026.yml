@@ -1,3 +1,12 @@
+- title: "A Bi-Level Optimization Framework Based Conceptual Design of Flapping Wing UAV"
+  authors: Bhamidipati Srinath Dhatre, Mavurapu Akshith Reddy, Jonish Abisheck Joseph, Harikumar Kandath
+  venue: ICUAS 2026
+  link:
+    url: /publications/2026/Bhamidipati_BiLevel_Flapping_Wing_UAV
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "AERMANI-VLM: Structured Prompting & Reasoning for Aerial Manipulation with VLMs"
   authors: Sarthak Mishra, Rishabh Dev Yadav, Avirup Das, Saksham Gupta, Wei Pan, Spandan Roy
   venue: IROS 2026
