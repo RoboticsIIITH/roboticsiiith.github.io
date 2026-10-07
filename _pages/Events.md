@@ -1,12 +1,48 @@
 ---
-title: "Workshop on Systems and Intelligence for UAVs"
+title: "RRC - Seventh Master Trainer Program"
 layout: textlay
-excerpt: "Planning and Control of UAV Systems (Classical & Learning-Based Approaches)"
+excerpt: "RRC -- Seventh Master Trainer Program"
 sitemap: false
-permalink: /Events/
+permalink: /events/
 ---
 
 <style>
+
+ 
+/* =========================
+   Navigation Bar
+   ========================= */
+
+.mtp-nav {
+  background-color: #f8f9fa;
+  padding: 12px 15px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+  flex-wrap: wrap;
+}
+
+.mtp-nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 16px;
+  white-space: nowrap;
+}
+
+.mtp-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Apply Now Button */
+
 .nav-cta {
   background-color: #ff6d00;
   color: white !important;
@@ -16,11 +52,57 @@ permalink: /Events/
   font-size: 16px;
   font-family: 'Segoe UI', Tahoma, sans-serif;
   transition: 0.3s ease;
+  text-decoration: none !important;
 }
+
 .nav-cta:hover {
   background-color: #e65100;
   transform: scale(1.05);
-  text-decoration: none;
+}
+
+/* Registration Payment Button */
+
+.nav-payment {
+  background-color: #2e7d32;
+}
+
+.nav-payment:hover {
+  background-color: #1b5e20;
+}
+
+
+/* =========================
+   Schedule Table
+   ========================= */
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.schedule-table th,
+.schedule-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.schedule-table th {
+  background-color: #f2f2f2;
+}
+
+
+/* =========================
+   Speakers
+   ========================= */
+
+.speakers-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 25px;
 }
 
 .speaker-card {
@@ -28,6 +110,7 @@ permalink: /Events/
   text-align: center;
   width: 180px;
 }
+
 .speaker-card img {
   width: 150px;
   height: 150px;
@@ -35,140 +118,294 @@ permalink: /Events/
   object-fit: cover;
   margin-bottom: 8px;
 }
+
 .speaker-card span {
   display: block;
   font-weight: bold;
   color: #333;
   font-size: 14px;
 }
-.schedule-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
+
+
+/* First row of speakers */
+
+.speakers-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-bottom: 35px;
 }
-.schedule-table th, .schedule-table td {
-  border: 1px solid #ccc;
-  padding: 8px;
-  text-align: left;
+
+
+/* Second row */
+
+.speakers-row-second {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 10px;
 }
-.schedule-table th {
-  background-color: #f2f2f2;
+
+
+/* =========================
+   Mobile View
+   ========================= */
+
+@media screen and (max-width: 768px) {
+
+  .mtp-nav {
+    gap: 12px;
+  }
+
+  .mtp-nav a {
+    font-size: 14px;
+  }
+
+  .nav-cta {
+    font-size: 14px;
+    padding: 7px 12px;
+  }
+
+  .speakers-row {
+    gap: 15px;
+  }
+
 }
+
 </style>
 
-<nav style="background-color: #f8f9fa; padding: 10px; position: sticky; top: 0; z-index: 1000; width: 100%; text-align: center; border-bottom: 1px solid #ccc;">
-  <a href="#about" style="margin: 0 15px; text-decoration: none; color: #007bff;">About</a>
-  <a href="#topics" style="margin: 0 15px; text-decoration: none; color: #007bff;">Topics</a>
-  <a href="#schedule" style="margin: 0 15px; text-decoration: none; color: #007bff;">Schedule</a>
-  <a href="#speakers" style="margin: 0 15px; text-decoration: none; color: #007bff;">Speakers</a>
-  <a href="https://forms.gle/yjgTGm6dqdzPCoPw6" class="nav-cta">Apply Now</a>
-  <a href="https://robotics.iiit.ac.in/" style="margin: 0 15px; text-decoration: none; color: #007bff;">RRC Homepage</a>
+
+<!-- =========================
+     Navigation
+     ========================= -->
+
+<nav class="mtp-nav">
+
+  <a href="#about-the-program">About</a>
+
+  <a href="#program-topics">Topics</a>
+
+  <a href="#schedule">Schedule</a>
+
+  <a href="#speakers">Speakers</a>
+
+  <a href="https://forms.gle/JxG7jvoMkjdiLQtj6"
+     class="nav-cta">
+     Apply Now
+  </a>
+
+<!-- Payment link – update once received
+<a href="https://payments.iiit.ac.in/mtp2026/registration.php"
+   class="nav-cta nav-payment">
+  Registration Pay
+</a>
+-->
+
+<a href="#" class="nav-cta nav-payment"
+   onclick="alert('The payment link is currently being finalized and will be updated soon. Please check back shortly.'); return false;">
+  Registration Pay
+</a>
+
+  <a href="https://robotics.iiit.ac.in/">
+     RRC Homepage
+  </a>
+
 </nav>
 
-# Workshop on Systems and Intelligence for UAVs  
-**Focus: Planning and Control of UAV Systems (Classical & Learning-Based Approaches)**
+
+<!-- =========================
+     Title
+     ========================= -->
+
+# Seventh Master Trainer Program
+
+**Technology Specific Work Theme: Allied UAS Technologies**
+
+**Focus: Vision-based Navigation for UAS**
+
+
+<!-- =========================
+     Poster
+     ========================= -->
+
 <div style="text-align: center; width: 100%; margin: 20px auto;">
-  <img src="/images/MTP/3-workshop.jpg"
-       alt="Workshop on Systems and Intelligence for UAVs"
-       style="width: 100%; max-width: 1000px; height: auto; max-height: 450px; object-fit: contain; border-radius: 8px;">
+
+  <img src="/images/MTP/7th-MTP.png"
+       alt="Seventh Master Trainer Program"
+       style="width: 100%;
+              max-width: 1000px;
+              height: auto;
+              max-height: 500px;
+              object-fit: contain;
+              border-radius: 8px;">
+
 </div>
 
-- **Dates**: 25th & 26th March 2026  
-- **Venue**: KRB Auditorium, IIIT Hyderabad Campus  
-- **Mode**: Hybrid  
-- **Registration Fees**:  
-  - Students: ₹1000  
-  - Non-Students: ₹2000  
-  - Online Participants: Free  
 
-- **[Apply Now](https://forms.gle/yjgTGm6dqdzPCoPw6)**  
+<!-- =========================
+     Program Details
+     ========================= -->
 
----
+<ul>
 
-### <a id="about"></a>About the Workshop
+  <li>
+    <strong>Dates:</strong>
+    26th – 30th October 2026
+  </li>
 
-This workshop is organized under the **MeitY-funded consortium project**:
+  <li>
+    <strong>Venue:</strong>
+    A3-117 Hall, Vindhya Building, IIITH Campus
+  </li>
 
-*"Capacity Building for Human Resource Development in UAS (Drone-related Technologies)"*
+  <li>
+    <strong><a href="https://forms.gle/JxG7jvoMkjdiLQtj6">Apply Now</a></strong>
+  </li>
 
-The two-day workshop focuses on **modern planning and control techniques for UAV systems**, covering both **classical methods and learning-based approaches**.
+  <li>
+    <strong>Registration Closes:</strong>
+    20th October 2026
+  </li>
 
-Participants will gain exposure to **state-of-the-art research and practical insights** in UAV intelligence, autonomy, and safety-critical deployment.
+  <li>
+    <strong>Registration Fee:</strong>
+    To be paid at the venue on 26th October 2026
+  </li>
 
----
+</ul>
 
-### <a id="topics"></a>Workshop Topics
 
-- Geofencing control of multi-agent systems in safety-critical missions  
-- AI-based perception and planning  
-- Discrete and sampling-based motion planning  
-- Adaptive control in aerial manipulation  
-- Visual topological navigation  
-- Reinforcement learning-based planning  
+<hr>
 
----
+
+<!-- =========================
+     About the Program
+     ========================= -->
+
+### <a id="about-the-program"></a>About the Program
+
+IIIT Hyderabad is identified as one of the Resource Centers (RC) for the MeitY approved project entitled *“Capacity building for human resource development in Unmanned Aircraft System (Drone and related Technology)”*. As part of this initiative, the **Robotics Research Center (RRC), IIIT Hyderabad** is organizing the **Seventh Master Trainer Program (MTP)** from **26th to 30th October 2026**. The program is organized under the Technology Specific Work Theme **“Allied UAS Technologies”**, with focus on **Vision-based Navigation for UAS**.
+
+
+<hr>
+
+
+<!-- =========================
+     Program Topics
+     ========================= -->
+
+### <a id="program-topics"></a>Program Topics
+
+The five-day program will cover topics from:
+
+- Foundations of Computer Vision
+- Motion Planning and Physical AI
+- Topographic Mapping and Path Planning
+- Vision-Action Policies for Navigation
+- Interpretable Robot Learning for Navigation
+- Integration of Classical Robotics with Modern AI
+- Applications of Vision-Language Models (VLMs)
+- Implementation of Autonomous Navigation for UAS
+
+
+<hr>
+
+
+<!-- =========================
+     Detailed Schedule
+     ========================= -->
 
 ### <a id="schedule"></a>Detailed Schedule
 
-<table class="schedule-table">
-<tr>
-<th>Date</th><th>Session 1</th><th>Session 2</th><th>Session 3</th><th>Session 4</th>
-</tr>
+<div style="text-align: center; margin: 25px 0;">
 
-<tr>
-<td>25/03/2026 (Day 1)</td>
-<td>Geofencing Control in Multi-Agent Systems<br><b>Dr. Spandan Roy</b></td>
-<td>AI-Based Perception and Planning<br><b>Dr. Sourav Garg</b></td>
-<td>Discrete Motion Planning<br><b>Dr. Antony Thomas</b></td>
-<td>Sampling-Based Planning Methods<br><b>Dr. Antony Thomas</b></td>
-</tr>
-
-<tr>
-<td>26/03/2026 (Day 2)</td>
-<td>Adaptive Control in Aerial Manipulation<br><b>Prof. K. Madhava Krishna</b></td>
-<td>Visual Topological Navigation<br><b>Dr. Harikumar Kandath</b></td>
-<td>Reinforcement Learning for Planning<br><b>Dr. Anoop Jain</b></td>
-<td>Open Discussion / Q&A + Closing Session</td>
-</tr>
-</table>
-
-### <a id="speakers"></a>Speakers
-
-<div style="display:flex; gap:30px; justify-content:center; flex-wrap:wrap;">
-
-<a href="#" class="speaker-card">
-  <img src="/images/MTP/Anoop-Jain.jpg" alt="Dr Anoop Jain">
-  <span>Dr. Anoop Jain (IIT Jodhpur)</span>
-</a>
-
-<a href="#" class="speaker-card">
-  <img src="/images/MTP/Madhava Krishna.jpeg" alt="Prof Madhava Krishna">
-  <span>Prof. K. Madhava Krishna</span>
-</a>
-
-<a href="#" class="speaker-card">
-  <img src="/images/MTP/spandan.jpeg" alt="Dr Spandan Roy">
-  <span>Dr. Spandan Roy</span>
-</a>
-
-<a href="#" class="speaker-card">
-  <img src="/images/MTP/antony_thomas.jpg" alt="Dr Antony Thomas">
-  <span>Dr. Antony Thomas</span>
-</a>
-
-<a href="#" class="speaker-card">
-  <img src="/images/MTP/sourav-garg.jpg" alt="Dr Sourav Garg">
-  <span>Dr. Sourav Garg</span>
-</a>
-
-<a href="#" class="speaker-card">
-  <img src="/images/MTP/harikumar-kandath.jpg" alt="Dr Harikumar Kandath">
-  <span>Dr. Harikumar Kandath</span>
-</a>
+  <strong>
+    The detailed schedule will be updated soon.
+  </strong>
 
 </div>
 
----
 
-Organized by **Robotics Research Center, IIIT Hyderabad**  
-**Funded by MeitY, Government of India**
+<!-- =========================
+     Speakers
+     ========================= -->
+
+<hr>
+
+<h3 id="speakers">Speakers</h3>
+
+<table style="width:100%; border:none; border-collapse:collapse; text-align:center;">
+<tr>
+
+<td style="width:16.66%; border:none; text-align:center; vertical-align:top;">
+<img src="/images/MTP/Girish-Varma.jpg"
+     alt="Dr. Girish Varma"
+     style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
+<br>
+<strong>Dr Girish Varma</strong>
+</td>
+
+<td style="width:16.66%; border:none; text-align:center; vertical-align:top;">
+<img src="/images/MTP/Madhava%20Krishna.jpeg"
+     alt="Prof. K. Madhava Krishna"
+     style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
+<br>
+<strong>Prof. K. Madhava Krishna</strong>
+</td>
+
+<td style="width:16.66%; border:none; text-align:center; vertical-align:top;">
+<img src="/images/MTP/spandan.jpeg"
+     alt="Dr. Spandan Roy"
+     style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
+<br>
+<strong>Dr. Spandan Roy</strong>
+</td>
+
+<td style="width:16.66%; border:none; text-align:center; vertical-align:top;">
+<img src="/images/MTP/antony_thomas.jpg"
+     alt="Dr. Antony Thomas"
+     style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
+<br>
+<strong>Dr. Antony Thomas</strong>
+</td>
+
+<td style="width:16.66%; border:none; text-align:center; vertical-align:top;">
+<img src="/images/MTP/sourav-garg.jpg"
+     alt="Dr. Sourav Garg"
+     style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
+<br>
+<strong>Dr. Sourav Garg</strong>
+</td>
+
+<td style="width:16.66%; border:none; text-align:center; vertical-align:top;">
+<img src="/images/MTP/harikumar-kandath.jpg"
+     alt="Dr. Harikumar Kandath"
+     style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
+<br>
+<strong>Dr. Harikumar Kandath</strong>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="6" style="border:none; padding-top:35px; text-align:center;">
+
+<img src="/images/MTP/Bitla_Bhanu_Teja.jpeg"
+     alt="Bitla Bhanu Teja"
+     style="width:130px; height:130px; border-radius:50%; object-fit:cover;">
+<br>
+<strong>Bitla Banu Teja</strong>
+
+</td>
+</tr>
+
+</table>
+
+<hr>
+
+<p style="text-align:center;">
+Organized by <strong>Robotics Research Center, IIIT Hyderabad</strong><br>
+Funded by <strong>MeitY, Government of India</strong>
+</p>
