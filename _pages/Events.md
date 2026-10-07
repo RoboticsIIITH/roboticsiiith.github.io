@@ -3,7 +3,7 @@ title: "RRC - Seventh Master Trainer Program"
 layout: textlay
 excerpt: "RRC -- Seventh Master Trainer Program"
 sitemap: false
-permalink: /events/
+permalink: /Events/
 ---
 
 <style>
