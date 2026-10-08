@@ -1,3 +1,12 @@
+- title: "A Centralized PPO Agent-based Particle Swarm Optimization for Multi-UAV Source-Seeking"
+  authors: Kartik Vij, Arya Topale, Harikumar Kandath, J. Senthilnath
+  venue: ICMA 2026
+  link:
+    url: /publications/2026/Kartik_Vij
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "Simultaneous stabilization based attitude tracking control for quadrotor UAV with thrust constraints under complete actuator failure"
   authors: CS_Vidya, Harikumar Kandath
   venue: Sage Journals
