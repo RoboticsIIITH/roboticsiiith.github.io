@@ -1,3 +1,12 @@
+- title: "Data-Driven Identification of Flapping Wing Aerodynamic Forces using Covariance Matrix Adaptation Evolution Strategy (CMA-ES)"
+  authors: Jonish Abisheck Joseph, Yash Prashant Adivarekar, Bhamidipati Srinath Dhatre, Harikumar Kandath
+  venue: ICMA 2026
+  link:
+    url: /publications/2026/Jonish_Abisheck_Joseph
+    display: Project Page
+  id: mkrishna
+  featured: 1
+
 - title: "A Centralized PPO Agent-based Particle Swarm Optimization for Multi-UAV Source-Seeking"
   authors: Kartik Vij, Arya Topale, Harikumar Kandath, J. Senthilnath
   venue: ICMA 2026
