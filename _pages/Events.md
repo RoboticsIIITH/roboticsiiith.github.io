@@ -266,7 +266,7 @@ permalink: /Events/
 
   <li>
     <strong>Registration Closes:</strong>
-    20th October 2026
+    22nd October 2026
   </li>
 
   <li>
