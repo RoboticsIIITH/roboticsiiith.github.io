@@ -319,13 +319,38 @@ The five-day program will cover topics from:
 
 ### <a id="schedule"></a>Detailed Schedule
 
-<div style="text-align: center; margin: 25px 0;">
-
-  <strong>
-    The detailed schedule will be updated soon.
-  </strong>
-
-</div>
+<table class="schedule-table">
+<thead>
+<tr>
+<th>Date</th>
+<th>Time Slot</th>
+<th>Faculty Name</th>
+<th>Lecture Topics</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>26 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Girish Varma</td><td>Perception using Computer Vision and Deep Learning</td></tr>
+<tr><td>26 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Sourav Garg</td><td>Vision Based Mapping</td></tr>
+<tr><td>26 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Antony Thomas</td><td>rotaion matrices and geometry</td></tr>
+<tr><td>26 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Harikumar Kandath</td><td>UAV - Sensors and Modeling</td></tr>
+<tr><td>27 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Girish Varma</td><td>Transformers &amp; Foundation Models</td></tr>
+<tr><td>27 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Sourav Garg</td><td>Vision Based Localization</td></tr>
+<tr><td>27 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Girish Varma</td><td>Perception Lab</td></tr>
+<tr><td>27 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Girish Varma</td><td>Transformers &amp; Foundation Models Lab</td></tr>
+<tr><td>28 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Girish Varma</td><td>Model Compression and Deployment</td></tr>
+<tr><td>28 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Spandan Roy</td><td>VLM in Aerial manipulation</td></tr>
+<tr><td>28 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Madhava Krishna</td><td>Integrating Classical Robotics with Modern AI</td></tr>
+<tr><td>28 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Girish Varma</td><td>Model Compression and Deployment Lab</td></tr>
+<tr><td>29 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Bitla Bhanu Teja</td><td>Pin Hole Camera model and camera calibration</td></tr>
+<tr><td>29 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Bitla Bhanu Teja</td><td>Introduction to GTSAM</td></tr>
+<tr><td>29 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Bitla Bhanu Teja</td><td>Position estimation using Camera and Aruco markers</td></tr>
+<tr><td>29 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Bitla Bhanu Teja</td><td>PnP - position estimation using multiple markers</td></tr>
+<tr><td>30 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Bitla Bhanu Teja</td><td>Path Planning</td></tr>
+<tr><td>30 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Bitla Bhanu Teja</td><td>Experiments with drone</td></tr>
+<tr><td>30 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Bitla Bhanu Teja</td><td>Experiments with drone</td></tr>
+<tr><td>30 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Bitla Bhanu Teja</td><td>Experiments with drone</td></tr>
+</tbody>
+</table>
 
 
 <!-- =========================
