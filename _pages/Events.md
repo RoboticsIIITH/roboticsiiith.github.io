@@ -196,17 +196,13 @@ permalink: /Events/
      Apply Now
   </a>
 
-<!-- Payment link – update once received
-<a href="https://payments.iiit.ac.in/mtp2026/registration.php"
+
+<a href="https://payments.iiit.ac.in/mtp2026_7th/registration.php"
    class="nav-cta nav-payment">
   Registration Pay
 </a>
--->
 
-<a href="#" class="nav-cta nav-payment"
-   onclick="alert('The payment link is currently being finalized and will be updated soon. Please check back shortly.'); return false;">
-  Registration Pay
-</a>
+
 
   <a href="https://robotics.iiit.ac.in/">
      RRC Homepage
@@ -339,15 +335,15 @@ The five-day program will cover topics from:
 <tr><td>27 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Girish Varma</td><td>Transformers &amp; Foundation Models Lab</td></tr>
 <tr><td>28 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Girish Varma</td><td>Model Compression and Deployment</td></tr>
 <tr><td>28 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Spandan Roy</td><td>VLM in Aerial manipulation</td></tr>
-<tr><td>28 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Madhava Krishna</td><td>Integrating Classical Robotics with Modern AI</td></tr>
-<tr><td>28 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Girish Varma</td><td>Model Compression and Deployment Lab</td></tr>
+<tr><td>28 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Girish Varma</td><td>Model Compression and Deployment Lab</td></tr>
+<tr><td>28 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Bitla Bhanu Teja</td><td>Pin Hole Camera model and camera calibration</td></tr>
 <tr><td>29 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Bitla Bhanu Teja</td><td>Pin Hole Camera model and camera calibration</td></tr>
 <tr><td>29 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Bitla Bhanu Teja</td><td>Introduction to GTSAM</td></tr>
 <tr><td>29 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Bitla Bhanu Teja</td><td>Position estimation using Camera and Aruco markers</td></tr>
 <tr><td>29 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Bitla Bhanu Teja</td><td>PnP - position estimation using multiple markers</td></tr>
 <tr><td>30 October 2026</td><td>9:30 AM – 11:00 AM</td><td>Bitla Bhanu Teja</td><td>Path Planning</td></tr>
 <tr><td>30 October 2026</td><td>11:30 AM – 1:00 PM</td><td>Bitla Bhanu Teja</td><td>Experiments with drone</td></tr>
-<tr><td>30 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Bitla Bhanu Teja</td><td>Experiments with drone</td></tr>
+<tr><td>30 October 2026</td><td>2:00 PM – 3:30 PM</td><td>Madhava krishna</td><td>Integrating Classical Robotics with Modern AI</td></tr>
 <tr><td>30 October 2026</td><td>4:00 PM – 5:30 PM</td><td>Bitla Bhanu Teja</td><td>Experiments with drone</td></tr>
 </tbody>
 </table>
