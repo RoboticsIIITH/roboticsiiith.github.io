@@ -1,9 +1,10 @@
-
 ---
 title: "NPTEL Videos"
+layout: textlay
+excerpt: "NPTEL Course Videos"
+sitemap: false
 permalink: /nptel/
 ---
-
 # NPTEL Course: Principles of Perception and Planning for Aerial Vehicles
 
 [View the official NPTEL course](https://nptel.ac.in/courses/101106001)
