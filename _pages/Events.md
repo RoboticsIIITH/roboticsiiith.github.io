@@ -203,11 +203,13 @@ permalink: /Events/
   Registration Pay
 </a>
 -->
-<a href="https://forms.gle/JxG7jvoMkjdiLQtj6"
-   class="nav-cta"
-   style="background-color: #FFE0CC; color: #B85A25;">
-   Apply Now
-</a>
+<span class="nav-cta"
+      style="background-color: #FFE0CC;
+             color: #B85A25;
+             cursor: default;
+             opacity: 0.8;">
+    Apply Now
+</span>
 
 <span class="nav-cta nav-payment"
       style="background-color: #DCEEDC; color: #387A38; cursor: default;">
