@@ -125,30 +125,93 @@ The NPTEL course covers the principles of perception and motion planning for aer
 </div>
 {% endif %}
 
+
 ### Events organised by RRC so far as part of UASAT Project
 
-**Third Master Trainer Program Workshop – 11th – 15th March 2024.**
+### Master Trainer Programs (MTPs)
 
-IIIT Hyderabad is identified as one of the Resource Centers (RC) for the MeitY approved project entitled “Capacity building for human resource development in Unmanned Aircraft System (Drone and related Technology)”. As a part of this project, IIIT Hyderabad is organizing the third Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies" for five days from 11/03/2024 to 15/03/2024. 
+**Seventh Master Trainer Program – 26th – 30th October 2026.**
 
-**Second Master Trainer Program – 17th – 22nd July 2023**
+IIIT Hyderabad, through the Robotics Research Center (RRC), organized the seventh Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies", with a focus on Vision-based Navigation for UAS, from 26th to 30th October 2026 at IIITH Campus. The five-day program covered Foundations of Computer Vision, Motion Planning and Physical AI, Topographic Mapping and Path Planning, Vision-Action Policies for Navigation, Interpretable Robot Learning for Navigation, Integration of Classical Robotics with Modern AI, Applications of Vision-Language Models (VLMs), and Implementation of Autonomous Navigation for UAS. Around 23 participants attended the program.
 
-The second Master Trainer Program (MTP) was conducted from 17 July 2023 to 22 July 2023. The topics covered were Ardupilot, PyMAVLINK , ROS, Gazebo, OpenCV, and PyBullet. The theory part will be covered on basic NCC (Navigation Guidance and Control) for UAV, image processing and security. There were nearly 25 participants for the MTP- Batch 2. 
+**Sixth Master Trainer Program – 24th – 28th February 2026.**
 
-**First Master Trainer Program – 30th Jan – 3rd Feb 2023**
+The sixth Master Trainer Program (MTP) was conducted under the Technology Specific Work Theme "Allied UAS Technologies", with a focus on Computer Vision and Foundational Models for UAVs, from 24th February 2026 to 28th February 2026. A total of 22 participants attended the program.
 
-The first Master Trainer Program (MTP) was conducted from 30 January 2023 to 3 February 2023. The topics covered were Introduction to UAV, Kinematics and Dynamics, Cyber Security for Internet of drones, IoT, RTOS for drones, Control System, Image processing, Arducopter, ROS, AIRSIM, OpenCV, and DGCA regulations for drones. The program concluded with a flight demonstration from Arka Aerospace. There were nearly 30 participants for the MTP- Batch 1. 
+**Fifth Master Trainer Program – 27th – 31st October 2025.**
 
-**National 2 Day Workshop**
+IIIT Hyderabad organized the fifth Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies", with a focus on Computer Vision and Motion Planning for UAVs, from 27th October 2025 to 31st October 2025 at Saranga Hall, 119, Nilgiri Building, IIITH Campus. The five-day program included theory and practical sessions on Computer Vision, Sensor-based UAV Navigation, Motion Planning and Control. Practical sessions were conducted using cameras, LiDAR, IMU and other sensors used in UAVs. A total of 20 participants attended the program.
 
-National 2 day workshop was conducted from 3 Nov 2023 & 4 Nov 2023 on Systems and Intelligence for UAV.  The below mentioned are various topics which were covered during these two-day schedule. 
-- System design of passenger drone.  
+**Fourth Master Trainer Program – 3rd – 7th March 2025.**
+
+The fourth Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies", with a focus on Learning, Vision and Motion Planning, was conducted from 3rd to 7th March 2025 at Saranga Hall 119, Nilgiri Building, IIIT Hyderabad Campus.
+
+The five-day program covered foundations of computer vision, scientific machine learning, statistical issues in AI/ML, reinforcement learning, motion planning and applications to UAS. Tutorial sessions covered the implementation aspects of the different methods.
+
+The topics covered included:
+- Robot Motion Planning
+- Image Processing and Computer Vision
+- Basics and advanced topics in Reinforcement Learning
+- Scientific Machine Learning
+- Non-parametric statistics for AI/ML
+- Adaptive control for robots and drones
+- MAVLink – Drone Communication Protocol
+- Tutorial sessions on implementation and applications
+
+**Third Master Trainer Program – 11th – 15th March 2024.**
+
+IIIT Hyderabad was identified as one of the Resource Centers (RC) for the MeitY-approved project entitled "Capacity Building for Human Resource Development in Unmanned Aircraft System (Drone and Related Technology)". As a part of this project, IIIT Hyderabad organized the third Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies" for five days from 11/03/2024 to 15/03/2024.
+
+**Second Master Trainer Program – 17th – 22nd July 2023.**
+
+The second Master Trainer Program (MTP) was conducted from 17 July 2023 to 22 July 2023. The topics covered were Ardupilot, PyMAVLINK, ROS, Gazebo, OpenCV, and PyBullet. The theory part covered basic NCC (Navigation Guidance and Control) for UAV, image processing and security. There were nearly 25 participants for the MTP – Batch 2.
+
+**First Master Trainer Program – 30th January – 3rd February 2023.**
+
+The first Master Trainer Program (MTP) was conducted from 30 January 2023 to 3 February 2023. The topics covered were Introduction to UAV, Kinematics and Dynamics, Cyber Security for Internet of Drones, IoT, RTOS for drones, Control System, Image Processing, Arducopter, ROS, AIRSIM, OpenCV, and DGCA regulations for drones. The program concluded with a flight demonstration from Arka Aerospace. There were nearly 30 participants for the MTP – Batch 1.
+
+
+### Workshops on Systems and Intelligence for UAV
+
+**Third Workshop on Systems and Intelligence for UAV – 25th – 26th March 2026.**
+
+The third workshop on Systems and Intelligence for UAV was organized by the Robotics Research Center (RRC), IIIT Hyderabad, with a focus on "Planning and Control of UAV Systems (Classical and Learning-Based Approaches)" on 25th and 26th March 2026. The workshop was conducted in hybrid mode at KRB Auditorium, IIIT Hyderabad Campus.
+
+The workshop covered the following topics:
+- Geofencing control of multi-agent systems in safety-critical missions
+- AI-based perception and planning
+- Discrete and sampling-based motion planning
+- Adaptive control in aerial manipulation
+- Visual Topological Navigation
+- Reinforcement Learning-based planning
+
+The speakers included Dr. Anoop Jain (IIT Jodhpur), Prof. K. Madhava Krishna, Dr. Spandan Roy, Dr. Sourav Garg, Dr. Harikumar Kandath and Dr. Antony Thomas (IIIT Hyderabad).
+
+
+**Second Workshop on Systems and Intelligence for UAV – 18th – 19th December 2024.**
+
+The second workshop on Systems and Intelligence for UAV was conducted on 18th and 19th December 2024 at IIIT Hyderabad, with a focus on Computer Vision and Artificial Intelligence. The workshop explored the integration of computer vision and artificial intelligence in UAV systems and brought together experts and participants from robotics, vision and AI for discussions and hands-on sessions.
+
+The key topics covered included:
+- Focused sessions on AI and vision algorithms for UAV applications.
+- Topics ranging from neural networks to geometry-based vision and SLAM.
+- Sessions led by researchers from academia and industry.
+
+**First Workshop on Systems and Intelligence for UAV – 3rd – 4th November 2023.**
+
+The first workshop on Systems and Intelligence for UAV was conducted on 3rd and 4th November 2023 at IIIT Hyderabad.
+
+The speakers included Prof. Venkatesham (IIT Hyderabad), Dr. Ashok Kumar Das (IIIT Hyderabad), Dr. Anjaly P (Microsoft Research), Swati Dantu (Czech Technical University), Dr. Shuvrangshu Jana (National University of Singapore), Dr. Arun Kumar Singh (University of Tartu), and Dr. Jinraj V Pushpangathan (Tata Elxsi).
+
+The topics covered included:
+- System design of passenger drone
 - Arka Aerospace, Research to Product
 - A brief summary of recent works on quadrotor(s) motion planning at University of Tartu
 - Autonomous multi-agent systems for collaborative interception
-- IoT-Enabled Internet of Drones (IoD), Its Security Issues and Application using Blockchain Technology
-- Coupling Effects on the Dynamics of a Fixed-Wing  Nano Aerial Vehicle
-- Intelligent Anti Swing controller for Safe Human Interaction in Quadrotors with Cable Suspended Payload
+- IoT-Enabled Internet of Drones (IoD), its Security Issues and Application using Blockchain Technology
+- Coupling Effects on the Dynamics of a Fixed-Wing Nano Aerial Vehicle
+- Intelligent Anti-Swing Controller for Safe Human Interaction in Quadrotors with Cable Suspended Payload
+
 
  
 
