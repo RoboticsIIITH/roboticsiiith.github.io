@@ -61,69 +61,20 @@ The NPTEL course covers the principles of perception and motion planning for aer
 
 [View NPTEL Course Videos](https://robotics.iiit.ac.in/nptel/)
 
+
 ### WTEG Collaborators
 
-<!-- {% assign number_printed = 0 %}
-{% assign fixed_image_height = 20 %} <!-- Set your desired fixed height -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap; gap: 25px; width: 100%;">
 
-<!-- {% for pic in site.data.pics_uasat_collaborators %}
-
-{% assign even_odd = number_printed | modulo: 5 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-{{ even_odd == 3 ? 4 : 3 }} clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/uasat/{{ pic.image }}" class="img-responsive" width="95%" height="{{ fixed_image_height }}" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 3 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% if number_printed > 0 %}
-</div>
-{% endif %} -->
-
-{% assign number_printed = 0 %}
 {% for pic in site.data.pics_uasat_collaborators %}
-
-{% assign even_odd = number_printed | modulo: 3 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/uasat/{{ pic.image }}" class="img-responsive" width="85%" style="float: left" />
+<div style="flex: 1; display: flex; align-items: center; justify-content: center; min-width: 0; height: 140px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/uasat/{{ pic.image }}"
+       alt="WTEG Collaborator"
+       style="max-width: 100%; max-height: 110px; width: auto; height: auto; object-fit: contain;" />
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 1 %}
-</div>
-{% endif %}
-
-
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
 
 
 ### Events organised by RRC so far as part of UASAT Project
