@@ -142,21 +142,10 @@ The sixth Master Trainer Program (MTP) was conducted under the Technology Specif
 
 IIIT Hyderabad organized the fifth Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies", with a focus on Computer Vision and Motion Planning for UAVs, from 27th October 2025 to 31st October 2025 at Saranga Hall, 119, Nilgiri Building, IIITH Campus. The five-day program included theory and practical sessions on Computer Vision, Sensor-based UAV Navigation, Motion Planning and Control. Practical sessions were conducted using cameras, LiDAR, IMU and other sensors used in UAVs. A total of 20 participants attended the program.
 
+
 **Fourth Master Trainer Program – 3rd – 7th March 2025.**
 
-The fourth Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies", with a focus on Learning, Vision and Motion Planning, was conducted from 3rd to 7th March 2025 at Saranga Hall 119, Nilgiri Building, IIIT Hyderabad Campus.
-
-The five-day program covered foundations of computer vision, scientific machine learning, statistical issues in AI/ML, reinforcement learning, motion planning and applications to UAS. Tutorial sessions covered the implementation aspects of the different methods.
-
-The topics covered included:
-- Robot Motion Planning
-- Image Processing and Computer Vision
-- Basics and advanced topics in Reinforcement Learning
-- Scientific Machine Learning
-- Non-parametric statistics for AI/ML
-- Adaptive control for robots and drones
-- MAVLink – Drone Communication Protocol
-- Tutorial sessions on implementation and applications
+The Fourth Master Trainer Program (MTP) for the Technology Specific Work Theme "Allied UAS Technologies", with a focus on Learning, Vision and Motion Planning, was conducted from 3rd to 7th March 2025 at Saranga Hall 119, Nilgiri Building, IIIT Hyderabad Campus. The five-day program covered foundations of computer vision, scientific machine learning, statistical issues in AI/ML, reinforcement learning, motion planning and applications to UAS. Tutorial sessions covered the implementation aspects of the different methods. The topics covered included Robot Motion Planning, Image Processing and Computer Vision, basic and advanced topics in Reinforcement Learning, Scientific Machine Learning, Non-parametric Statistics for AI/ML, Adaptive Control for Robots and Drones, MAVLink – Drone Communication Protocol, and tutorial sessions focusing on implementation and applications.A total of 22 participants attended the program.
 
 **Third Master Trainer Program – 11th – 15th March 2024.**
 
@@ -191,6 +180,8 @@ The speakers included Dr. Anoop Jain (IIT Jodhpur), Prof. K. Madhava Krishna, Dr
 **Second Workshop on Systems and Intelligence for UAV – 18th – 19th December 2024.**
 
 The second workshop on Systems and Intelligence for UAV was conducted on 18th and 19th December 2024 at IIIT Hyderabad, with a focus on Computer Vision and Artificial Intelligence. The workshop explored the integration of computer vision and artificial intelligence in UAV systems and brought together experts and participants from robotics, vision and AI for discussions and hands-on sessions.
+
+The speakers included Dr. Makarand Tapaswi (IIIT Hyderabad), Dr. Ravi Kiran S (IIIT Hyderabad), Prof. K. Madhava Krishna (IIIT Hyderabad), Dr. Nagamanikandan G (IIIT Hyderabad), and Dr. Arun Kumar Singh (University of Tartu).
 
 The key topics covered included:
 - Focused sessions on AI and vision algorithms for UAV applications.
