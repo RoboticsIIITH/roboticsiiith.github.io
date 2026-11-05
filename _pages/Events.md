@@ -191,6 +191,7 @@ permalink: /Events/
 
   <a href="#speakers">Speakers</a>
 
+<!-- Original registration buttons - retain for future MTP use
   <a href="https://forms.gle/JxG7jvoMkjdiLQtj6"
      class="nav-cta">
      Apply Now
@@ -201,7 +202,17 @@ permalink: /Events/
    class="nav-cta nav-payment">
   Registration Pay
 </a>
+-->
+<a href="https://forms.gle/JxG7jvoMkjdiLQtj6"
+   class="nav-cta"
+   style="background-color: #FFE0CC; color: #B85A25;">
+   Apply Now
+</a>
 
+<span class="nav-cta nav-payment"
+      style="background-color: #DCEEDC; color: #387A38; cursor: default;">
+   Registration Closed
+</span>
 
 
   <a href="https://robotics.iiit.ac.in/">
