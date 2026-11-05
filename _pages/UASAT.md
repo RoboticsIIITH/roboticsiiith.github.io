@@ -53,6 +53,14 @@ It aims to meet various deliverables and targets through implementation of vario
 
 To accomplish the objectives under the defined work-themes, a National Ecosystem is being created by 30 Institutions distributed across various states of India in a hub and spoke model with five IISc/IITs/IIITs as Resource Centres (RC), fifteen IITs, NITs and IIITDMs as Participating Institutes (PI-Academic) and ten C-DAC/NIELIT Centres as Participating Institutes (PI-C-DAC/ NIELIT Centres) to conduct various activities under different verticals with IIITDM, Kurnool and C-DAC, Hyderabad as a part of Project Management Unit (PMU)
 
+### NPTEL Course
+
+**Principles of Perception and Planning for Aerial Vehicles**
+
+The NPTEL course covers the principles of perception and motion planning for aerial vehicles, including UAV modelling, camera-based perception, SLAM, and motion planning.
+
+[View NPTEL Course Videos](https://robotics.iiit.ac.in/nptel/)
+
 ### WTEG Collaborators
 
 <!-- {% assign number_printed = 0 %}
